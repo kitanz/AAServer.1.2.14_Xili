@@ -1,0 +1,2 @@
+id,durability_decrement_chance,durability_repair_cost_factor,durability_const,holdable_durability_const,wearable_durability_const,death_durability_loss_ratio,item_stat_const,holdable_stat_const,wearable_stat_const,stat_value_const
+1,0.25,50.0,5.0,26.0,100.0,5,350,10,90,110

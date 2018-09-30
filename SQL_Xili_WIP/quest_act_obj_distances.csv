@@ -1,0 +1,6 @@
+id,within,npc_id,distance,highlight_doodad_id,use_alias,quest_act_obj_alias_id
+7,t,0,5000,0,f,
+10,t,4766,5000,0,f,
+15,t,1,5000,0,f,
+16,t,0,5000,0,f,
+18,t,3282,10000,,f,

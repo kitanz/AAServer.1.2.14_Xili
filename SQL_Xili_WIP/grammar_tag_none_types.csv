@@ -1,0 +1,7 @@
+id,macrotag,locale
+1,@YEAR,년
+2,@MONTH,월
+3,@DAY,일
+4,@HOUR,시
+5,@MINUTE,분
+6,@SECOND,초

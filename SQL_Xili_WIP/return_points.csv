@@ -1,0 +1,501 @@
+id,editor_name,name,quest_category_id
+1,Gweonid_HarpaCamp,하르파 수련장,9
+2,Gweonid_SiteOfMemory,기억의 터,9
+3,gweonid_laketown,호숫가 마을,9
+4,mari_westinn,마리아노플 서쪽 여관,10
+5,mari_goldvill,황금 실타래 마을,10
+6,mari_square,마리아노플,10
+7,gp_bd_roystercamp,로이스터 야영지,2
+8,gp_bd_sandywindvillage,모래 먼지 마을,2
+9,gp_bd_roadsend,로즈엔드 초소,2
+10,apen,가랑돌 평원 아펜디엘의 거처,2
+11,mari_southinn,마리아노플 남쪽 여관,10
+13,BirchVillage,자작나무 마을,6
+14,WhiteGuardian,수호자의 부락,6
+15,Baragi,바라기 마을,4
+16,watcher,파수 마을,4
+17,Crescent_Throne,초승달 왕좌,4
+18,milkyriver,우윳빛강 마을,4
+21,reindeerdwarf,순록드워프 야영지,20
+22,Andelph,안델프,20
+23,Goldeneaglepeakvil,검독수리마루 마을,20
+26,CaerNord,카어 노르드,35
+27,Rubyminevill,루비 광산촌,35
+28,sing_soldier,징병소,16
+29,sing_alcohol,술향기 마을,16
+30,Liania,리아니아 근처,13
+31,QuestYnis,이니스섬으로 포탈이동,4
+32,mainQ_garangdol,"아탈란시아, 지금 만나러 갑니다",2
+33,Protectorguardcamp,불탄성 감시 야영지,13
+34,seachildharbor,시차일드 부두,13
+36,maha_watchhouse,밀렵 감시 초소,17
+37,maha_CityOfTower,탑의 도시,17
+38,maha_explorer,여행자의 쉼터,17
+39,sunrise_q762,천주머니를 주울 장소,14
+41,mari_skilldown,수련의탑하층부,10
+42,mari_skillup,수련의탑상층부,10
+43,sunrise_tour,여행자의 샘,14
+44,sunrise_ostera,오스테라,14
+45,sunrise_sun,햇무리 마을,14
+47,mari_prisonin,마리아노플 감옥내부,10
+48,mari_prisonout,마리아노플 출소장소,10
+50,tc_bd_ezna,이즈나,15
+51,tc_bd_moonvillage,그믐녘 마을,15
+52,tc_bd_arena,검투 경기장,15
+53,gstar_defense,수로 탈출,1
+54,gstar_offense,공성측다리에서이동,1
+55,gstar_ddock,수성 항구,1
+56,gstar_odock,공성 항구,1
+57,gstar_dspawn,수성 시작,1
+58,gstar_ospawn,공성 시작,1
+60,birdtransform,새변신,4
+61,lilyuthill_lumbermill,릴리엇 구릉지 제재소,24
+63,tiger_q1106,나라야나 소풍나온 곳,21
+65,tiger_iron,쇠모루 마을,21
+66,tiger_eye,호랑이 눈,21
+67,tiger_nara,할하파로 가는 길은 어디에,21
+68,Andelp_jailmiddle,안델프_경비초소유치장안 ,20
+69,Andelp_smallgolden,작은 금의 현인 볼프렐 앞,20
+70,lilyuthill_windvillage,바람그늘 마을,24
+71,Lilyuthill_Lonbancastle,바위언덕 마을,24
+72,Gweonid_SilenceCamp,파수꾼 야영지,9
+73,falconrock,큰 매바위로,22
+74,windchaser,바람자취 부락,22
+75,ashenmist,잿빛안개 부락,22
+76,gaondal,가온달 부락,22
+77,whitecloud,흰구름결 부락,22
+78,oxyon,옥시언 상단,22
+79,lilyuthill_brook,가리여울 마을,24
+80,portal_birchvill,포탈 : 하얀 숲 자작나무 마을,6
+81,portal_sandwindvill,포탈 : 가랑돌 평원 모래먼지 마을,2
+82,garangdol_silententer,가랑돌 평원 침묵의 거상 입구,2
+85,portal_whiteguard,포탈 : 하얀 숲 수호자의 부락,6
+86,grave_wf_wfsouth,무덤 : 하얀 숲 - 하얀 숲 남부,6
+87,grave_wf_guard,무덤 : 하얀 숲 - 수호자의 부락,6
+88,grave_wf_birch,무덤 : 하얀 숲 - 자작나무 마을,6
+89,grave_wf_cross,무덤 : 하얀 숲 - 분열된 십자로,6
+90,grave_wf_farewell,무덤 : 하얀 숲 - 송별의 뜰,6
+91,grave_tiger_1,불꽃 매 협곡 무덤,21
+92,grave_tiger_iron,철광산 무덤,21
+93,grave_tiger_spider,거미 숲 무덤,21
+94,grave_tiger_nara,물 안개 숲 무덤,21
+95,grave_tiger_yata,야타 방목장 무덤,21
+96,grave_maha_watchhouse,마하데비 밀렵 감시 초소 옆 무덤,17
+97,grave_maha_towercity,마하데비 탑의 도시 무덤,17
+98,grave_maha_kilimantan,마하데비 킬리만탄 고무나무 조림지 근교 무덤,17
+99,widowrapids,미망인의 여울목,6
+100,grave_maha_secretport,마하데비 마하데비 항구 근교 무덤,17
+101,gp_gv_entrance,가랑돌 평원 경계 / 로이스터 야영지 /무덤,2
+102,Gwe_wind_G,그위오니드 바람의폐허 / 무덤,9
+103,Gwe_Silence_G,그위오니드 침묵하는 숲 / 무덤,9
+104,Gwe_bigtree_G,그위오니드 숲의인도자 / 무덤,9
+105,Gwe_Laketown_G,그위오니드 호숫가마을 / 무덤,9
+106,gp_gv_northcuttingwind,가랑돌 북부 칼바람 평원 / 무덤,2
+107,Gwe_vines_G,그위오니드 가시덩굴 숲 / 무덤,9
+109,grave_mari_golden,황금 실타래 벌판 무덤,10
+110,grave_mari_farm,마리아노플 농장 무덤,10
+111,grave_mari_osca,오스카 극단 무덤,10
+112,grave_mari_city,도시 마리아노플 무덤,10
+113,Gwe_Memory_G,그위오니드 기억의 터 / 무덤,9
+115,mahadevi_deportation,마하데비 검문소,17
+116,rnd,바슈디의 야영지 - 연구자,14
+117,steamysauna,연기나는 해안,14
+118,gv_solz_baragi,바라기 마을 무덤,4
+119,gv_solz_bluemist,푸른안개 숲 무덤,4
+120,gv_solz_sunkenbay,가라앉은만 무덤,4
+121,gv_solz_watcher,파수 마을 무덤,4
+122,gv_solz_crescent,초승달 왕좌 무덤,4
+123,gv_solz_whitemoon,백월만 무덤,4
+124,gv_solz_milkyvil,우윳빛강 마을 무덤,4
+125,gv_solz_punish,일벌백계의 폐허 무덤,4
+126,gv_falc_snowlion,눈사자 훈련소 무덤,22
+127,gv_falc_borncliff,탄생의 절벽 무덤,22
+128,gv_falc_hawkrock,큰매바위 무덤,22
+129,gv_falc_ashenmist,잿빛안개 부락 무덤,22
+130,gv_falc_oxyon,옥시언 상단 무덤,22
+131,gv_falc_hawktalon,매발톱 기슭 무덤,22
+133,gv_falc_whitecloud,흰구름결 부락 무덤,22
+134,gv_falc_biamnest,바이암 소굴 무덤,22
+135,animalrnd,고릴라 연구소,14
+136,lilyuthill_windvillage_G,릴리엇 구릉지 바람그늘마을 / 무덤,24
+137,Lilyuthill_Cracked Plains_G,릴리엇 구릉지 갈라진대지 / 무덤,24
+138,lilyuthill_brook_G,릴리엇 구릉지 가리여울마을 / 무덤,24
+139,lilyuthill_Troksk_G,릴리엇 구릉지 동론반광산 / 무덤,24
+140,lilyuthill_Troksk_WG,릴리엇 구릉지 서론반광산 / 무덤,24
+141,Gwe_Harpa_G,그위오니드 하르파야영지 / 무덤,9
+142,grave_mari_other,마리아노플 타세력,10
+145,grave_br_andelph,무덤 : 청동바위산 - 안델프,20
+146,grave_mari_city_other,마리아노플 도시 타세력,10
+150,sunrise_crossroad,동틀녘 반도 십자로,14
+151,sunrise_rocky,동틀녘 반도 햇무리 언덕,14
+152,sunrise_ostera_outside,동틀녘 반도 오스테라 외곽,14
+153,grave_farm,마하데비 약초농장 무덤,17
+155,grave_wf_ferry,무덤 : 하얀 숲 나루터,6
+156,gv_solz_ynis,이니스 섬 부활,4
+157,BareFeet,맨발고개 역,20
+158,showerystar,별똥비 마을,20
+159,grave_br_showerystar,무덤 : 별똥비 마을,20
+160,grave_br_andelph,무덤 : 안델프,20
+161,grave_br_GoldenEagle,무덤 : 검독수리 마루 마을,20
+162,grave_br_BareFeet,무덤 : 맨발고개 역,20
+163,grave_br_Reindeer,무덤 : 순록드워프 야영지,20
+164,sing_lute,비파 항구,16
+165,Forest_Defender_Vill,숲의 수호자 부락,26
+166,Forest_Hunter,사냥꾼 마을,26
+167,Forest_Defender_Camp,수호자 야영지,26
+168,grave_yn_caer_w,서부 이니스테르 카어 노르드,35
+169,grave_yn_mine,무덤 : 이니스테르 광산촌,35
+170,grave_yn_mirage,무덤 : 이니스테르 신기루 언덕,35
+171,grave_yn_dearest,무덤 : 이니스테르 염원의 강,35
+172,grave_yn_dolmen,무덤 : 이니스테르 고인돌 평야,35
+173,grave_yn_repose,무덤 : 이니스테르 진혼 곷,35
+175,sunrise_town,해오름 마을,33
+176,sunset_town,해질녘 마을,33
+177,gv_golden_whiteheavings,흰너울 해변 무덤,33
+178,gv_golden_eaternplain,동부 황금 평야 무덤,33
+179,gv_golden_westernplain,서부 황금 평야 무덤,33
+180,gv_golden_plainofwarrior,용사의 벌판 무덤,33
+184,gv_cross_watcher,성지기 언덕 무덤,13
+186,gv_cross_escapees,도망자들의 길 무덤,13
+187,gv_cross_fullmoon,보름 분화구 무덤,13
+188,gv_cross_seabreeze,동부 갯바람 해안 무덤,13
+190,gv_cross_burntcastle,불탄성 무덤,13
+191,gv_sing_city,비파 항구 무덤,16
+192,gv_sing_farm,자운의 농장 무덤,16
+193,gv_sing_lutehill,비파노래 언덕 무덤,16
+194,gv_sing_alcohol,술취한 논 무덤,16
+195,gv_sing_snake,뱀밭 무덤,16
+196,gv_sing_tear,눈물 젖은 언덕 무덤,16
+197,gv_sing_bay,횃불만 무덤,16
+198,gv_sing_meet,재회의 사당 무덤,16
+199,gv_sing_city_h,비파 항구 무덤(적대세력),16
+200,gv_sing_h,노래의 땅 무덤(적대세력),16
+201,grave_forest_defen_vill,수호자의 숲 부락 근교 무덤,26
+202,grave_forest_rest,안식의 숲 끝자락 무덤,26
+203,grave_forest_defend_camp,수호자 야영지 근교 무덤,26
+205,Forest_Returned_Camp,리턴드 결사단 야영지,26
+206,Forest_Noble_Rest,세바스티안 백작의 휴양지,26
+207,rain_hatora,하토라,23
+208,rain_rest,마른 볕 쉼터,23
+209,rain_puddle,정화의 웅덩이,23
+210,rain_sleeve,너른 소매 마을,23
+211,rain_fortune,핫산의 야영지,23
+212,gv_rain_first,첫번째 무덤,23
+213,gv_rain_mine,화강암 채석장 무덤,23
+214,gv_rain_ant,인적없는 모래 언덕 무덤,23
+215,gv_rain_cart,마른 들판 무덤,23
+216,gv_rain_puddle,정화의 웅덩이 무덤,23
+217,gv_rain_snake,뱀의 틈 무덤,23
+218,gv_rain_rion,마른 길목 무덤,23
+219,gv_rain_biarm,뱀눈 바이암 소굴 무덤,23
+220,gv_rain187_h,무지개 벌판 적대 세력 무덤,23
+221,rain_snake_escape,뱀의 틈 탈출,23
+222,gv_rain189_h,무지개 벌판 적대 세력 무덤,23
+229,portal_falc_borncliff,포탈 : 탄생의 절벽 퀘스트 포탈1,22
+231,portal_falc_borncliff2,포탈 : 탄생의 절벽 퀘스트 포탈2,22
+232,portal_falc_borncliff3,포탈 : 탄생의 절벽 퀘스트 포탈3,22
+237,sunrise_neutral,동틀녘중립 부활지,14
+239,start_br,청동바위산 시작지점,20
+240,rain_system,하리하란 출발지,23
+241,start_fp,페레 출발지,22
+243,system_nuian_start,누이안 출발지,4
+244,Gwe_bigtree,숲의 인도자,9
+245,Gwe_start,엘프 출발지,9
+246,Gwe_start_G,하르파 수련장,9
+247,nuian_start_grave,누이안 출발지,4
+248,tc_gv_dustyhill,흙먼지 구릉 무덤,15
+249,tc_gv_comfortwoods,안식의 숲 부활,15
+250,tc_gv_colorfulfield,오색 들판 부활,15
+251,tc_gv_warwounds,악마전쟁의 흉터 앞뜰 부활,15
+252,tc_gv_warwounds_back,악마전쟁의 흉터 뒷뜰 부활,15
+253,gv_solz_east,솔즈리드에동쪽애들무덤_가라앉은만구석,4
+254,maha_queen_farm,약초 농장 마을,17
+255,maha_secret_port,마하데비 항구,17
+257,gv_solz_near_whitemoon,백월만 피묻은손 침략지 근교,4
+259,gp_gv_colossusentrance,가랑돌침묵의거상입구무덤,2
+260,tc_bd_willius,보름 거주지,15
+261,tc_gv_underbridge,이즈나 외곽 다리밑,15
+262,sunrise_prisonout,징벌의 섬 감옥 출소장소,14
+263,freedom_badguys,자유도/무법자무덤,72
+264,freedom_nuia,자유도/누이아무덤,72
+265,freedom_hari,자유도/하리하라무덤,72
+266,treasure_box,자유도/보물상자 포탈,72
+267,gp_gv_sanddustvillage,모래 먼지 마을 부활 지점,2
+268,gwe_soul_g,그위오니드숲_영혼의안식처 무덤,9
+269,lilyuthill_crossroad_g,릴리엇 구릉지 릴리엇갈림길/자야상단 앞 /무덤,24
+270,gv_sal_west,살피마리 서부 종족 무덤,74
+271,gv_sal_east,살피마리 동부 종족 무덤,74
+272,gv_nui_west,누이마리 서부 종족 무덤,73
+273,gv_nui_east,누이마리 동부 종족 무덤,73
+274,sunrise_queenshill,여왕의언덕 무덤,14
+275,gv_sal_pirate,살피마리 해적 무덤,74
+276,gv_nui_pirate,누이마리 해적 무덤,73
+277,howling_island,으르렁거리는 섬,72
+278,grave_howling_island,으르렁 거리는 섬 해적 부활,72
+279,grave_howling_other,해적섬 타팩션 부활,72
+280,tc_gv_neutral,무덤: 두 왕관 중립,15
+282,gv_sing_pirate,노래의 땅 해적 무덤,16
+283,lilyuthill_pirate_g,릴리엇 구릉지  /무법자/ 해적/ 바람초원 무덤 ,24
+284,grave_wf_neutral,무덤 : 하얀 숲 - 동부 종족 무덤,6
+285,gwe_pirate_g,그위오니드 /무법자/해적/가시덩굴 숲 / 무덤,9
+286,garandol_pirate_g,가랑돌 /무법자/해적/ 무덤,2
+287,grave_wf_pirate,무덤 : 하얀 숲 - 해적 무덤,6
+288,garandol_hariharafaction_g,가랑돌 / 하리하라 세력 / 무덤,2
+289,gwe_hariharafaction_g,그위오니드 /하리하라 세력 / 부활,9
+290,gv_rain_pirate,무지개 벌판 해적 무덤,23
+291,gv_tiger_h,호랑이 등뼈 산맥 적대 세력 무덤,21
+292,gv_tiger_pirate,호랑이 등뼈 산맥 해적 무덤,21
+293,gv_mari_pirate,마리아노플 해적 무덤,10
+294,lilyuthill_harihara_g,릴리엇 구릉지 / 하리하라 세력 / 무덤,24
+295,grave_forest_pirate,고대의숲 해적 부활지,26
+296,grave_forest_for_west,고대의숲 서진영 부활지,26
+297,grave_solzreed_for_pirate,솔즈리드 해적 무덤,4
+298,grave_maha_for_pirate,마하데비 해적 무덤,17
+299,grave_maha_for_western,마하데비 서쪽 진영 무덤,17
+300,fs_neutral,매사냥 고원 중립 부활,22
+301,fs_pirate,매사냥 해적 무덤,22
+302,sunrise_pirate,동틀녘 해적 부활,14
+303,tc_gv_pirate,두 왕관 해적 부활,15
+304,portal_yn_elisabeth,포탈: 장미장원 은신처,35
+305,Disciplinantvill,수행자의 마을,35
+306,portal_yn_towerup,포탈 : 피묻은 손 탑 위,35
+307,portal_yn_towerdn,포탈 : 피묻은 손 탑 아래,35
+308,gv_seo_east,서녁마리 동부 종족 무덤,75
+309,gv_seo_west,서녁마리 서부 종족 무덤,75
+310,gv_seo_pirate,서녁마리 해적 무덤,75
+311,gv_rest_east,안식의 땅 동부 종족 무덤,76
+312,gv_rest_west,안식의 땅 서부 종족 무덤,76
+313,gv_rest_pirate,안식의 땅 해적 무덤,76
+314,sp_gv_forbiddenbeach,무덤: 금지된 해안,14
+315,grave_yn_pirate,무덤 : 이니스테르 버려진 해적섬,35
+316,portal_yn_hadir,포탈 : 하디르의 농장 위 언덕,63
+317,gv_lostisland,길 잃은 바다: 파도가 부서지는 바위섬 무덤,71
+318,golden_gv_pirate,황금평원 해적 무덤,33
+319,gv_yn_pirate,무덤 : 이니스테르 해적 무덤,35
+320,grave_instance_armory,무덤 : 인던_불탄성무기고,56
+321,grave_ls_golden,무덤 : 황금 혀 항구,36
+322,grave_ls_dry,무덤 : 푸른 모래톱 휴양지,36
+323,grave_ls_green,무덤 : 녹색 늑대 마을,36
+324,ls_greenwolf,녹색 늑대 마을,36
+325,ls_drycamp,푸른 모래톱 휴양지,36
+326,ls_goldentongue,황금 혀 항구,36
+327,grave_ls_pirate,무덤 : 긴 모래톱 해적,36
+328,hell_lawless,무법 마을,54
+329,hell_elf,수호의 야영지,54
+330,hell_triste,트리스테 극단 야영지,54
+331,gv_hell_valley,악명의 골짜기 무덤,54
+333,gv_hell_curse,저주받은 습지 무덤,54
+335,gv_hell_morass,무자비한 수렁 무덤,54
+336,gv_hell_golden,황금바다 해적단 은신처 무덤,54
+337,gv_hell_pagan,고대 신앙자의 성 무덤,54
+338,gv_hell_pirate,지옥 늪지대 해적 무덤,54
+339,sb_gv_moringa,모링가 나무숲 부활지,53
+340,gv_sb_papirus,갈대 숲 부활지,53
+341,gv_sb_bobab,바오밥 나무 길 부활지,53
+342,gv_maha_brew,마하데비 양조장,17
+343,gv_maha_traveler_rest,여행자의 쉼터,17
+345,gv_maha_mine,마하데비 여왕의 채석장,17
+346,gv_sb_baramdol,바람돌 유적 부활지,53
+347,gv_sb_heartofsteppe,초원의 심장 부활지,53
+348,rp_sb_snowlioncamp,눈사자 바위 야영지,53
+349,sb_rp_redclaw,붉은발톱 부락,53
+351,sb_rp_firebreath,불숨결 부락,53
+352,sb_rp_bluefang,푸른송곳니 부락,53
+353,portal_falc_borncliff_4,포탈 :탄생의 절벽 퀘스트 포탈4,22
+354,portal_falc_borncliff_5,포탈 : 탄생의 절벽 퀘스트 포탈 5,22
+356,has_hageydan,하늘정원 마을,59
+359,has_temeburoke,테미캣 부락,59
+364,gv_has_beechy,비취계곡 무덤,59
+365,gv_has_temegusurk,하슬라 해적 무덤,59
+367,loka_gv_twilight,서부 로카_황혼,52
+368,loka_gv_water,무덤: 로카_물안개,52
+369,loka_gv_solong,무덤: 로카_솔롱고스,52
+370,loka_gv_hermit,무덤: 로카_은거자,52
+371,loka_gv_lion,무덤: 로카_눈사자,52
+372,sd_hmq_h,뱀의 틈 추락,23
+375,gv_sb_pirate2,초원의 띠 해적 부활지 2,53
+376,gv_sb_sunshadow,해그림자 화합터,53
+377,loka_rt_twilight,황혼 노을 부락,52
+378,loka_rt_hermit,은거자의 마을,52
+379,loka_rt_water,물안개 마을,52
+380,loka_rt_ferre,페레 정찰대 야영지,52
+381,loka_rt_solong,솔롱고스 야영지,52
+386,portal_hadir_boss3,포탈 : 인던 하디르의 농장 마지막 보스전 장소,63
+387,ruins_hari_stonemason,석공 마을,60
+389,ferre_lute,메인퀘스트_노래의_땅,16
+390,ruins_hari_drakforestvillage,고고학자 마을,60
+391,ruins_hari_herbalistcamp,약초꾼의 야영지,60
+392,gv_ruins_hari_herbalistcamp,서부 하리하랄라야의 폐허 옛처형터 무덤,60
+393,gv_ruins_hari_garuda,가루다 서식지 무덤,60
+394,gv_ruins_hari_ruinshari,하리하랄라야의 폐허 무덤,60
+395,gv_ruins_hari_cityofruins,하리하랄라야의 폐허 폐허도시 무덤,60
+396,gv_ruins_hari_darkforest,검은나무 장벽 무덤,60
+397,gv_ruins_hari_pirate,하리하랄라야의 폐허 무법자 무덤,60
+398,loka_gv_pirate,로카 해적 부활지역,52
+399,loka_rt_king,왕의기둥으로,52
+400,golden_fly_point,포탈 : 비행선 연구소 왼편 언덕,33
+401,gv_cross_pirate,십자별 해적 부활지,13
+402,portal_yny_golden,황금 평원 공간의 틈,33
+403,portal_golden_yny,이니스테르 공간의 틈,35
+404,portal_long_loka,로카의 장기말들 공간의 틈,52
+405,portal_loka_long,긴 모래톱 공간의 틈,36
+406,nuianending,누이안 엔딩,14
+407,anci_gv_endroad,고대의 숲 이니스테르 가는길,26
+408,portal_falc_borncliff_6,포탈 : 탄생의 절벽 퀘스트 포탈 6,22
+411,nuianending_1,누이안 시마이,73
+412,gwe_duel_g,그위오니드 숲 결투장 무덤,9
+413,sunrise_gamsi,동틀녘 감시초소,14
+415,gp_gv_rockymountain,가랑돌평원 / 드워프 야영지 무덤,2
+417,golden_west_1,농가,33
+418,golden_puoing,양조장,33
+419,carcass_w_gv_dry_reservoir,말라붙은 저수지 누이아 부활,68
+420,carcass_w_gv_dragon_chest,용 가슴뼈 누이아 부활,68
+421,carcass_w_gv_dragon_heart,용의 심장 누이아 부활,68
+422,carcass_w_gv_thuder_fortress,천둥소리 요새 누이아 부활,68
+423,carcass_w_gv_red_cliff,붉은 대지 누이아 부활,68
+424,carcass_w_gv_dragon_tail,용 꼬리뼈 누이아 부활,68
+425,carcass_w_gv_dragon_head,용 머리뼈 누이아 부활,68
+426,carcass_w_gv_glass_coast,유리 해안 누이아 부활,68
+427,carcass_e_gv_dry_reservoir,말라붙은 저수지 하리하라 부활,68
+428,carcass_e_gv_dragon_chest,용 가슴뼈 하리하라 부활,68
+429,carcass_e_gv_dragon_heart,용의 심장 하리하라 부활,68
+430,carcass_e_gv_thuder_fortress,천둥소리 요새 하리하라 부활,68
+431,carcass_e_gv_red_cliff,붉은 대지 하리하라 부활,68
+432,carcass_e_gv_dragon_tail,용 꼬리뼈 하리하라 부활,68
+433,carcass_e_gv_dragon_head,용 머리뼈 하리하라 부활,68
+434,carcass_e_gv_glass_coast,유리 해안 하리하라 부활,68
+435,gv_cross_watcher_e,동부 성지기 언덕 무덤,13
+436,gv_cross_escapees_e,동부 도망자들의 길 무덤,13
+437,gv_cross_fullmoon_e,동부 보름 분화구 무덤,13
+438,gv_cross_seabreeze_e,서부 갯바람 해안 무덤,13
+440,gv_cross_burntcastle_e,동부 불탄성 무덤,13
+441,gv_golden_whiteheavings_e,흰너울 해변 무덤 동부,33
+442,gv_golden_eaternplain_e,동부 황금 평야 무덤 동부,33
+443,gv_golden_westernplain_e,서부 황금 평야 무덤 동부,33
+444,gv_golden_plainofwarrior_e,용사의 벌판 무덤 동부,33
+445,grave_ls_golden_e,무덤 : 황금 혀 항구 동부,36
+446,grave_ls_dry_e,무덤 : 푸른 모래톱 휴양지 동부,36
+447,grave_ls_green_e,무덤 : 녹색 늑대 마을 동부,36
+448,gv_hell_valley_e,동부 악명의 골짜기 무덤,54
+450,gv_hell_curse_e,동부 저주받은 습지 무덤,54
+452,gv_hell_morass_e,동부 무자비한 수렁 무덤,54
+453,gv_hell_golden_e,동부 황금바다 해적단 은신처 무덤,54
+454,gv_hell_pagan_e,동부 고대 신앙자의 성 무덤,54
+456,grave_yn_caer,동부 이니스테르 카어 노르드,35
+457,grave_yn_mine_w,무덤 : 이니스테르 광산촌 서부,35
+458,grave_yn_mirage_w,무덤 : 이니스테르 신기루 언덕 서부,35
+459,grave_yn_dearest_w,무덤 : 이니스테르 염원의 강 서부,35
+460,grave_yn_dolmen_w,무덤 : 이니스테르 고인돌 평야 서부,35
+461,grave_yn_repose_w,무덤 : 이니스테르 진혼 곷 서부,35
+462,grave_yn_pirate_w,무덤 : 이니스테르 버려진 해적섬 서부,35
+463,loka_gv_twilight_w,동부 로카_황혼,52
+464,loka_gv_water_w,무덤: 로카_물안개 서부,52
+465,loka_gv_solong_w,무덤: 로카_솔롱고스 서부,52
+466,loka_gv_hermit_w,무덤: 로카_은거자 서부,52
+467,loka_gv_lion_w,무덤: 로카_눈사자 서부,52
+468,sb_gv_moringa_w,모링가 나무숲 부활지 서부,53
+469,gv_sb_papirus_w,갈대 숲 부활지 서부,53
+470,gv_sb_bobab_w,바오밥 나무 길 부활지 서부,53
+471,gv_sb_baramdol_w,바람돌 유적 부활지 서부,53
+472,gv_sb_heartofsteppe_w,초원의 심장 부활지 서부,53
+473,gv_ruins_hari_herbalistcamp_w,동부 하리하랄라야의 폐허 옛처형터 무덤,60
+474,gv_ruins_hari_garuda_w,가루다 서식지 무덤 서부,60
+475,gv_ruins_hari_ruinshari_w,하리하랄라야의 폐허 무덤 서부,60
+476,gv_ruins_hari_cityofruins_w,하리하랄라야의 폐허 폐허도시 무덤 서부,60
+477,gv_ruins_hari_darkforest_w,검은나무 장벽 무덤 서부,60
+478,gv_sb_sunshadow_w,해그림자 화합터 부활지 서부,53
+481,gv_cross_fullmoon_smoll,작은 보름 분화구 무덤 ,13
+482,gv_cross_fullmoon_smoll_e,동부 작은 보름 분화구 무덤 ,13
+483,grave_wf_east,무덤 : 하얀 숲 동부,6
+484,portal_instance_howling_abyss,울부짖는 구렁텅이 2보스 귀환 장소,78
+487,portal_cuttingwind_entrance,포탈 : 가랑돌 칼바람폐광 입구,77
+488,sprigun_room,미치광이의 침실로 통하는 공간이동의 문,80
+490,gv_has_yoing,숨은 용의 협곡 무덤,59
+491,gv_has_yoing_w,숨의 용의 협곡 무덤 서부,59
+492,gv_has_hajongma_w,하늘계단 농경지 무덤 서부,59
+493,gv_has_hajongma,하늘계단 농경지 무덤,59
+494,gv_has_jerju,저주받을마을 무덤,59
+495,gv_has_jerju_w,저주받은 마을 무덤 서부,59
+496,gv_teme,테미의 흔적 무덤,59
+497,gv_teme_w,테미의 흔적 무덤 서부,59
+498,gv_has_beechy_w,비취 계곡 서부 무덤,59
+499,gv_has_beylooey,베로에 무덤,59
+500,gv_has_beylooey_w,베로에 서부 무덤,59
+501,gv_has_beechymaule_w,비취 마을 사냥터쪽 서부 무덤,59
+502,gv_has_beechymaule,비취마을 사냥터쪽 무덤,59
+503,carcass_rt_dried_camp,말라붙은 저수지 야영지,68
+504,carcass_rt_barren_island,메마른 섬,68
+505,carcass_rt_iona_village,아이오나 마을,68
+506,carcass_rt_bluespartoi_camp,갈색비늘 에키혼,68
+507,carcass_rt_lavis_vill,라비스 마을,68
+508,carcass_rt_bonefence,뼈 울타리 야영지,68
+509,carcass_rt_red_camp,붉은 흙 야영지,68
+510,carcass_rt_bonepuddle,뼈 웅덩이 야영지,68
+511,has_beechy,비취 마을,59
+512,has_beloo,베로에,59
+513,carcass_hasla,뼈의 땅에서 하슬라로,59
+514,hasla_carcass,하슬라에서 뼈의땅으로,68
+516,carcass_gv_pirate,뼈의 땅 해적 무덤,68
+518,o_bd_restland,안식의 땅,76
+520,solz_pumpkin,솔즈리드 반도 호박 텃밭,4
+521,maha_pumpkin,마하데비 호박 텃밭,17
+522,rainbow_pumpkin,무지개벌판 호박 텃밭,23
+523,gwe_pumpkin,그위오니드 숲 호박 텃밭,9
+524,portal_nachashgar_02,나차쉬가르 포탈 2,86
+525,portal_howling_abyss_2,영던_울구 2보스 귀환 장소,89
+526,portal_nachashgar_03,나차쉬가르 포탈 3,86
+527,portal_nachashgar_04,나차쉬가르 포탈 4,86
+528,portal_nachashgar_05,나차쉬가르 포탈 5,86
+529,portal_nachashgar_06,나차쉬가르 포탈 6,86
+530,portal_nachashgar_07,나차쉬가르 포탈 7,86
+531,portal_nachashgar_08,나차쉬가르 포탈 8,86
+532,portal_nachashgar_09,나차쉬가르 포탈 09,86
+533,eternity_isle_outportal,영원의 섬 : 귀환문,72
+534,gv_o_sunlight_pirate,무덤 : 태양의 들녘 해적,91
+535,gv_o_sunlight_east,무덤 : 태양의 들녘 동부,91
+536,gv_o_sunlight_west,무덤 : 태양의 들녘 서부,91
+537,o_gv_abyss_p,심연의 입구 해적 부활 지점,92
+538,o_gv_abyss_h,심연의 입구 하리하라 부활 지점,92
+539,o_gv_abyss_n,심연의 입구 누이아 부활 지점,92
+540,freeisland_rt_nuia,자유도 근해 누이아 귀환지,72
+541,freeisland_rt_harihara,자유도 근해 하리하라 귀환지,72
+542,freeisland_rt_pirate,자유도 근해 해적 귀환지,72
+543,freeisland_gv_nuia,자유도 근해 누이아 부활지,72
+544,freeisland_gv_harihara,자유도 근해 하리하라 부활지,72
+545,freeisland_gv_pirate,자유도 근해 해적 부활지,72
+546,portal_nachashgar_back_01,나차쉬가르 포탈 back_01,86
+547,portal_nachashgar_back_02,나차쉬가르 포탈 back_02,86
+548,portal_nachashgar_back_03,나차쉬가르 포탈 back_03,86
+549,portal_nachashgar_back_04,나차쉬가르 포탈 back_04,86
+550,portal_nachashgar_back_05,나차쉬가르 포탈 back_05,86
+551,portal_nachashgar_back_06,나차쉬가르 포탈 back_06,86
+552,portal_nachashgar_back_07,나차쉬가르 포탈 back_07,86
+553,portal_nachashgar_back_08,나차쉬가르 포탈 back_08,86
+554,has_training,버려진 훈련소,59
+555,portal_immortal_room_1,다후타의 방,95
+556,o_salpi,살피마리,74
+557,o_abyss,심연의 입구,92
+558,nuimari_return,누이마리,73
+559,seonyukmari_return,서녘마리,75
+560,landofsunlight_return,태양의 들녘,91
+561,portal_nachashgar_010,나차쉬가르 포탈 010,86
+562,portal_nachashgar_back_09,나차쉬가르 포탈 back_09,86
+563,solz_novicefarm,솔즈리드 반도 기간제 텃밭,4
+564,gwe_novicefarm,그위오니드 숲 기간제 텃밭,9
+565,fal_novicefarm,매사냥 고원 기간제 텃밭,22
+566,rain_novicefarm,무지개 벌판 기간제 텃밭,23
+567,portal_immortal_easy_room_1,다후타의 방,100
+568,Portal_racing_Start_line,Goto_Racing_Start_line,104
+569,gr_tower_move,갈대무리 타워2단계 포탈,99
+570,gr_rt_east,세개의 깃발 동쪽 광장,99
+571,gr_rt_west,세개의 깃발 서쪽 광장,99
+572,portal_nacha_easy_02,불안정한 나차쉬가르 포탈 2,107
+573,portal_nacha_easy_03,불안정한 나차쉬가르 포탈 3,107
+574,portal_nacha_easy_04,불안정한 나차쉬가르 포탈 4,107
+575,portal_nacha_easy_05,불안정한 나차쉬가르 포탈 5,107
+576,portal_nacha_easy_06,불안정한 나차쉬가르 포탈 6,107
+577,portal_nacha_easy_07,불안정한 나차쉬가르 포탈 7,107
+578,portal_nacha_easy_08,불안정한 나차쉬가르 포탈 8,107
+579,portal_nacha_easy_09,불안정한 나차쉬가르 포탈 9,107
+580,portal_nacha_easy_010,불안정한 나차쉬가르 포탈 10,107
+581,portal_nacha_easy_back_01,불안정한 나차쉬가르 back_01,107

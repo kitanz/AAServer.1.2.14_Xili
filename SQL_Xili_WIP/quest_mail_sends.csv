@@ -1,0 +1,2 @@
+id,name,category_id,quest_mail_id,or_unit_reqs,level,actability_group_id,actability_point,quest_id,component_id,sphere_id
+1,테스트,70,0,f,1,,0,,0,

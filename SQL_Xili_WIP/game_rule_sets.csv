@@ -1,0 +1,9 @@
+id,corps_size,corps1_id,corps2_id,game_type_id,time_opening,time_ending,time_playing,time_respawn_dead_building,victory_score,level_min,killstreak0_id,killstreak1_id,killstreak2_id,killstreak3_id,killstreak4_id,killstreak5_id,killstreak6_id,killstreak7_id,killstreak8_id,killstreak9_id,killstreak10_id,killstreak11_id,killstreak12_id,killstreak13_id,killstreak14_id,killstreak15_id,killstreak16_id,killstreak17_id,killstreak18_id,killstreak19_id,killstreak20_id,killstreak21_id,killstreak22_id,killstreak23_id,bonus_winner,bonus_no_death,bonus_top_enemy_pc_kill,bonus_top_enemy_non_pc_kill,battle_field_id,victory_kill_count,victory_kill_corps1_head,victory_kill_corps2_head,bonus_loser,deathstreak_id,rank_invalid_point,rank_win_point,rank_lose_point,rank_draw_point
+2,5,144,143,1,1,10,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0
+3,5,144,143,1,1,1,15,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0
+8,1,159,160,1,1,1,15,1,5000,1,22331,21538,12593,22526,12630,22335,12400,12613,12618,22527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,10,10,6,50,13353,13352,10,6568,0,5,-3,0
+17,2,159,160,1,4,1,15,2,0,35,22331,21538,12593,22526,12630,22335,12400,12613,12618,22527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,10,10,1,0,13353,13352,10,6568,0,5,-3,0
+22,5,159,160,1,4,1,15,2,0,40,22331,21538,12593,22526,12630,22335,12400,12613,12618,22527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,10,10,7,0,13353,13352,10,0,0,5,-3,0
+24,1,159,160,1,1,1,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,10,10,10,10,0,0,0,0,0,0,0,0,0
+26,3,159,160,1,4,1,15,2,0,40,22331,21538,12593,22526,12630,22335,12400,12613,12618,22527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,10,10,1,0,13353,13352,10,6568,0,5,-3,0
+27,1,159,160,1,4,1,15,2,0,45,22331,21538,12593,22526,12630,22335,12400,12613,12618,22527,0,0,0,0,0,0,0,0,0,0,0,0,0,0,100,0,10,10,1,0,13353,13352,10,6568,0,5,-3,0

@@ -1,0 +1,12 @@
+id,name
+1,weapon
+2,armor
+3,accessory
+4,instrument
+5,costume
+6,consumable
+7,craft
+8,machine
+9,pet
+10,etc.
+11,declare_siege

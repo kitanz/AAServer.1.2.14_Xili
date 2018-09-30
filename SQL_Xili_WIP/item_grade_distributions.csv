@@ -1,0 +1,15 @@
+id,name,weight_0,weight_1,weight_2,weight_3,weight_4,weight_5,weight_6,weight_7,weight_8,weight_9,weight_10,weight_11
+1,cbt5.grade.distribution.test,50,20,15,8,5,2,0,0,0,0,0,0
+2,obt.treasuremap,50,0,20,15,10,5,0,0,0,0,0,0
+3,obt.pirateisland_treasurechest,0,0,70,15,10,5,0,0,0,0,0,0
+4,obt.equipment.01-10,50,20,30,0,0,0,0,0,0,0,0,0
+5,obt.equipment.11-20,50,20,22,8,0,0,0,0,0,0,0,0
+6,obt.equipment.21-31,50,20,17,8,5,0,0,0,0,0,0,0
+7,obt.equipment.32-50,50,20,15,8,5,2,0,0,0,0,0,0
+8,obt.instance_dungeon_equipment,0,0,70,15,10,5,0,0,0,0,0,0
+9,obt.treasurechest_equipment,0,0,70,15,10,5,0,0,0,0,0,0
+10,live.instance_dungeon_equipment_rare,0,0,0,0,95,5,0,0,0,0,0,0
+11,live.originland.armor,0,0,72,24,3,1,0,0,0,0,0,0
+12,live.instance.Nachashgar.normal,0,0,0,55,40,5,0,0,0,0,0,0
+13,live.instance.Nachashgar.treasure,0,0,0,60,35,4,1,0,0,0,0,0
+14,live.instance.aranzebia,0,0,0,75,20,4,1,0,0,0,0,0

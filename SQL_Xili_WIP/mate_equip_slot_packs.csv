@@ -1,0 +1,4 @@
+id,name,head,chest,waist,feet
+1,탑승 소환수,t,f,t,t
+2,전투 소환수,t,t,f,t
+3,애완동물,f,f,f,f

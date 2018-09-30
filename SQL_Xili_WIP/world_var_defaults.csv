@@ -1,0 +1,2 @@
+id,kind_id,variable_name,default_value
+1,9,var_delay_siege_x_days_after_dominion_declare,30

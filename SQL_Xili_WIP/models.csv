@@ -1,0 +1,1400 @@
+id,comment,sub_id,sub_type,dying_time,sound_material_id,big,target_decal_size,use_target_decal,use_target_silhouette,use_target_highlight,name,camera_distance,show_name_tag,name_tag_offset,sound_pack_id,despawn_doodad_on_collision,play_mount_animation
+1,catapult,1,VehicleModel,0.0,7,f,0.0,t,t,f,catapult,12.0,t,0.0,173,f,f
+2,투석기,2,VehicleModel,3.0,7,t,0.0,f,f,f,trebuchet,60.0,t,0.0,174,t,f
+3,palintonos,3,VehicleModel,0.0,7,f,0.0,t,t,f,palintonos,12.0,t,0.0,,f,f
+4,ram,4,VehicleModel,0.0,7,f,0.0,t,t,f,ram,12.0,t,0.0,,f,f
+5,siege tower,5,VehicleModel,3.0,7,t,0.0,f,f,f,siege_tower,50.0,t,19.0,174,t,f
+6,ballista,6,VehicleModel,0.0,7,f,0.0,t,t,f,ballista,12.0,t,0.0,,f,f
+7,trap,1,PrefabModel,2.0,7,f,0.0,t,t,f,trap,12.0,t,0.0,,f,f
+8,relic,2,PrefabModel,2.0,7,f,0.0,t,t,f,relic,12.0,t,0.0,,f,f
+9,castle siegeweapon spawner,3,PrefabModel,2.0,8,f,0.0,t,t,f,castle_siegeweapon_spawner,12.0,t,0.0,,f,f
+10,nuian_male,1,ActorModel,0.0,10,f,0.8,t,t,f,nuian_male,12.0,t,0.6,41,f,f
+11,nuian_female,2,ActorModel,0.0,10,f,0.8,t,t,f,nuian_female,12.0,t,0.6,42,f,f
+12,fairy_male,3,ActorModel,0.0,10,f,0.0,t,t,f,fairy_male,12.0,t,0.6,,f,f
+13,fairy_female,4,ActorModel,0.0,10,f,0.0,t,t,f,fairy_female,12.0,t,0.6,,f,f
+14,dwarf_male,5,ActorModel,0.0,10,f,0.0,t,t,f,dwarf_male,12.0,t,0.6,428,f,f
+15,dwarf_female,6,ActorModel,0.0,10,f,0.0,t,t,f,dwarf_female,12.0,t,0.6,429,f,f
+16,elf_male,7,ActorModel,0.0,10,f,0.85,t,t,f,elf_male,12.0,t,0.6,43,f,f
+17,elf_female,8,ActorModel,0.0,10,f,0.8,t,t,f,elf_female,12.0,t,0.6,44,f,f
+18,hariharan_male,9,ActorModel,0.0,10,f,0.0,t,t,f,hariharan_male,12.0,t,0.6,45,f,f
+19,hariharan_female,10,ActorModel,0.0,10,f,0.0,t,t,f,hariharan_female,12.0,t,0.6,46,f,f
+20,ferre_male,11,ActorModel,0.0,10,f,0.8,t,t,f,ferre_male,12.0,t,0.6,47,f,f
+21,ferre_female,12,ActorModel,0.0,10,f,0.8,t,t,f,ferre_female,12.0,t,0.6,48,f,f
+22,returned_male,13,ActorModel,0.0,10,f,0.0,t,t,f,returned_male,12.0,t,0.6,,f,f
+23,returned_female,14,ActorModel,0.0,10,f,0.0,t,t,f,returned_female,12.0,t,0.6,,f,f
+24,warborn_male,15,ActorModel,0.0,10,f,0.0,t,t,f,warborn_male,12.0,t,0.6,,f,f
+25,warborn_female,16,ActorModel,0.0,10,f,0.0,t,t,f,warborn_female,12.0,t,0.6,,f,f
+26,colossus,17,ActorModel,0.0,10,f,0.0,t,t,f,colossus,12.0,t,0.0,,f,f
+27,ogre,18,ActorModel,0.0,10,f,0.0,t,t,f,ogre,12.0,t,0.0,353,f,f
+28,orc,19,ActorModel,0.0,10,f,0.0,t,t,f,orc,12.0,t,0.0,334,f,f
+29,skeleton_c,20,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_c,12.0,t,0.0,311,f,f
+30,skeleton_p,21,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_p,12.0,t,0.0,311,f,f
+31,skeleton_r,22,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_r,12.0,t,0.0,311,f,f
+32,oak_tree_1,4,PrefabModel,0.0,7,f,0.0,t,t,f,oak_tree_1,12.0,t,0.0,,f,f
+33,oak_tree_2,5,PrefabModel,0.0,7,f,0.0,t,t,f,oak_tree_2,12.0,t,0.0,,f,f
+34,oak_tree_3,6,PrefabModel,0.0,7,f,0.0,t,t,f,oak_tree_3,12.0,t,0.0,,f,f
+35,castle,7,PrefabModel,0.0,0,f,0.0,t,t,f,castle,12.0,t,0.0,,f,f
+36,farmFieldTest1,8,PrefabModel,0.0,7,f,0.0,t,t,f,farmfieldtest1,12.0,t,0.0,,f,f
+37,gnoll,23,ActorModel,0.0,10,f,0.0,t,t,f,gnoll,12.0,t,0.0,231,f,f
+38,goblin,24,ActorModel,0.0,10,f,0.0,t,t,f,goblin,12.0,t,0.0,294,f,f
+39,ogre_bulky,25,ActorModel,0.0,10,f,0.0,t,t,f,ogre_bulky,12.0,t,0.0,353,f,f
+40,orc_flathead,26,ActorModel,0.0,10,f,0.0,t,t,f,orc_flathead,12.0,t,0.0,334,f,f
+41,farmFieldTest2,9,PrefabModel,0.0,7,f,0.0,t,t,f,farmfieldtest2,12.0,t,0.0,,f,f
+42,fir_tree_1,10,PrefabModel,0.0,7,f,0.0,t,t,f,fir_tree_1,12.0,t,0.0,,f,f
+43,fir_tree_2,11,PrefabModel,0.0,7,f,0.0,t,t,f,fir_tree_2,12.0,t,0.0,,f,f
+44,fir_tree_3,12,PrefabModel,0.0,7,f,0.0,t,t,f,fir_tree_3,12.0,t,0.0,,f,f
+45,pine_tree_1,13,PrefabModel,0.0,7,f,0.0,t,t,f,pine_tree_1,12.0,t,0.0,,f,f
+46,pine_tree_2,14,PrefabModel,0.0,7,f,0.0,t,t,f,pine_tree_2,12.0,t,0.0,,f,f
+47,pine_tree_3,15,PrefabModel,0.0,7,f,0.0,t,t,f,pine_tree_3,12.0,t,0.0,,f,f
+48,seafolk_female,27,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female,12.0,t,0.0,64,f,f
+49,house_design_1 main,16,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_1_main,12.0,t,0.0,,f,f
+50,house_design_1 1,17,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_1_1,12.0,t,0.0,,f,f
+51,house_design_1 2,18,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_1_2,12.0,t,0.0,,f,f
+52,house_design_2 main,19,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_2_main,12.0,t,0.0,,f,f
+53,house_design_2 1,20,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_2_1,12.0,t,0.0,,f,f
+54,house_design_2 2,21,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_2_2,12.0,t,0.0,,f,f
+55,house_design_3 main,22,PrefabModel,10.0,7,t,0.0,t,t,f,house_design_3_main,12.0,t,0.0,,f,f
+56,tower 1 main,22,PrefabModel,10.0,8,f,0.0,t,t,f,tower_1_main,12.0,t,0.0,,f,f
+57,tower 1 door,23,PrefabModel,10.0,8,f,0.0,t,t,f,tower_1_door,12.0,t,0.0,,f,f
+58,tower 2 main,24,PrefabModel,10.0,8,f,0.0,t,t,f,tower_2_main,12.0,t,0.0,,f,f
+59,tower 2 door,25,PrefabModel,10.0,8,f,0.0,t,t,f,tower_2_door,12.0,t,0.0,,f,f
+60,tower 3 main,26,PrefabModel,10.0,8,f,0.0,t,t,f,tower_3_main,12.0,t,0.0,,f,f
+61,tower 3 door,27,PrefabModel,10.0,8,f,0.0,t,t,f,tower_3_door,12.0,t,0.0,,f,f
+62,tower 4 main,28,PrefabModel,10.0,8,f,0.0,t,t,f,tower_4_main,12.0,t,0.0,,f,f
+63,tower 4 door,29,PrefabModel,10.0,8,f,0.0,t,t,f,tower_4_door,12.0,t,0.0,,f,f
+64,tower 5 main,30,PrefabModel,10.0,8,f,0.0,t,t,f,tower_5_main,12.0,t,0.0,,f,f
+65,tower 5 door,31,PrefabModel,10.0,8,f,0.0,t,t,f,tower_5_door,12.0,t,0.0,,f,f
+66,wall main,32,PrefabModel,10.0,8,f,0.0,t,t,f,wall_main,12.0,t,0.0,,f,f
+67,wall_slope_1 main,33,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_1_main,12.0,t,0.0,,f,f
+68,wall_slope_1_m main,34,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_1_m_main,12.0,t,0.0,,f,f
+69,wall_slope_2 main,35,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_2_main,12.0,t,0.0,,f,f
+70,wall_slope_2_m main,36,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_2_m_main,12.0,t,0.0,,f,f
+71,wall_slope_3 main,37,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_3_main,12.0,t,0.0,,f,f
+72,wall_slope_3_m main,38,PrefabModel,10.0,8,f,0.0,t,t,f,wall_slope_3_m_main,12.0,t,0.0,,f,f
+73,wall_m main,39,PrefabModel,10.0,8,f,0.0,t,t,f,wall_m_main,12.0,t,0.0,,f,f
+74,wall_diagonal main,40,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_main,12.0,t,0.0,,f,f
+75,wall_diagonal_slope_1 main,41,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_1_main,12.0,t,0.0,,f,f
+76,wall_diagonal_slope_1_m main,42,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_1_m_main,12.0,t,0.0,,f,f
+77,wall_diagonal_slope_2 main,43,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_2_main,12.0,t,0.0,,f,f
+78,wall_diagonal_slope_2_m main,44,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_2_m_main,12.0,t,0.0,,f,f
+79,wall_diagonal_slope_3 main,45,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_3_main,12.0,t,0.0,,f,f
+80,wall_diagonal_slope_3_m main,46,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_slope_3_m_main,12.0,t,0.0,,f,f
+81,wall_diagonal_m main,47,PrefabModel,10.0,8,f,0.0,t,t,f,wall_diagonal_m_main,12.0,t,0.0,,f,f
+82,wall gap main,48,PrefabModel,10.0,8,f,0.0,t,t,f,wall_gap_main,12.0,t,0.0,,f,f
+83,stair main,49,PrefabModel,10.0,8,f,0.0,t,t,f,stair_main,12.0,t,0.0,,f,f
+84,stair_m main,50,PrefabModel,10.0,8,f,0.0,t,t,f,stair_m_main,12.0,t,0.0,,f,f
+85,gate main,51,PrefabModel,10.0,0,f,0.0,t,t,f,gate_main,12.0,t,0.0,,f,f
+86,gate door,52,PrefabModel,10.0,0,f,0.0,t,t,f,gate_door,12.0,t,0.0,,f,f
+87,gate_diagonal main,53,PrefabModel,10.0,0,f,0.0,t,t,f,gate_diagonal_main,12.0,t,0.0,,f,f
+88,stronghold main,54,PrefabModel,10.0,0,f,0.0,t,t,f,stronghold_main,12.0,t,0.0,,f,f
+89,stronghold door,55,PrefabModel,10.0,0,f,0.0,t,t,f,stronghold_door,12.0,t,0.0,,f,f
+90,hs_house_a main,56,PrefabModel,0.0,7,f,0.0,t,t,f,hs_house_a_main,12.0,t,0.0,,f,f
+91,hs_house_a_brown main,57,PrefabModel,10.0,7,f,0.0,t,t,f,hs_house_a_brown_main,12.0,t,0.0,,f,f
+92,hs_house_b main,58,PrefabModel,0.0,7,f,0.0,t,t,f,hs_house_b_main,12.0,t,0.0,,f,f
+93,hs_house_b_brown main,59,PrefabModel,10.0,7,f,0.0,t,t,f,hs_house_b_brown_main,12.0,t,0.0,,f,f
+94,hs_house_c main,60,PrefabModel,0.0,7,f,0.0,t,t,f,hs_house_c_main,12.0,t,0.0,,f,f
+95,hs_sawmill_a main,61,PrefabModel,10.0,7,f,0.0,t,t,f,hs_sawmill_a_main,12.0,t,0.0,,f,f
+96,hs_stable_a main,62,PrefabModel,10.0,7,f,0.0,t,t,f,hs_stable_a_main,12.0,t,0.0,,f,f
+97,hs_stonemasonshop_a main,63,PrefabModel,10.0,7,f,0.0,t,t,f,hs_stonemasonshop_a_main,12.0,t,0.0,,f,f
+98,hs_barrackhouse_a main,64,PrefabModel,10.0,7,f,0.0,t,t,f,hs_barrackhouse_a_main,12.0,t,0.0,,f,f
+99,hs_farmhouse1 main,65,PrefabModel,10.0,7,f,0.0,t,t,f,hs_farmhouse1_main,12.0,t,0.0,,f,f
+100,hs_house_a_block main,66,PrefabModel,10.0,7,f,0.0,t,t,f,hs_house_a_block_main,12.0,t,0.0,,f,f
+101,hs_house_b_block main,67,PrefabModel,10.0,7,f,0.0,t,t,f,hs_house_b_block_main,12.0,t,0.0,,f,f
+102,hs_house_c_block main,68,PrefabModel,10.0,7,f,0.0,t,t,f,hs_house_c_block_main,12.0,t,0.0,,f,f
+103,housing_farmhouse_a main,69,PrefabModel,10.0,7,f,0.0,t,t,f,housing_farmhouse_a_main,12.0,t,0.0,,f,f
+104,housing_farmhouse_a 1,70,PrefabModel,10.0,7,f,0.0,t,t,f,housing_farmhouse_a_1,12.0,t,0.0,,f,f
+105,housing_farmhouse_a 2,71,PrefabModel,10.0,7,f,0.0,t,t,f,housing_farmhouse_a_2,12.0,t,0.0,,f,f
+106,carriage,7,VehicleModel,0.0,7,f,0.0,f,f,t,carriage,12.0,t,0.0,175,t,f
+107,troll,28,ActorModel,0.0,10,f,4.0,t,t,f,troll,12.0,t,0.0,296,f,f
+110,sheep_03,31,ActorModel,0.0,10,f,0.9,t,t,f,sheep_03,12.0,t,0.0,,f,f
+112,performance_tft,33,ActorModel,0.0,10,f,0.0,t,t,f,performance_tft,12.0,t,0.0,,f,f
+115,갤리온,1,ShipModel,0.0,12,f,0.0,t,t,f,model115,12.0,t,0.0,144,f,f
+116,ferryboat,9,VehicleModel,0.0,7,f,0.0,f,f,t,ferryboat,12.0,t,0.0,145,f,f
+117,Cannon,10,VehicleModel,0.0,13,f,0.0,t,t,f,cannon,20.0,f,0.0,,f,f
+120,caravel_hwang,2,ShipModel,0.0,12,f,0.0,t,t,f,caravel_hwang,12.0,t,0.0,,f,f
+121,hook,13,VehicleModel,0.0,0,f,0.0,t,t,f,hook,12.0,t,0.0,,f,f
+122,treasure,72,PrefabModel,0.0,7,f,0.0,t,t,f,treasure,12.0,t,0.0,,f,f
+123,ha_f_performance_animation,35,ActorModel,0.0,10,f,0.0,t,t,f,ha_f_performance_animation,12.0,t,0.0,,f,f
+124,blackbird,36,ActorModel,0.0,10,f,0.0,t,t,f,blackbird,12.0,t,1.5,278,f,f
+125,wood_elemental,37,ActorModel,0.0,7,f,0.0,t,t,f,wood_elemental,12.0,t,0.0,251,f,f
+126,bomb,73,PrefabModel,0.0,0,f,0.0,t,t,f,bomb,12.0,t,0.0,,f,f
+127,황의날틀,14,VehicleModel,0.0,7,f,0.0,t,t,f,model127,12.0,t,0.0,,f,f
+128,쾌속정,3,ShipModel,0.0,12,t,0.0,f,f,t,model128,30.0,t,0.0,146,t,f
+129,나룻배,4,ShipModel,0.0,12,t,0.0,f,f,t,model129,12.0,f,0.0,145,t,t
+130,가오리,5,ShipModel,0.0,12,f,0.0,t,t,f,model130,12.0,t,0.0,,f,f
+131,housing_mass_test_l,74,PrefabModel,0.0,7,f,0.0,t,t,f,housing_mass_test_l,12.0,t,0.0,,f,f
+132,housing_mass_test_m_a,75,PrefabModel,0.0,7,f,0.0,t,t,f,housing_mass_test_m_a,12.0,t,0.0,,f,f
+133,housing_mass_test_m_b,76,PrefabModel,0.0,7,f,0.0,t,t,f,housing_mass_test_m_b,12.0,t,0.0,,f,f
+134,housing_mass_test_s,77,PrefabModel,0.0,7,f,0.0,t,t,f,housing_mass_test_s,12.0,t,0.0,,f,f
+135,maledeer,38,ActorModel,0.0,10,f,0.0,t,t,f,maledeer,12.0,t,0.0,240,f,f
+136,sarracenia,39,ActorModel,0.0,10,f,0.0,t,t,f,sarracenia,12.0,t,0.0,307,f,f
+137,fepee,40,ActorModel,0.0,10,f,0.0,t,t,f,fepee,12.0,t,0.0,277,f,f
+138,waterelemental,41,ActorModel,0.0,5,f,0.0,t,t,f,waterelemental,12.0,t,0.0,269,f,f
+139,horse,42,ActorModel,0.0,10,f,0.0,t,f,t,horse,15.0,t,0.6,21,f,f
+141,orc_warrior,44,ActorModel,0.0,10,f,0.0,t,t,f,orc_warrior,12.0,t,0.0,334,f,f
+142,porcupineslime,45,ActorModel,0.0,10,f,0.0,t,t,f,porcupineslime,12.0,t,0.0,365,f,f
+143,wall_hi,78,PrefabModel,0.0,8,f,0.0,t,t,f,wall_hi,12.0,t,0.0,,f,f
+144,castle.wall_hi,79,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi,12.0,t,0.0,,f,f
+145,castle.wall_hi_m,80,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_m,12.0,t,0.0,,f,f
+146,castle.wall_hi_slope_2,81,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_2,12.0,t,0.0,,f,f
+147,castle.wall_hi_slope_2_m,82,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_2_m,12.0,t,0.0,,f,f
+148,castle.wall_hi_slope_4,83,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_4,12.0,t,0.0,,f,f
+149,castle.wall_hi_slope_4_m,84,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_4_m,12.0,t,0.0,,f,f
+150,castle.wall_hi_slope_6,85,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_6,12.0,t,0.0,,f,f
+151,castle.wall_hi_slope_6_m,86,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_slope_6_m,12.0,t,0.0,,f,f
+152,castle.wall_hi_diagonal,87,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal,12.0,t,0.0,,f,f
+153,castle.wall_hi_diagonal_m,88,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_m,12.0,t,0.0,,f,f
+154,castle.wall_hi_diagonal_slope_2,89,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_2,12.0,t,0.0,,f,f
+155,castle.wall_hi_diagonal_slope_2m,90,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_2m,12.0,t,0.0,,f,f
+156,castle.wall_hi_diagonal_slope_4,91,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_4,12.0,t,0.0,,f,f
+157,castle.wall_hi_diagonal_slope_4m,92,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_4m,12.0,t,0.0,,f,f
+158,castle.wall_hi_diagonal_slope_6,93,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_6,12.0,t,0.0,,f,f
+159,castle.wall_hi_diagonal_slope_6m,94,PrefabModel,10.0,8,f,0.0,t,t,f,castle_wall_hi_diagonal_slope_6m,12.0,t,0.0,,f,f
+160,castle.tower_hi_1,95,PrefabModel,10.0,8,f,0.0,t,t,f,castle_tower_hi_1,12.0,t,0.0,,f,f
+161,castle.tower_hi_2,96,PrefabModel,10.0,8,f,0.0,t,t,f,castle_tower_hi_2,12.0,t,0.0,,f,f
+162,stonegolem,46,ActorModel,0.0,8,f,0.0,t,t,f,stonegolem,12.0,t,0.0,324,f,f
+163,spider_ring,47,ActorModel,0.0,10,f,0.0,t,t,f,spider_ring,12.0,t,0.0,322,f,f
+164,거인1,97,PrefabModel,0.0,10,f,0.0,t,t,f,model164,12.0,t,0.0,,f,f
+165,말하는 거인2,98,PrefabModel,0.0,8,f,0.0,t,t,f,model165,12.0,t,0.0,,f,f
+166,말하는 거인1,99,PrefabModel,0.0,8,f,0.0,t,t,f,model166,12.0,t,0.0,,f,f
+167,monster_warborn,48,ActorModel,0.0,10,f,0.0,t,t,f,monster_warborn,12.0,t,0.0,,f,f
+168,가랑돌 평원 땅의 핏자국,100,PrefabModel,0.0,10,f,0.0,t,t,f,model168,12.0,t,0.0,,f,f
+169,60_housing step1,101,PrefabModel,0.0,7,f,0.0,t,t,f,model169,12.0,t,0.0,,f,f
+170,60_housing step2,102,PrefabModel,0.0,7,f,0.0,t,t,f,model170,12.0,t,0.0,,f,f
+171,60_housing step3,103,PrefabModel,0.0,7,f,0.0,t,t,f,model171,12.0,t,0.0,,f,f
+172,60_housing step4,104,PrefabModel,0.0,7,f,0.0,t,t,f,model172,12.0,t,0.0,,f,f
+173,60_housing step5,105,PrefabModel,0.0,7,f,0.0,t,t,f,model173,12.0,t,0.0,,f,f
+174,60_housing step6,106,PrefabModel,0.0,7,f,0.0,t,t,f,model174,12.0,t,0.0,,f,f
+175,60_housing_noani step1 ,107,PrefabModel,0.0,7,f,0.0,t,t,f,model175,12.0,t,0.0,,f,f
+180,60_housing_noani step2,112,PrefabModel,0.0,7,f,0.0,t,t,f,model180,12.0,t,0.0,,f,f
+181,60_housing_noani step3,113,PrefabModel,0.0,7,f,0.0,t,t,f,model181,12.0,t,0.0,,f,f
+182,60_housing_noani step4,114,PrefabModel,0.0,7,f,0.0,t,t,f,model182,12.0,t,0.0,,f,f
+183,60_housing_noani step5,115,PrefabModel,0.0,7,f,0.0,t,t,f,model183,12.0,t,0.0,,f,f
+184,60_housing_noani step6,116,PrefabModel,0.0,7,f,0.0,t,t,f,model184,12.0,t,0.0,,f,f
+185,60_housing_hideani step1 ,117,PrefabModel,0.0,7,f,0.0,t,t,f,model185,12.0,t,0.0,,f,f
+186,60_housing_hideani step2,118,PrefabModel,0.0,7,f,0.0,t,t,f,model186,12.0,t,0.0,,f,f
+187,60_housing_hideani step3,119,PrefabModel,0.0,7,f,0.0,t,t,f,model187,12.0,t,0.0,,f,f
+188,60_housing_hideani step4,120,PrefabModel,0.0,7,f,0.0,t,t,f,model188,12.0,t,0.0,,f,f
+189,60_housing_hideani step5,121,PrefabModel,0.0,7,f,0.0,t,t,f,model189,12.0,t,0.0,,f,f
+190,60_housing_hideani step6,122,PrefabModel,0.0,7,f,0.0,t,t,f,model190,12.0,t,0.0,,f,f
+191,dog_yellow,49,ActorModel,0.0,10,f,0.0,t,t,f,dog_yellow,12.0,t,0.0,249,f,f
+192,pig_black,50,ActorModel,0.0,10,f,0.0,t,t,f,pig_black,12.0,t,0.0,390,f,f
+193,rabbit_brown,51,ActorModel,0.0,10,f,0.0,t,t,f,rabbit_brown,12.0,t,0.0,387,f,f
+194,biarm_reedhq,52,ActorModel,0.0,10,f,0.0,t,t,f,biarm_reedhq,12.0,t,0.0,74,f,f
+195,waterelemental_big,53,ActorModel,0.0,5,f,0.0,t,f,t,waterelemental_big,12.0,t,0.3,271,f,f
+196,skeleton_worrior,54,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_worrior,12.0,t,0.0,311,f,f
+197,kobold_spotted_thrower,55,ActorModel,0.0,10,f,0.0,t,t,f,kobold_spotted_thrower,12.0,t,0.0,317,f,f
+198,ant,56,ActorModel,0.0,10,f,0.0,t,t,f,ant,12.0,t,0.0,3,f,f
+199,twoheadsnake_rockscale,57,ActorModel,0.0,10,f,0.0,t,t,f,twoheadsnake_rockscale,12.0,t,0.0,298,f,f
+200,windelemental_big,58,ActorModel,0.0,9,t,0.0,t,t,f,windelemental_big,12.0,t,0.0,257,f,f
+201,windelemental_small,59,ActorModel,0.0,9,f,0.0,t,t,f,windelemental_small,12.0,t,0.0,256,f,f
+203,goblin_illusionist,61,ActorModel,0.0,10,f,0.0,t,t,f,goblin_illusionist,12.0,t,0.0,294,f,f
+204,goblin_archer,62,ActorModel,0.0,10,f,0.0,t,t,f,goblin_archer,12.0,t,0.0,294,f,f
+205,goblin_warrior,63,ActorModel,0.0,10,f,0.0,t,t,f,goblin_warrior,12.0,t,0.0,294,f,f
+206,ogre_porter,64,ActorModel,0.0,10,f,0.0,t,t,f,ogre_porter,12.0,t,0.0,353,f,f
+207,orc_investigator,65,ActorModel,0.0,10,f,0.0,t,t,f,orc_investigator,12.0,t,0.0,334,f,f
+208,orc_hunter,66,ActorModel,0.0,10,f,0.0,t,t,f,orc_hunter,12.0,t,0.0,334,f,f
+209,orc_foreman,67,ActorModel,0.0,10,f,0.0,t,t,f,orc_foreman,12.0,t,2.5,334,f,f
+210,orc_shaman,68,ActorModel,0.0,10,f,0.0,t,t,f,orc_shaman,12.0,t,0.0,334,f,f
+214,fleshgolem,72,ActorModel,0.0,10,t,0.0,t,t,f,fleshgolem,12.0,t,0.0,285,f,f
+215,crab,73,ActorModel,0.0,14,f,0.0,t,t,f,crab,12.0,t,0.0,79,f,f
+216,kobold_spotted_warrior,74,ActorModel,0.0,10,f,0.0,t,t,f,kobold_spotted_warrior,12.0,t,0.0,317,f,f
+217,(잘못된 등록명. 224번이 맞음)phantom_nuian,75,ActorModel,0.0,10,f,0.8,t,t,f,model217,12.0,t,0.0,,f,f
+218,mudgolem,76,ActorModel,0.0,8,f,0.0,t,t,f,mudgolem,12.0,t,0.0,220,f,f
+219,bear_brown,77,ActorModel,0.0,10,f,0.0,t,t,f,bear_brown,12.0,t,1.0,70,f,f
+220,bloodyarmy_commander,78,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_commander,12.0,t,0.0,234,f,f
+221,bloodyarmy_infantry,79,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_infantry,12.0,t,0.0,234,f,f
+222,bloodyarmy_soldier,80,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_soldier,12.0,t,0.0,234,f,f
+223,doppelganger,81,ActorModel,0.0,10,f,0.0,t,t,f,doppelganger,12.0,t,0.0,253,f,f
+224,nuian_ghost,82,ActorModel,0.0,9,f,0.8,t,t,f,nuian_ghost,12.0,t,0.0,62,f,f
+238,stone_bros,83,ActorModel,0.0,8,f,0.0,t,t,f,stone_bros,12.0,t,0.0,,f,f
+239,four_fingers_bandits,84,ActorModel,0.0,6,f,0.0,t,t,f,four_fingers_bandits,12.0,t,0.0,,f,f
+240,black_beard,85,ActorModel,0.0,10,f,0.0,t,t,f,black_beard,12.0,t,0.0,,f,f
+241,slum_robbers,86,ActorModel,0.0,10,f,0.0,t,t,f,slum_robbers,12.0,t,0.0,,f,f
+242,kyrios_admirers,87,ActorModel,0.0,10,f,0.0,t,t,f,kyrios_admirers,12.0,t,0.0,,f,f
+243,phantom_nuianguard,88,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuianguard,12.0,t,0.0,,f,f
+244,mountainsheep_ash,89,ActorModel,0.0,10,f,0.0,t,t,f,mountainsheep_ash,12.0,t,0.0,341,f,f
+245,femaledeer,90,ActorModel,0.0,10,f,0.0,t,t,f,femaledeer,12.0,t,0.0,276,f,f
+246,brokencorpse,91,ActorModel,0.0,10,f,0.0,t,t,f,brokencorpse,12.0,t,0.0,236,f,f
+247,headstand,92,ActorModel,0.0,10,f,0.0,t,t,f,headstand,12.0,t,0.0,303,f,f
+248,horse_skeleton,93,ActorModel,0.0,10,f,0.0,t,t,f,horse_skeleton,12.0,t,0.0,305,f,f
+249,armourdslime_bark,94,ActorModel,0.0,10,f,0.0,t,t,f,armourdslime_bark,12.0,t,0.0,12,f,f
+250,armourdslime_ironpiece,95,ActorModel,0.0,10,f,0.0,t,t,f,armourdslime_ironpiece,12.0,t,0.0,14,f,f
+251,armourdslime_pebble,96,ActorModel,0.0,10,f,0.0,t,t,f,armourdslime_pebble,12.0,t,0.0,16,f,f
+252,crawlingslime_drain,97,ActorModel,0.0,10,f,0.0,t,t,f,crawlingslime_drain,12.0,t,0.0,82,f,f
+254,ogre_warrior,99,ActorModel,0.0,10,f,0.0,t,t,f,ogre_warrior,12.0,t,0.0,353,f,f
+257,gnoll_thrower,102,ActorModel,0.0,10,f,0.0,t,t,f,gnoll_thrower,12.0,t,0.0,231,f,f
+258,gnoll_stalker,103,ActorModel,0.0,10,f,0.0,t,t,f,gnoll_stalker,12.0,t,0.0,231,f,f
+259,gnoll_warrior,104,ActorModel,0.0,10,f,0.0,t,t,f,gnoll_warrior,12.0,t,0.0,231,f,f
+271,skeleton_monger,105,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_monger,12.0,t,0.0,311,f,f
+272,skeleton_groom,106,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_groom,12.0,t,0.0,311,f,f
+273,skeleton_porter,107,ActorModel,0.0,14,f,0.0,t,t,f,skeleton_porter,12.0,t,0.0,311,f,f
+274,brokencorpse_scratcher,108,ActorModel,0.0,10,f,0.0,t,t,f,brokencorpse_scratcher,12.0,t,0.0,236,f,f
+275,doodling_stalker,109,ActorModel,0.0,10,f,0.0,t,t,f,doodling_stalker,12.0,t,0.0,250,f,f
+276,wienhouse_tri120_step00,147,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step00,12.0,t,0.0,,f,f
+277,wienhouse_tri120_step01,148,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step01,12.0,t,0.0,,f,f
+278,wienhouse_tri120_step02,149,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step02,12.0,t,0.0,,f,f
+279,wienhouse_tri120_step03,150,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step03,12.0,t,0.0,,f,f
+280,wienhouse_tri120_step04,151,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step04,12.0,t,0.0,,f,f
+281,wienhouse_tri120_step05,152,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step05,12.0,t,0.0,,f,f
+282,wienhouse_tri120_step06,153,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step06,12.0,t,0.0,,f,f
+283,wienhouse_tri120_step07,154,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step07,12.0,t,0.0,,f,f
+284,wienhouse_tri120_step08,155,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step08,12.0,t,0.0,,f,f
+285,wienhouse_tri120_step09,156,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step09,12.0,t,0.0,,f,f
+286,wienhouse_tri120_step10,157,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_step10,12.0,t,0.0,,f,f
+287,doodling_worker,110,ActorModel,0.0,10,f,0.0,t,t,f,doodling_worker,12.0,t,0.0,250,f,f
+288,doodling_warrior,111,ActorModel,0.0,10,f,0.0,t,t,f,doodling_warrior,12.0,t,0.0,250,f,f
+289,doodling_shaman,112,ActorModel,0.0,10,f,0.0,t,t,f,doodling_shaman,12.0,t,0.0,250,f,f
+290,wienhouse_tri60_step00,158,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step00,12.0,t,0.0,,f,f
+291,wienhouse_tri60_step01,159,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step01,12.0,t,0.0,,f,f
+292,wienhouse_tri60_step02,160,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step02,12.0,t,0.0,,f,f
+293,wienhouse_tri60_step03,161,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step03,12.0,t,0.0,,f,f
+294,wienhouse_tri60_step04,162,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step04,12.0,t,0.0,,f,f
+295,wienhouse_tri60_step05,163,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step05,12.0,t,0.0,,f,f
+296,wienhouse_tri60_step06,164,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_step06,12.0,t,0.0,,f,f
+297,wienhouse_weird60_step00,165,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step00,12.0,t,0.0,,f,f
+298,wienhouse_weird60_step01,166,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step01,12.0,t,0.0,,f,f
+299,wienhouse_weird60_step02,167,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step02,12.0,t,0.0,,f,f
+300,wienhouse_weird60_step03,168,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step03,12.0,t,0.0,,f,f
+301,wienhouse_weird60_step04,169,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step04,12.0,t,0.0,,f,f
+302,wienhouse_weird60_step05,170,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step05,12.0,t,0.0,,f,f
+303,goblin_scratcher,113,ActorModel,0.0,10,f,0.0,t,t,f,goblin_scratcher,12.0,t,0.0,294,f,f
+304,cat_gray,114,ActorModel,0.0,10,f,0.0,t,t,f,cat_gray,12.0,t,0.0,415,f,f
+305,wienhouse_weird60_step06,171,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_step06,12.0,t,0.0,,f,f
+306,cow_white,115,ActorModel,0.0,10,f,1.85,t,t,f,cow_white,12.0,t,0.0,272,f,f
+307,potal_gate,116,ActorModel,0.0,6,f,0.0,t,t,f,potal_gate,12.0,t,0.0,,f,f
+308,포탈게이트(입구),172,PrefabModel,0.0,9,f,0.0,f,f,t,model308,12.0,t,0.0,,f,f
+309,lizard_butterfly,117,ActorModel,0.0,10,f,0.0,t,t,f,lizard_butterfly,12.0,t,0.0,319,f,f
+310,drowned,118,ActorModel,0.0,10,f,0.0,t,t,f,drowned,12.0,t,0.0,258,f,f
+311,wildox_plain,119,ActorModel,0.0,10,f,0.0,t,t,f,wildox_plain,12.0,t,0.0,259,f,f
+312,boar_spotted,120,ActorModel,0.0,10,f,0.0,t,t,f,boar_spotted,12.0,t,0.0,235,f,f
+313,boar_solzreed,121,ActorModel,0.0,10,f,0.0,t,t,f,boar_solzreed,12.0,t,0.0,235,f,f
+314,maritram,15,VehicleModel,0.0,7,f,0.0,f,f,t,maritram,12.0,t,0.0,180,t,f
+315,stonegolem_small,122,ActorModel,0.0,8,f,0.0,t,t,f,stonegolem_small,12.0,t,0.0,325,f,f
+316,fox,123,ActorModel,0.0,10,f,0.0,t,t,f,fox,12.0,t,0.0,287,f,f
+317,wolf_solzreed,124,ActorModel,0.0,10,f,0.0,t,t,f,wolf_solzreed,12.0,t,0.0,252,f,f
+318,turtle_rock,125,ActorModel,0.0,14,f,0.0,t,t,f,turtle_rock,12.0,t,0.0,297,f,f
+319,wolf_hungry,126,ActorModel,0.0,10,f,0.0,t,t,f,wolf_hungry,12.0,t,0.0,252,f,f
+320,lobster_black,127,ActorModel,0.0,14,f,0.0,t,t,f,lobster_black,12.0,t,0.0,320,f,f
+321,wildox_water,128,ActorModel,0.0,10,f,0.0,t,t,f,wildox_water,12.0,t,0.0,259,f,f
+322,earthelemental_small,129,ActorModel,0.0,8,f,0.0,t,t,f,earthelemental_small,12.0,t,0.0,281,f,f
+323,lobster_red,130,ActorModel,0.0,14,f,0.0,t,t,f,lobster_red,12.0,t,0.0,320,f,f
+324,wildox_sandwind,131,ActorModel,0.0,10,f,0.0,t,t,f,wildox_sandwind,12.0,t,0.0,260,f,f
+325,cat_black,132,ActorModel,0.0,10,f,0.0,t,t,f,cat_black,12.0,t,0.0,415,f,f
+326,cat_white,133,ActorModel,0.0,10,f,0.0,t,t,f,cat_white,12.0,t,0.0,415,f,f
+327,cow_black,134,ActorModel,0.0,10,f,1.85,t,t,f,cow_black,12.0,t,0.0,272,f,f
+328,cow_brown,135,ActorModel,0.0,10,f,1.85,t,t,f,cow_brown,12.0,t,0.0,272,f,f
+329,pig_spot,136,ActorModel,0.0,10,f,0.9,t,t,f,pig_spot,12.0,t,0.0,390,f,f
+330,pig_white,137,ActorModel,0.0,10,f,0.9,t,t,f,pig_white,12.0,t,0.0,390,f,f
+331,dog_black,138,ActorModel,0.0,10,f,0.0,t,t,f,dog_black,12.0,t,0.0,249,f,f
+332,dog_brown,139,ActorModel,0.0,10,f,0.0,t,t,f,dog_brown,12.0,t,0.0,249,f,f
+333,rabbit_black,140,ActorModel,0.0,10,f,0.7,t,t,f,rabbit_black,12.0,t,0.0,387,f,f
+334,rabbit_white,141,ActorModel,0.0,10,f,0.0,t,t,f,rabbit_white,12.0,t,0.0,387,f,f
+346,snowlion_white,142,ActorModel,0.0,10,f,0.0,t,f,t,snowlion_white,15.0,t,0.0,321,f,f
+347,crocodile_ironscale,143,ActorModel,0.0,10,f,0.0,t,t,f,crocodile_ironscale,12.0,t,0.0,84,f,f
+348,devourer,144,ActorModel,0.0,10,f,0.0,t,t,f,devourer,12.0,t,0.0,141,f,f
+349,grubs,145,ActorModel,0.0,10,f,5.0,t,t,f,grubs,12.0,t,0.0,7,f,f
+350,irongolem,146,ActorModel,0.0,13,f,0.0,t,t,f,irongolem,12.0,t,0.0,314,f,f
+351,juggernaut_scratcher,147,ActorModel,0.0,10,f,2.0,t,t,f,juggernaut_scratcher,12.0,t,0.0,315,f,f
+352,scorpion,148,ActorModel,0.0,14,f,0.0,t,t,f,scorpion,12.0,t,0.0,308,f,f
+353,stitchedcorps,149,ActorModel,0.0,10,f,0.0,t,t,f,stitchedcorps,12.0,t,0.0,323,f,f
+354,wereshark_spear_knight,150,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_spear_knight,12.0,t,0.0,266,f,f
+355,girl01,151,ActorModel,0.0,10,f,0.0,t,t,f,girl01,12.0,t,0.0,,f,f
+357,nuian_male_dummy,153,ActorModel,0.0,10,f,0.0,t,t,f,nuian_male_dummy,12.0,t,0.0,,f,f
+358,phantom_nuian_soldier,154,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuian_soldier,12.0,t,1.3,364,f,f
+359,tiger,155,ActorModel,0.0,10,f,0.0,t,t,f,tiger,12.0,t,0.0,295,f,f
+360,yeti,156,ActorModel,0.0,10,f,0.0,t,t,f,yeti,12.0,t,0.0,213,f,f
+361,fepee_naughty,157,ActorModel,0.0,10,f,0.0,t,t,f,fepee_naughty,12.0,t,0.0,277,f,f
+363,wienhouse_weird120_step00,185,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step00,12.0,t,0.0,,f,f
+364,wienhouse_weird120_step01,186,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step01,12.0,t,0.0,,f,f
+365,wienhouse_weird120_step02,187,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step02,12.0,t,0.0,,f,f
+366,wienhouse_weird120_step03,188,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step03,12.0,t,0.0,,f,f
+367,wienhouse_weird120_step04,189,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step04,12.0,t,0.0,,f,f
+368,wienhouse_weird120_step05,190,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step05,12.0,t,0.0,,f,f
+369,wienhouse_weird120_step06,191,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step06,12.0,t,0.0,,f,f
+370,wienhouse_weird120_step07,192,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step07,12.0,t,0.0,,f,f
+371,wienhouse_weird120_step08,193,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step08,12.0,t,0.0,,f,f
+372,wienhouse_weird120_step09,194,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step09,12.0,t,0.0,,f,f
+373,wienhouse_weird120_step10,195,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_step10,12.0,t,0.0,,f,f
+374,wienhouse_nor60_step00,196,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step00,12.0,t,0.0,,f,f
+375,wienhouse_nor60_step01,197,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step01,12.0,t,0.0,,f,f
+376,wienhouse_nor60_step02,198,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step02,12.0,t,0.0,,f,f
+377,wienhouse_nor60_step03,199,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step03,12.0,t,0.0,,f,f
+378,wienhouse_nor60_step04,200,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step04,12.0,t,0.0,,f,f
+379,wienhouse_nor60_step05,201,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step05,12.0,t,0.0,,f,f
+380,wienhouse_nor60_step06,202,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_step06,12.0,t,0.0,,f,f
+381,wienhouse_nor120_step00,203,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step00,12.0,t,0.0,,f,f
+382,wienhouse_nor120_step01,204,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step01,12.0,t,0.0,,f,f
+383,wienhouse_nor120_step02,205,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step02,12.0,t,0.0,,f,f
+384,wienhouse_nor120_step03,206,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step03,12.0,t,0.0,,f,f
+385,wienhouse_nor120_step04,207,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step04,12.0,t,0.0,,f,f
+386,wienhouse_nor120_step05,208,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step05,12.0,t,0.0,,f,f
+387,wienhouse_nor120_step06,209,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step06,12.0,t,0.0,,f,f
+388,wienhouse_nor120_step07,210,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step07,12.0,t,0.0,,f,f
+389,wienhouse_nor120_step08,211,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step08,12.0,t,0.0,,f,f
+390,wienhouse_nor120_step09,212,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step09,12.0,t,0.0,,f,f
+391,wienhouse_nor120_step10,213,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_step10,12.0,t,0.0,,f,f
+393,galleon,6,ShipModel,0.0,12,t,0.0,f,f,t,galleon,40.0,t,0.0,144,t,f
+394,hariharan_ghost,158,ActorModel,0.0,9,f,0.8,t,t,f,hariharan_ghost,12.0,t,0.0,,f,f
+395,centipede,159,ActorModel,0.0,10,f,5.0,t,t,f,centipede,12.0,t,3.5,77,f,f
+396,imp,160,ActorModel,0.0,10,f,0.0,t,t,f,imp,12.0,t,0.0,312,f,f
+397,devildog,161,ActorModel,0.0,10,f,1.75,t,t,f,devildog,12.0,t,0.0,248,f,f
+398,gorgon,162,ActorModel,0.0,10,f,0.0,t,t,f,gorgon,12.0,t,1.5,292,f,f
+399,mandragora,163,ActorModel,0.0,10,f,0.0,t,t,f,mandragora,12.0,t,0.0,337,f,f
+400,mantis,164,ActorModel,0.0,10,f,0.0,t,t,f,mantis,12.0,t,0.0,338,f,f
+401,eel,165,ActorModel,0.0,10,f,0.0,t,t,f,eel,12.0,t,0.0,181,f,f
+402,nymph,166,ActorModel,0.0,10,f,0.0,t,t,f,nymph,12.0,t,0.0,342,f,f
+403,ostrich_spotted,167,ActorModel,0.0,10,f,0.0,t,t,f,ostrich_spotted,12.0,t,0.0,343,f,f
+404,seabug,168,ActorModel,0.0,14,f,0.0,t,t,f,seabug,12.0,t,0.0,309,f,f
+405,wraith,169,ActorModel,0.0,10,f,0.0,t,t,f,wraith,12.0,t,0.75,242,f,f
+406,yata,170,ActorModel,0.0,10,f,0.0,t,f,t,yata,12.0,t,1.1,18,f,f
+407,elephant,171,ActorModel,0.0,10,f,0.0,t,t,f,elephant,12.0,t,0.0,225,f,f
+408,succubus,172,ActorModel,0.0,10,f,0.0,t,t,f,succubus,12.0,t,0.0,328,f,f
+409,archerfish,173,ActorModel,0.0,10,f,0.0,t,t,f,archerfish,12.0,t,0.5,4,f,f
+410,faceless_warrior,174,ActorModel,0.0,10,f,0.0,t,t,f,faceless_warrior,12.0,t,0.0,275,f,f
+411,eagle,175,ActorModel,0.0,10,f,0.0,t,t,f,eagle,12.0,t,2.0,279,f,f
+412,eagle_bluewing,176,ActorModel,0.0,10,f,0.0,t,t,f,eagle_bluewing,12.0,t,2.0,279,f,f
+413,eagle_redneck,177,ActorModel,0.0,10,f,0.0,t,t,f,eagle_redneck,12.0,t,2.0,279,f,f
+414,pointbeak,178,ActorModel,0.0,10,f,0.0,t,t,f,pointbeak,12.0,t,1.5,,f,f
+415,pointbeak_plain,179,ActorModel,0.0,10,f,0.0,t,t,f,pointbeak_plain,12.0,t,1.5,,f,f
+416,pointbeak_sea,180,ActorModel,0.0,10,f,0.0,t,t,f,pointbeak_sea,12.0,t,0.0,,f,f
+417,owl_horned,181,ActorModel,0.0,10,f,0.0,t,t,f,owl_horned,12.0,t,0.0,354,f,f
+418,owl_shorteared,182,ActorModel,0.0,10,f,0.0,t,t,f,owl_shorteared,12.0,t,1.8,354,f,f
+419,owl_white,183,ActorModel,0.0,10,f,0.0,t,t,f,owl_white,12.0,t,0.0,354,f,f
+420,eel_electric,184,ActorModel,0.0,10,f,0.0,t,t,f,eel_electric,12.0,t,0.0,182,f,f
+421,turtle_tropic,185,ActorModel,0.0,14,f,0.0,t,t,f,turtle_tropic,12.0,t,0.0,297,f,f
+422,lizard_poison,186,ActorModel,0.0,10,f,0.0,t,t,f,lizard_poison,12.0,t,0.0,319,f,f
+423,phantom_hariharan_archer,187,ActorModel,0.0,10,f,0.0,t,t,f,phantom_hariharan_archer,12.0,t,1.3,362,f,f
+425,ant_jungle,189,ActorModel,0.0,10,f,0.0,t,t,f,ant_jungle,12.0,t,0.0,3,f,f
+426,gorilla_mahadevi,190,ActorModel,0.0,10,f,0.0,t,t,f,gorilla_mahadevi,12.0,t,0.0,299,f,f
+427,banshee,191,ActorModel,0.0,10,f,0.0,t,t,f,banshee,12.0,t,1.2,371,f,f
+428,phantom_hariharan_commander,192,ActorModel,0.0,10,f,0.0,t,t,f,phantom_hariharan_commander,12.0,t,1.3,362,f,f
+429,rabbit_boss,193,ActorModel,0.0,10,f,0.0,t,t,f,rabbit_boss,12.0,t,0.0,333,f,f
+430,phantom_hariharan_medic,194,ActorModel,0.0,10,f,0.0,t,t,f,phantom_hariharan_medic,12.0,t,0.0,362,f,f
+431,phantom_hariharan_soldier,195,ActorModel,0.0,10,f,0.0,t,t,f,phantom_hariharan_soldier,12.0,t,1.3,362,f,f
+432,phantom_hariharan_spearman,196,ActorModel,0.0,10,f,0.0,t,t,f,phantom_hariharan_spearman,12.0,t,1.3,362,f,f
+433,phantom_nuian_archer,197,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuian_archer,12.0,t,1.3,364,f,f
+434,phantom_nuian_commander,198,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuian_commander,12.0,t,1.3,364,f,f
+435,phantom_nuian_medic,199,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuian_medic,12.0,t,0.0,364,f,f
+436,phantom_nuian_spearman,200,ActorModel,0.0,10,f,0.0,t,t,f,phantom_nuian_spearman,12.0,t,1.3,364,f,f
+437,bloodyarmy_archer,201,ActorModel,0.9,10,f,0.0,t,t,f,bloodyarmy_archer,12.0,t,0.0,234,f,f
+438,bloodyarmy_quartemaster,202,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_quartemaster,12.0,t,0.0,234,f,f
+439,bloodyarmy_spearman,203,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_spearman,12.0,t,0.0,234,f,f
+440,wienhouse_farm_60_step_00,215,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_60_step_00,12.0,t,0.0,,f,f
+441,wienhouse_farm_60_step_01,216,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_60_step_01,12.0,t,0.0,,f,f
+442,wienhouse_farm_60_step_02,217,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_60_step_02,12.0,t,0.0,,f,f
+443,wienhouse_farm_60_step_final,218,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_60_step_final,12.0,t,0.0,,f,f
+444,wienhouse_farm_120_step_00,219,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_120_step_00,12.0,t,0.0,,f,f
+445,wienhouse_farm_120_step_01,220,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_120_step_01,12.0,t,0.0,,f,f
+446,wienhouse_farm_120_step_02,221,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_120_step_02,12.0,t,0.0,,f,f
+447,wienhouse_farm_120_step_final,222,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_farm_120_step_final,12.0,t,0.0,,f,f
+448,astra,204,ActorModel,0.0,10,f,0.0,t,t,f,astra,12.0,t,0.0,68,f,f
+449,horse__black,205,ActorModel,0.0,10,f,0.0,t,f,t,horse__black,15.0,t,1.5,21,f,f
+450,horse_brown_spot,206,ActorModel,0.0,10,f,0.0,t,f,t,horse_brown_spot,15.0,t,1.5,21,f,f
+451,horse_gray,207,ActorModel,0.0,10,f,0.0,t,f,t,horse_gray,15.0,t,1.5,21,f,f
+452,horse_lightbrown,208,ActorModel,0.0,10,f,0.0,t,f,t,horse_lightbrown,15.0,t,1.5,21,f,f
+453,horse_red_spot,209,ActorModel,0.0,10,f,0.0,t,f,t,horse_red_spot,15.0,t,1.5,21,f,f
+454,horse_white,210,ActorModel,0.0,10,f,0.0,t,f,t,horse_white,15.0,t,1.5,21,f,f
+455,wisp_forest,211,ActorModel,0.0,6,f,0.0,t,t,f,wisp_forest,12.0,t,2.5,254,f,f
+456,wisp_meadow,212,ActorModel,0.0,6,f,0.0,t,t,f,wisp_meadow,12.0,t,2.5,254,f,f
+457,wisp_ruin,213,ActorModel,0.0,6,f,0.0,t,t,f,wisp_ruin,12.0,t,2.5,254,f,f
+458,dwarf_npc_female,214,ActorModel,0.0,10,f,0.0,t,t,f,dwarf_npc_female,12.0,t,0.0,,f,f
+459,kobold_miner,215,ActorModel,0.0,10,f,0.0,t,t,f,kobold_miner,12.0,t,0.0,317,f,f
+460,kobold_thrower,216,ActorModel,0.0,10,f,0.0,t,t,f,kobold_thrower,12.0,t,0.0,317,f,f
+461,kobold_warrior,217,ActorModel,0.0,10,f,0.0,t,t,f,kobold_warrior,12.0,t,0.0,317,f,f
+462,kobold_spotted_miner,218,ActorModel,0.0,10,f,0.0,t,t,f,kobold_spotted_miner,12.0,t,0.0,317,f,f
+463,dullahan_warrior,219,ActorModel,0.0,10,f,0.0,t,t,f,dullahan_warrior,12.0,t,0.0,270,f,f
+464,incubus,220,ActorModel,0.0,10,f,0.9,t,t,f,incubus,12.0,t,0.0,313,f,f
+465,horse_black,221,ActorModel,0.0,10,f,0.0,t,t,f,horse_black,12.0,t,0.0,21,f,f
+466,brokencorpse_warrior,222,ActorModel,0.0,10,f,0.0,t,t,f,brokencorpse_warrior,12.0,t,0.0,236,f,f
+467,dwarf_npc_male,223,ActorModel,0.0,10,f,0.0,t,t,f,dwarf_npc_male,12.0,t,0.0,,f,f
+468,towerdefense_target,224,PrefabModel,2.0,8,f,0.0,t,t,f,towerdefense_target,12.0,t,0.0,,f,f
+469,seafolk_female_goldsea_healer,224,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_goldsea_healer,12.0,t,0.0,64,f,f
+470,seafolk_female_goldsea_mage,225,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_goldsea_mage,12.0,t,0.0,64,f,f
+471,seafolk_female_goldsea_thrower,226,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_goldsea_thrower,12.0,t,0.0,64,f,f
+472,seafolk_female_goldsea_warrior,227,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_goldsea_warrior,12.0,t,0.0,64,f,f
+473,seafolk_female_solzreed_healer,228,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_solzreed_healer,12.0,t,0.0,64,f,f
+474,seafolk_female_solzreed_mage,229,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_solzreed_mage,12.0,t,0.0,64,f,f
+475,seafolk_female_solzreed_thrower,230,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_solzreed_thrower,12.0,t,0.0,64,f,f
+476,seafolk_female_solzreed_warrior,231,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_female_solzreed_warrior,12.0,t,0.0,64,f,f
+477,seafolk_male_goldsea_healer,232,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_goldsea_healer,12.0,t,0.0,65,f,f
+478,seafolk_male_goldsea_mage,233,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_goldsea_mage,12.0,t,0.0,65,f,f
+479,seafolk_male_goldsea_thrower,234,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_goldsea_thrower,12.0,t,0.0,65,f,f
+480,seafolk_male_goldsea_warrior,235,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_goldsea_warrior,12.0,t,0.0,65,f,f
+481,seafolk_male_solzreed_healer,236,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_solzreed_healer,12.0,t,0.0,65,f,f
+482,seafolk_male_solzreed_mage,237,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_solzreed_mage,12.0,t,0.0,65,f,f
+483,seafolk_male_solzreed_thrower,238,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_solzreed_thrower,12.0,t,0.0,65,f,f
+484,seafolk_male_solzreed_warrior,239,ActorModel,0.0,10,f,0.0,t,t,f,seafolk_male_solzreed_warrior,12.0,t,0.0,65,f,f
+485,fireelemental_big,240,ActorModel,0.0,6,t,0.0,t,f,t,fireelemental_big,12.0,t,0.0,282,f,f
+486,fireelemental_small,241,ActorModel,0.0,6,f,0.0,t,t,f,fireelemental_small,12.0,t,0.0,281,f,f
+487,wereshark_knight,242,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_knight,12.0,t,0.0,266,f,f
+488,wereshark_spear_thrower,243,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_spear_thrower,12.0,t,0.0,266,f,f
+489,wereshark_thrower,244,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_thrower,12.0,t,0.0,266,f,f
+490,wereshark_warrior,245,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_warrior,12.0,t,0.0,266,f,f
+491,galleon_housing_step_00,225,PrefabModel,0.0,7,f,0.0,t,t,f,galleon_housing_step_00,12.0,t,0.0,,f,f
+492,galleon_housing_step_01,226,PrefabModel,0.0,7,f,0.0,t,t,f,galleon_housing_step_01,12.0,t,0.0,,f,f
+493,galleon_housing_step_02,227,PrefabModel,0.0,7,f,0.0,t,t,f,galleon_housing_step_02,12.0,t,0.0,,f,f
+494,galleon_housing_step_03,228,PrefabModel,0.0,7,f,0.0,t,t,f,galleon_housing_step_03,12.0,t,0.0,,f,f
+495,galleon_housing_step_04,229,PrefabModel,0.0,7,f,0.0,t,t,f,galleon_housing_step_04,12.0,t,0.0,,f,f
+496,galleon_housing_step_final,230,PrefabModel,0.0,7,t,0.0,t,t,f,galleon_housing_step_final,12.0,t,0.0,,f,f
+497,wereshark_spear_warrior,246,ActorModel,0.0,10,f,0.0,t,t,f,wereshark_spear_warrior,12.0,t,0.0,266,f,f
+498,centauros_snowfield_shaman,247,ActorModel,0.0,10,f,0.0,t,t,f,centauros_snowfield_shaman,12.0,t,0.0,264,f,f
+499,shark_stripe,248,ActorModel,0.0,10,f,0.0,t,t,f,shark_stripe,12.0,t,0.0,310,f,f
+500,fireegg,249,ActorModel,0.0,6,f,0.0,t,t,f,fireegg,12.0,t,0.0,413,f,f
+501,mimic,250,ActorModel,0.0,10,f,0.0,t,t,f,mimic,12.0,t,0.0,339,f,f
+502,dullahan_knight,251,ActorModel,0.0,10,f,0.0,t,t,f,dullahan_knight,12.0,t,0.0,261,f,f
+503,crab_redshell,252,ActorModel,0.0,14,f,0.0,t,t,f,crab_redshell,12.0,t,0.0,79,f,f
+504,crawlingslime_red,253,ActorModel,0.0,10,f,0.0,t,t,f,crawlingslime_red,12.0,t,0.0,82,f,f
+505,crocodile_water,254,ActorModel,0.0,10,f,0.0,t,t,f,crocodile_water,12.0,t,0.0,84,f,f
+506,bee,255,ActorModel,0.0,10,f,0.0,t,t,f,bee,12.0,t,0.0,5,f,f
+507,bat,256,ActorModel,0.0,10,f,0.0,t,t,f,bat,12.0,t,3.1,306,f,f
+508,포탈게이트(길잡이),231,PrefabModel,0.0,9,f,0.0,f,f,t,model508,12.0,t,0.0,,f,f
+509,wienhouse_tri120_stepbreak01,232,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_stepbreak01,12.0,t,0.0,,f,f
+510,wienhouse_tri120_stepbreak02,233,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri120_stepbreak02,12.0,t,0.0,,f,f
+511,galleon01,7,ShipModel,0.0,12,t,0.0,f,f,t,galleon01,30.0,t,0.0,144,f,f
+512,galleon02,8,ShipModel,0.0,12,t,0.0,f,f,t,galleon02,70.0,t,0.0,144,f,f
+513,wienhouse_tri60_stepbreak01,234,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_stepbreak01,12.0,t,0.0,,f,f
+514,wienhouse_tri60_stepbreak02,235,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tri60_stepbreak02,12.0,t,0.0,,f,f
+515,wienhouse_weird120_stepbreak01,236,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_stepbreak01,12.0,t,0.0,,f,f
+516,wienhouse_weird120_stepbreak02,237,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird120_stepbreak02,12.0,t,0.0,,f,f
+517,wienhouse_weird60_stepbreak01 ,238,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_stepbreak01,12.0,t,0.0,,f,f
+518,wienhouse_weird60_stepbreak02 ,239,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_weird60_stepbreak02,12.0,t,0.0,,f,f
+519,wienhouse_nor120_stepbreak01 ,240,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_stepbreak01,12.0,t,0.0,,f,f
+520,wienhouse_nor120_stepbreak02,241,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor120_stepbreak02,12.0,t,0.0,,f,f
+521,wienhouse_nor60_stepbreak01,242,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_stepbreak01,12.0,t,0.0,,f,f
+522,wienhouse_nor60_stepbreak02,243,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_nor60_stepbreak02,12.0,t,0.0,,f,f
+523,pirate,9,ShipModel,0.0,12,t,0.0,f,f,t,pirate,40.0,t,0.0,144,t,f
+524,galleon_item02,244,PrefabModel,0.0,0,f,0.0,t,t,f,galleon_item02,12.0,t,0.0,,f,f
+525,galleon_item01,245,PrefabModel,0.0,0,f,0.0,t,t,f,galleon_item01,12.0,t,0.0,,f,f
+526,galleon_helms,246,PrefabModel,0.0,0,f,0.0,t,t,f,galleon_helms,12.0,t,0.0,,f,f
+527,galleon01_item01,247,PrefabModel,0.0,0,f,0.0,t,t,f,galleon01_item01,12.0,t,0.0,,f,f
+528,galleon02_item01,248,PrefabModel,0.0,0,f,0.0,t,t,f,galleon02_item01,12.0,t,0.0,,f,f
+529,galleon_pirate_item01,249,PrefabModel,0.0,0,f,0.0,t,t,f,galleon_pirate_item01,12.0,t,0.0,,f,f
+530,leviathan,257,ActorModel,0.0,10,f,0.0,t,t,f,leviathan,12.0,t,0.0,,f,f
+531,ezna_tower,250,PrefabModel,0.0,8,f,0.0,t,t,f,ezna_tower,12.0,t,0.0,,f,f
+534,ezna_wall,253,PrefabModel,0.0,8,f,0.0,t,t,f,ezna_wall,12.0,t,0.0,,f,f
+535,ezna_wall_diag,254,PrefabModel,0.0,8,f,0.0,t,t,f,ezna_wall_diag,12.0,t,0.0,,f,f
+536,sol_wreck11,255,PrefabModel,0.0,2,f,0.0,t,t,f,sol_wreck11,12.0,t,0.0,,f,f
+537,sol_wreck12,256,PrefabModel,0.0,2,f,0.0,t,t,f,sol_wreck12,12.0,t,0.0,,f,f
+538,wienhouse_tir60_damaged50,257,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tir60_damaged50,12.0,t,0.0,,f,f
+539,wienhouse_tir60_dying,258,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tir60_dying,12.0,t,0.0,,f,f
+540,wienhouse_tir60_dead,259,PrefabModel,0.0,7,t,0.0,t,t,f,wienhouse_tir60_dead,12.0,t,0.0,,f,f
+541,wienhouse_tri60_fire,260,PrefabModel,0.0,6,t,0.0,t,t,f,wienhouse_tri60_fire,12.0,t,0.0,,f,f
+542,sol_house_break,261,PrefabModel,0.0,7,t,0.0,t,t,f,sol_house_break,12.0,t,0.0,,f,f
+543,sol_house_dying50,262,PrefabModel,0.0,7,t,0.0,t,t,f,sol_house_dying50,12.0,t,0.0,,f,f
+544,sol_house_damaged50,263,PrefabModel,0.0,7,t,0.0,t,t,f,sol_house_damaged50,12.0,t,0.0,,f,f
+545,sol_house_dying,264,PrefabModel,0.0,7,t,0.0,t,t,f,sol_house_dying,12.0,t,0.0,,f,f
+546,sol_house_dead,265,PrefabModel,0.0,7,t,0.0,t,t,f,sol_house_dead,12.0,t,0.0,,f,f
+547,targettest,266,PrefabModel,0.0,2,f,0.0,t,t,f,targettest,12.0,t,0.0,,f,f
+548,Andelph_tram,16,VehicleModel,0.0,7,f,0.0,f,f,t,andelph_tram,12.0,t,0.0,,f,f
+549,werewolf,258,ActorModel,0.0,10,f,0.0,t,t,f,werewolf,12.0,t,0.0,262,f,f
+550,jabberwocky,259,ActorModel,0.0,10,f,0.0,t,t,f,jabberwocky,12.0,t,0.0,229,f,f
+551,behemoth,260,ActorModel,0.0,10,f,4.5,t,t,f,behemoth,12.0,t,2.3,72,f,f
+552,earthelemental_big,261,ActorModel,0.0,8,t,0.0,t,f,t,earthelemental_big,12.0,t,0.0,280,f,f
+553,harpy_brown,262,ActorModel,0.0,10,f,0.0,t,t,f,harpy_brown,12.0,t,0.0,301,f,f
+554,bloodsucker_illusionist,263,ActorModel,0.0,10,f,0.0,t,t,f,bloodsucker_illusionist,12.0,t,0.0,372,f,f
+555,bloodsucker_thrower,264,ActorModel,0.0,10,f,0.0,t,t,f,bloodsucker_thrower,12.0,t,0.0,372,f,f
+556,bloodsucker_warrior,265,ActorModel,0.0,10,f,0.0,t,t,f,bloodsucker_warrior,12.0,t,0.0,372,f,f
+557,livingaxe,266,ActorModel,0.0,13,f,0.0,t,t,f,livingaxe,12.0,t,0.0,383,f,f
+558,livingsword,267,ActorModel,0.0,13,f,0.0,t,t,f,livingsword,12.0,t,0.0,382,f,f
+559,darkwolf,268,ActorModel,0.0,10,f,0.0,t,t,f,darkwolf,12.0,t,0.0,255,f,f
+560,garuda,269,ActorModel,0.0,10,f,4.0,t,t,f,garuda,12.0,t,5.0,291,f,f
+561,hawk_gos,270,ActorModel,0.0,10,f,0.0,t,t,f,hawk_gos,12.0,t,0.0,302,f,f
+562,hawk_silver,271,ActorModel,0.0,10,f,0.0,t,t,f,hawk_silver,12.0,t,1.5,302,f,f
+563,boar_wilderness,272,ActorModel,0.0,10,f,0.0,t,t,f,boar_wilderness,12.0,t,0.0,235,f,f
+564,mountainsheep_brown,273,ActorModel,0.0,10,f,0.0,t,t,f,mountainsheep_brown,12.0,t,0.0,341,f,f
+565,tiger_cart,17,VehicleModel,0.0,7,f,0.0,f,f,t,tiger_cart,12.0,t,0.0,177,t,f
+566,flyhell,274,ActorModel,0.0,10,f,0.0,t,t,f,flyhell,12.0,t,0.0,286,f,f
+567,pumpkinhead,275,ActorModel,0.0,10,f,0.0,t,t,f,pumpkinhead,12.0,t,0.0,366,f,f
+568,harpy_whitetail,276,ActorModel,0.0,10,f,0.0,t,t,f,harpy_whitetail,12.0,t,0.0,301,f,f
+569,werespider,277,ActorModel,0.0,10,f,0.0,t,t,f,werespider,12.0,t,0.0,263,f,f
+570,rafflesia,278,ActorModel,0.0,10,f,0.0,t,t,f,rafflesia,12.0,t,2.0,331,f,f
+571,rafflesia_paroma,279,ActorModel,0.0,10,f,0.0,t,t,f,rafflesia_paroma,12.0,t,2.0,331,f,f
+572,bear_white,280,ActorModel,0.0,10,f,0.0,t,t,f,bear_white,12.0,t,1.0,70,f,f
+573,mantis_leaf,281,ActorModel,0.0,10,f,0.0,t,t,f,mantis_leaf,12.0,t,0.0,338,f,f
+574,fepee_stump,282,ActorModel,0.0,10,f,0.0,t,t,f,fepee_stump,12.0,t,0.0,277,f,f
+575,twoheadsnake_spotted,283,ActorModel,0.0,10,f,0.0,t,t,f,twoheadsnake_spotted,12.0,t,0.0,298,f,f
+576,maledeer_rein,284,ActorModel,0.0,10,f,0.0,t,t,f,maledeer_rein,12.0,t,0.0,240,f,f
+577,scorpion_bone,285,ActorModel,0.0,14,f,0.0,t,t,f,scorpion_bone,12.0,t,0.0,308,f,f
+578,gorilla_snakecatcher,286,ActorModel,0.0,10,f,0.0,t,t,f,gorilla_snakecatcher,12.0,t,0.0,299,f,f
+579,tiger_white,287,ActorModel,0.0,10,f,0.0,t,t,f,tiger_white,12.0,t,0.0,295,f,f
+580,demisnake_female_archer,288,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_female_archer,12.0,t,1.5,243,f,f
+581,demisnake_female_mage,289,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_female_mage,12.0,t,1.5,243,f,f
+582,demisnake_female_warrior,290,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_female_warrior,12.0,t,1.5,243,f,f
+583,demisnake_male_archer,291,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_male_archer,12.0,t,1.5,244,f,f
+584,demisnake_male_mage,292,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_male_mage,12.0,t,1.5,244,f,f
+585,demisnake_male_warrior,293,ActorModel,0.0,10,f,0.0,t,t,f,demisnake_male_warrior,12.0,t,1.5,244,f,f
+586,juggernaut_warrior,294,ActorModel,0.0,10,f,0.0,t,t,f,juggernaut_warrior,12.0,t,0.0,315,f,f
+587,griffin_black,295,ActorModel,0.0,10,f,3.0,t,t,f,griffin_black,12.0,t,0.0,300,f,f
+588,griffin_brown,296,ActorModel,0.0,10,f,3.0,t,t,f,griffin_brown,12.0,t,0.0,300,f,f
+589,woodgiant_silent,297,ActorModel,0.0,7,f,0.0,t,t,f,woodgiant_silent,12.0,t,0.0,245,f,f
+590,biam_dust_flame_thrower,298,ActorModel,0.0,10,f,0.0,t,t,f,biam_dust_flame_thrower,12.0,t,0.0,74,f,f
+591,biam_dust_poison_thrower,299,ActorModel,0.0,10,f,0.0,t,t,f,biam_dust_poison_thrower,12.0,t,0.0,74,f,f
+592,biam_dust_archer,300,ActorModel,0.0,10,f,0.0,t,t,f,biam_dust_archer,12.0,t,0.0,74,f,f
+593,biam_dust_scratcher,301,ActorModel,0.0,10,f,0.0,t,t,f,biam_dust_scratcher,12.0,t,0.0,74,f,f
+594,biam_dust_warrior,302,ActorModel,0.0,10,f,0.0,t,t,f,biam_dust_warrior,12.0,t,0.0,74,f,f
+595,biam_reed_flame_thrower,303,ActorModel,0.0,10,f,0.0,t,t,f,biam_reed_flame_thrower,12.0,t,0.0,74,f,f
+596,biam_reed_poison_thrower,304,ActorModel,0.0,10,f,0.0,t,t,f,biam_reed_poison_thrower,12.0,t,0.0,74,f,f
+597,biam_reed_archer,305,ActorModel,0.0,10,f,0.0,t,t,f,biam_reed_archer,12.0,t,0.0,74,f,f
+598,biam_reed_scratcher,306,ActorModel,0.0,10,f,0.0,t,t,f,biam_reed_scratcher,12.0,t,0.0,74,f,f
+599,biam_reed_warrior,307,ActorModel,0.0,10,f,0.0,t,t,f,biam_reed_warrior,12.0,t,0.0,74,f,f
+600,mountainsheep_white,308,ActorModel,0.0,10,f,0.0,t,t,f,mountainsheep_white,12.0,t,0.0,341,f,f
+601,sheepdog,309,ActorModel,0.0,10,f,0.0,t,t,f,sheepdog,12.0,t,0.0,,f,f
+602,crawlingslime_moss,310,ActorModel,0.0,10,f,0.0,t,t,f,crawlingslime_moss,12.0,t,0.0,82,f,f
+603,porcupineslime_moss,311,ActorModel,0.0,10,f,0.0,t,t,f,porcupineslime_moss,12.0,t,0.0,365,f,f
+604,transfers_minetub01,18,VehicleModel,0.0,7,f,0.0,f,f,t,transfers_minetub01,12.0,t,0.0,,t,f
+605,transfers_minetub02,19,VehicleModel,0.0,7,f,0.0,f,f,t,transfers_minetub02,12.0,t,0.0,,t,f
+606,landship_nuia_tram01,20,VehicleModel,0.0,7,f,0.0,f,f,t,landship_nuia_tram01,12.0,t,0.0,179,f,f
+607,gargoyle_big,312,ActorModel,0.0,10,t,0.0,t,f,t,gargoyle_big,12.0,t,0.0,290,f,f
+608,dw_boy01,313,ActorModel,0.0,10,f,0.0,t,t,f,dw_boy01,12.0,t,0.0,,f,f
+609,scorpion_red,314,ActorModel,0.0,14,f,0.0,t,t,f,scorpion_red,12.0,t,0.0,308,f,f
+610,cockatrice,315,ActorModel,0.0,10,f,3.0,t,t,f,cockatrice,12.0,t,0.0,265,f,f
+611,spider_stripe,316,ActorModel,0.0,10,f,0.0,t,t,f,spider_stripe,12.0,t,0.0,322,f,f
+612,rat_black,317,ActorModel,0.0,10,f,0.0,t,t,f,rat_black,12.0,t,0.0,332,f,f
+613,spider_stripepup,318,ActorModel,0.0,10,f,0.0,t,t,f,spider_stripepup,12.0,t,0.0,322,f,f
+614,flamingo,319,ActorModel,0.0,10,f,0.0,t,t,f,flamingo,12.0,t,0.0,284,f,f
+615,fogmonster,320,ActorModel,0.0,10,f,0.0,t,t,f,fogmonster,12.0,t,0.0,293,f,f
+616,basilisk_black,321,ActorModel,0.0,10,f,0.0,t,t,f,basilisk_black,12.0,t,0.0,329,f,f
+617,basilisk,322,ActorModel,0.0,10,f,0.0,t,t,f,basilisk,12.0,t,0.0,329,f,f
+618,werefox,323,ActorModel,0.0,10,f,0.0,t,t,f,werefox,12.0,t,0.0,267,f,f
+619,horse_ghost,324,ActorModel,0.0,9,f,0.0,t,t,f,horse_ghost,12.0,t,0.0,305,f,f
+620,gargoyle,325,ActorModel,0.0,10,f,0.0,t,t,f,gargoyle,12.0,t,0.0,289,f,f
+621,smallgiant,326,ActorModel,0.0,8,f,0.0,t,t,f,smallgiant,12.0,t,0.0,51,f,f
+622,woodgiant_wild,327,ActorModel,0.0,7,f,0.0,t,t,f,woodgiant_wild,12.0,t,0.0,245,f,f
+623,woodgiant_silent_big,328,ActorModel,0.0,7,t,0.0,t,f,t,woodgiant_silent_big,12.0,t,0.0,247,f,f
+624,minotaurs_bone_warrior,329,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_bone_warrior,12.0,t,0.0,340,f,f
+625,minotaurs_warrior,330,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_warrior,12.0,t,0.0,340,f,f
+626,minotaurs_bone_spearman,331,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_bone_spearman,12.0,t,0.0,340,f,f
+627,minotaurs_spearman,332,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_spearman,12.0,t,0.0,340,f,f
+628,minotaurs_bone_mage,333,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_bone_mage,12.0,t,0.0,340,f,f
+629,minotaurs_mage,334,ActorModel,0.0,10,f,0.0,t,t,f,minotaurs_mage,12.0,t,0.0,340,f,f
+631,npc_chef01,336,ActorModel,0.0,10,f,0.0,t,t,f,npc_chef01,12.0,t,0.0,,f,f
+633,narayana_male,338,ActorModel,0.0,10,f,1.0,t,t,f,narayana_male,12.0,t,0.4,227,f,f
+634,narayana_female,339,ActorModel,0.0,10,f,1.0,t,t,f,narayana_female,12.0,t,0.4,228,f,f
+636,leopard_white,341,ActorModel,0.0,10,f,0.0,t,t,f,leopard_white,12.0,t,0.0,424,f,f
+637,삭제중 - 650.lion_female을 대신 써주세요.,342,ActorModel,0.0,10,f,0.0,t,t,f,model637,12.0,t,0.0,,f,f
+638,삭제중 - 649.lion_male 을 대신 써주세요.,343,ActorModel,0.0,10,f,0.0,t,t,f,model638,12.0,t,0.0,,f,f
+639,snowlion_ghost,344,ActorModel,0.0,9,f,0.0,t,t,f,snowlion_ghost,12.0,t,0.0,316,f,f
+640,collectmachine_worn,345,ActorModel,0.0,13,f,0.0,t,t,f,collectmachine_worn,12.0,t,0.0,268,f,f
+641,collectmachine_rust,346,ActorModel,0.0,13,f,0.0,t,t,f,collectmachine_rust,12.0,t,0.0,268,f,f
+642,detectmachine_worn,347,ActorModel,0.0,13,f,0.0,t,t,f,detectmachine_worn,12.0,t,0.0,246,f,f
+643,detectmachine_rust,348,ActorModel,0.0,13,f,0.0,t,t,f,detectmachine_rust,12.0,t,0.0,246,f,f
+644,crushmachine_worn,349,ActorModel,0.0,13,f,0.0,t,t,f,crushmachine_worn,12.0,t,0.0,274,f,f
+645,crushmachine_rust,350,ActorModel,0.0,13,f,0.0,t,t,f,crushmachine_rust,12.0,t,0.0,274,f,f
+646,npc_blacksmith01,351,ActorModel,0.0,10,f,0.0,t,t,f,npc_blacksmith01,12.0,t,0.0,,f,f
+647,narayana_girl01,352,ActorModel,0.0,10,f,0.0,t,t,f,narayana_girl01,12.0,t,0.7,,f,f
+648,woodgiant_faded,353,ActorModel,0.0,7,t,0.0,t,f,t,woodgiant_faded,12.0,t,0.0,247,f,f
+649,malelion,354,ActorModel,0.0,10,f,0.0,t,t,f,malelion,12.0,t,0.0,397,f,f
+650,femalelion,355,ActorModel,0.0,10,f,0.0,t,t,f,femalelion,12.0,t,0.0,397,f,f
+651,snowlion_yellomane,356,ActorModel,0.0,10,f,0.0,t,f,t,snowlion_yellomane,15.0,t,1.35,321,f,f
+652,fox_blue,357,ActorModel,0.0,10,f,0.0,t,t,f,fox_blue,12.0,t,0.0,287,f,f
+653,carriage_trailed,21,VehicleModel,0.0,7,f,0.0,f,f,t,carriage_trailed,12.0,t,0.0,,f,f
+654,carriage_main,22,VehicleModel,0.0,7,f,0.0,f,f,t,carriage_main,12.0,t,0.0,175,t,f
+655,carriage_wheel_a,23,VehicleModel,0.0,7,f,0.0,t,t,f,carriage_wheel_a,12.0,t,0.0,,f,f
+656,carriage_wheel_b,24,VehicleModel,0.0,7,f,0.0,t,t,f,carriage_wheel_b,12.0,t,0.0,,f,f
+657,airship,25,VehicleModel,0.0,7,t,0.0,f,f,t,airship,12.0,t,0.0,178,t,f
+658,snowlion_monster,358,ActorModel,0.0,10,f,0.0,t,t,f,snowlion_monster,12.0,t,0.0,36,f,f
+660,hawk_kestrel,360,ActorModel,0.0,10,f,0.0,t,t,f,hawk_kestrel,12.0,t,1.5,302,f,f
+661,daru_tamer,361,ActorModel,0.0,10,f,0.0,t,t,f,daru_tamer,12.0,t,0.0,237,f,f
+662,horse_lightbrown_monster,362,ActorModel,0.0,10,f,0.0,t,t,f,horse_lightbrown_monster,12.0,t,0.0,304,f,f
+663,shipyard_final,267,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_final,12.0,t,0.0,,f,f
+664,shipyard_00,268,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_00,12.0,t,0.0,,f,f
+665,shipyard_01,269,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_01,12.0,t,0.0,,f,f
+666,shipyard_06,270,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_06,12.0,t,0.0,,f,f
+667,포탈게이트(출구),271,PrefabModel,0.0,9,f,0.0,f,f,t,model667,12.0,t,0.0,,f,f
+668,femalelion_riding,363,ActorModel,0.0,10,f,0.0,t,f,t,femalelion_riding,15.0,t,0.3,,f,f
+669,malelion_riding,364,ActorModel,0.0,10,f,0.0,t,f,t,malelion_riding,15.0,t,0.3,,f,f
+670,shipyard_step_01,272,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_step_01,12.0,t,0.0,,f,f
+671,shipyard_step_02,273,PrefabModel,0.0,7,t,0.0,t,t,f,shipyard_step_02,12.0,t,0.0,,f,f
+672,투명,365,ActorModel,0.0,10,f,0.0,f,f,f,model672,12.0,t,0.0,,f,f
+673,galleon_housing_01,274,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_01,12.0,t,0.0,,f,f
+674,galleon_housing_02,275,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_02,12.0,t,0.0,,f,f
+675,galleon_housing_03,276,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_03,12.0,t,0.0,,f,f
+676,galleon_housing_04,277,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_04,12.0,t,0.0,,f,f
+677,galleon_housing_05,278,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_05,12.0,t,0.0,,f,f
+678,galleon_housing_06,279,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_06,12.0,t,0.0,,f,f
+679,galleon_housing_07,280,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_07,12.0,t,0.0,,f,f
+680,galleon_housing_08,281,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_08,12.0,t,0.0,,f,f
+681,galleon_housing_09,282,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_09,12.0,t,0.0,,f,f
+683,galleon_housing_final,284,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_housing_final,12.0,t,0.0,,f,f
+684,galleon01_housing_08,285,PrefabModel,0.0,7,t,0.0,f,f,t,galleon01_housing_08,12.0,t,0.0,,f,f
+685,galleon01_housing_final,286,PrefabModel,0.0,7,t,0.0,f,f,t,galleon01_housing_final,12.0,t,0.0,,f,f
+686,galleon02_housing_10,287,PrefabModel,0.0,7,t,0.0,f,f,t,galleon02_housing_10,12.0,t,0.0,,f,f
+687,galleon02_housing_final,288,PrefabModel,0.0,7,t,0.0,f,f,t,galleon02_housing_final,12.0,t,0.0,,f,f
+688,cbt3_castle_wall_a,289,PrefabModel,0.0,8,t,0.0,t,t,f,cbt3_castle_wall_a,12.0,t,0.0,,f,f
+689,cbt3_castle_wall_b,290,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_wall_b,12.0,t,0.0,,f,f
+690,cbt3_castle_wall_c,291,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_wall_c,12.0,t,0.0,,f,f
+691,cbt3_castle_wall_d,292,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_wall_d,12.0,t,0.0,,f,f
+692,cbt3_castle_wall_e,293,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_wall_e,12.0,t,0.0,,f,f
+693,cbt3_castle_tower_a,294,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_tower_a,12.0,t,0.0,,f,f
+694,cbt3_castle_tower_b,295,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_tower_b,12.0,t,0.0,,f,f
+695,cbt3_castle_tower_c,296,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_tower_c,12.0,t,0.0,,f,f
+696,cbt3_castle_tower_d,297,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_tower_d,12.0,t,0.0,,f,f
+697,cbt3_castle_tower_e,298,PrefabModel,0.0,8,f,0.0,t,t,f,cbt3_castle_tower_e,12.0,t,0.0,,f,f
+698,turret_a,366,ActorModel,0.0,13,f,0.0,t,t,f,turret_a,12.0,t,0.0,,f,f
+699,eagle_big,367,ActorModel,0.0,10,t,0.0,t,f,t,eagle_big,12.0,t,0.0,279,f,f
+700,turret_b,368,ActorModel,0.0,13,f,0.0,t,t,f,turret_b,12.0,t,1.0,,f,f
+701,snowlion_blackmane,369,ActorModel,0.0,10,f,0.0,t,f,t,snowlion_blackmane,15.0,t,0.0,321,f,f
+702,yata_monster,370,ActorModel,0.0,10,f,0.0,t,t,f,yata_monster,12.0,t,0.0,17,f,f
+703,housing_new_a step0,299,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_a_step0,12.0,t,0.0,,f,f
+704,housing_new_a step1,300,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_a_step1,12.0,t,0.0,,f,f
+705,housing_new_a step2,301,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_a_step2,12.0,t,0.0,,f,f
+706,housing_new_a step3,302,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_a_step3,12.0,t,0.0,,f,f
+707,housing_new_a step4,303,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_a_step4,12.0,t,0.0,,f,f
+708,housing_new_b step0 ,304,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_b_step0,12.0,t,0.0,,f,f
+709,housing_new_b step1,305,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_b_step1,12.0,t,0.0,,f,f
+710,housing_new_b step2,306,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_b_step2,12.0,t,0.0,,f,f
+711,housing_new_b step3,307,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_b_step3,12.0,t,0.0,,f,f
+712,housing_new_b step4,308,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_b_step4,12.0,t,0.0,,f,f
+713,housing_new_c step0,309,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_c_step0,12.0,t,0.0,,f,f
+714,housing_new_c step1,310,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_c_step1,12.0,t,0.0,,f,f
+715,housing_new_c step2,311,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_c_step2,12.0,t,0.0,,f,f
+716,housing_new_c step3,312,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_c_step3,12.0,t,0.0,,f,f
+717,housing_new_c step4,313,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_c_step4,12.0,t,0.0,,f,f
+718,housing_new_d step0,314,PrefabModel,0.0,7,t,0.0,f,f,t,housing_new_d_step0,12.0,t,0.0,,f,f
+719,housing_new_d step1,315,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_d_step1,12.0,t,0.0,,f,f
+720,housing_new_d step2,316,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_d_step2,12.0,t,0.0,,f,f
+721,housing_new_d step3,317,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_d_step3,12.0,t,0.0,,f,f
+722,housing_new_d step4,318,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_d_step4,12.0,t,0.0,,f,f
+723,housing_new_e step0,319,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_e_step0,12.0,t,0.0,,f,f
+724,housing_new_e step1,320,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_e_step1,12.0,t,0.0,,f,f
+725,housing_new_e step2,321,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_e_step2,12.0,t,0.0,,f,f
+726,housing_new_e step3,322,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_e_step3,12.0,t,0.0,,f,f
+727,housing_new_e step4,323,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_e_step4,12.0,t,0.0,,f,f
+728,housing_new_f step0,324,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_f_step0,12.0,t,0.0,,f,f
+729,housing_new_f step1,325,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_f_step1,12.0,t,0.0,,f,f
+730,housing_new_f step2,326,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_f_step2,12.0,t,0.0,,f,f
+731,housing_new_f step3,327,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_f_step3,12.0,t,0.0,,f,f
+732,housing_new_f step4,328,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_f_step4,12.0,t,0.0,,f,f
+733,housing_new_g step0,329,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_g_step0,12.0,t,0.0,,f,f
+734,housing_new_g step1,330,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_g_step1,12.0,t,0.0,,f,f
+735,housing_new_g step2,331,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_g_step2,12.0,t,0.0,,f,f
+736,housing_new_g step3,332,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_g_step3,12.0,t,0.0,,f,f
+737,housing_new_g step4,333,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_g_step4,12.0,t,0.0,,f,f
+738,housing_new_h step0,334,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_h_step0,12.0,t,0.0,,f,f
+739,housing_new_h step1,335,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_h_step1,12.0,t,0.0,,f,f
+740,housing_new_h step2,336,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_h_step2,12.0,t,0.0,,f,f
+741,housing_new_h step3,337,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_h_step3,12.0,t,0.0,,f,f
+742,housing_new_h step4,338,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_h_step4,12.0,t,0.0,,f,f
+743,housing_new_i step0,339,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_i_step0,12.0,t,0.0,,f,f
+744,housing_new_i step1,340,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_i_step1,12.0,t,0.0,,f,f
+745,housing_new_i step2,341,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_i_step2,12.0,t,0.0,,f,f
+746,housing_new_i step3,342,PrefabModel,0.0,7,t,-1.0,f,f,t,housing_new_i_step3,12.0,t,0.0,,f,f
+747,housing_new_i step4,343,PrefabModel,1.8,7,t,-1.0,f,f,t,housing_new_i_step4,12.0,t,0.0,,f,f
+748,faceless_scratcher,371,ActorModel,0.0,10,f,0.0,t,t,f,faceless_scratcher,12.0,t,0.0,275,f,f
+749,faceless_sorcerer,372,ActorModel,0.0,10,f,0.0,t,t,f,faceless_sorcerer,12.0,t,0.0,275,f,f
+750,faceless_thrower,373,ActorModel,0.0,10,f,0.0,t,t,f,faceless_thrower,12.0,t,0.0,275,f,f
+751,shark_white,374,ActorModel,0.0,10,f,0.0,t,t,f,shark_white,12.0,t,0.0,310,f,f
+752,lizard_fast,375,ActorModel,0.0,10,f,0.0,t,t,f,lizard_fast,12.0,t,0.0,319,f,f
+753,flyhell_spotted,376,ActorModel,0.0,10,f,0.0,t,t,f,flyhell_spotted,12.0,t,0.0,286,f,f
+754,mandragora_spotted,377,ActorModel,0.0,10,f,0.0,t,t,f,mandragora_spotted,12.0,t,0.0,337,f,f
+755,centipede_spotted,378,ActorModel,0.0,10,f,0.0,t,t,f,centipede_spotted,12.0,t,3.5,77,f,f
+756,cockatrice_wild,379,ActorModel,0.0,10,f,3.0,t,t,f,cockatrice_wild,12.0,t,0.0,265,f,f
+757,garuda_jade,380,ActorModel,0.0,10,f,0.0,t,t,f,garuda_jade,12.0,t,5.0,291,f,f
+758,mimic_worn,381,ActorModel,0.0,10,f,0.0,t,t,f,mimic_worn,12.0,t,0.0,339,f,f
+759,rat_brown,382,ActorModel,0.0,10,f,0.0,t,t,f,rat_brown,12.0,t,0.0,332,f,f
+760,rat_grey,383,ActorModel,0.0,10,f,0.0,t,t,f,rat_grey,12.0,t,0.0,332,f,f
+761,rat_white,384,ActorModel,0.0,10,f,0.0,t,t,f,rat_white,12.0,t,0.0,332,f,f
+762,rat_yellow,385,ActorModel,0.0,10,f,0.0,t,t,f,rat_yellow,12.0,t,0.0,332,f,f
+763,twoheadsnake_swamp,386,ActorModel,0.0,10,f,0.0,t,t,f,twoheadsnake_swamp,12.0,t,0.0,298,f,f
+767,biarm_stoneax_archer,387,ActorModel,0.0,10,f,0.0,t,t,f,biarm_stoneax_archer,12.0,t,0.0,74,f,f
+768,biarm_stoneax_scratcher,388,ActorModel,0.0,10,f,0.0,t,t,f,biarm_stoneax_scratcher,12.0,t,0.0,74,f,f
+769,biarm_stoneax_warrior,389,ActorModel,0.0,10,f,0.0,t,t,f,biarm_stoneax_warrior,12.0,t,0.0,74,f,f
+770,biarm_stoneaxhq_flame_thrower,390,ActorModel,0.0,10,f,0.0,t,t,f,biarm_stoneaxhq_flame_thrower,12.0,t,0.0,74,f,f
+771,biarm_stoneaxhq_poison_thrower,391,ActorModel,0.0,10,f,0.0,t,t,f,biarm_stoneaxhq_poison_thrower,12.0,t,0.0,74,f,f
+772,singboat,26,VehicleModel,0.0,7,f,0.0,t,t,f,singboat,12.0,t,0.0,145,f,t
+773,singshiphouse,27,VehicleModel,0.0,7,f,0.0,t,t,f,singshiphouse,12.0,t,0.0,,f,f
+774,frog_green,392,ActorModel,0.0,10,f,0.0,t,t,f,frog_green,12.0,t,0.0,288,f,f
+776,green_python,394,ActorModel,0.0,10,f,0.0,t,t,f,green_python,12.0,t,0.0,408,f,f
+777,viper_snake,395,ActorModel,0.0,10,f,0.0,t,t,f,viper_snake,12.0,t,0.0,408,f,f
+778,flower_snake,396,ActorModel,0.0,10,f,0.0,t,t,f,flower_snake,12.0,t,0.0,408,f,f
+779,frog_brown,397,ActorModel,0.0,10,f,0.0,t,t,f,frog_brown,12.0,t,0.0,288,f,f
+780,frog_brown_spot,398,ActorModel,0.0,10,f,0.0,t,t,f,frog_brown_spot,12.0,t,0.0,288,f,f
+781,frog_green_spot,399,ActorModel,0.0,10,f,0.0,t,t,f,frog_green_spot,12.0,t,0.0,288,f,f
+782,daru_pilot,400,ActorModel,0.0,10,f,0.0,t,t,f,daru_pilot,12.0,t,0.0,237,f,f
+783,centauros_snowfield_archer,401,ActorModel,0.0,10,f,0.0,t,t,f,centauros_snowfield_archer,12.0,t,0.0,264,f,f
+784,centauros_snowfield_warrior,402,ActorModel,0.0,10,f,0.0,t,t,f,centauros_snowfield_warrior,12.0,t,0.0,264,f,f
+785,centauros_black_archer,403,ActorModel,0.0,10,f,0.0,t,t,f,centauros_black_archer,12.0,t,0.0,264,f,f
+786,centauros_black_shaman,404,ActorModel,0.0,10,f,0.0,t,t,f,centauros_black_shaman,12.0,t,0.0,264,f,f
+787,centauros_black_warrior,405,ActorModel,0.0,10,f,0.0,t,t,f,centauros_black_warrior,12.0,t,0.0,264,f,f
+788,grubs_bone,406,ActorModel,0.0,10,f,0.0,t,t,f,grubs_bone,12.0,t,0.0,8,f,f
+789,harpy_redwing,407,ActorModel,0.0,10,f,0.0,t,t,f,harpy_redwing,12.0,t,0.0,301,f,f
+791,sarracenia_bogs,409,ActorModel,0.0,10,f,0.0,t,t,f,sarracenia_bogs,12.0,t,0.0,307,f,f
+792,nuian_castle_tower a step4,347,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_tower_a_step4,12.0,f,0.0,,f,f
+793,nuian_castle_tower a step3,348,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_a_step3,12.0,t,0.0,,f,f
+794,nuian_castle_tower a step2,349,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_a_step2,12.0,t,0.0,,f,f
+795,nuian_castle_tower a step1,350,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_a_step1,12.0,t,0.0,,f,f
+796,nuian_castle_tower a step0,351,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_a_step0,12.0,t,0.0,,f,f
+797,nuian_castle_tower b step4,352,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_tower_b_step4,12.0,t,0.0,,f,f
+798,nuian_castle_tower b step3,353,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_b_step3,12.0,t,0.0,,f,f
+799,nuian_castle_tower b step2,354,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_b_step2,12.0,t,0.0,,f,f
+800,nuian_castle_tower b step1,355,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_b_step1,12.0,t,0.0,,f,f
+801,nuian_castle_tower b step0,356,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_tower_b_step0,12.0,t,0.0,,f,f
+802,nuian_castle_wall_13m_slope0 step4,357,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope0_step4,12.0,t,0.0,,f,f
+803,nuian_castle_wall_13m_slope0 step3,358,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope0_step3,12.0,t,0.0,,f,f
+804,nuian_castle_wall_13m_slope0 step2,359,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope0_step2,12.0,t,0.0,,f,f
+805,nuian_castle_wall_13m_slope0 step1,360,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope0_step1,12.0,t,0.0,,f,f
+806,nuian_castle_wall_13m_slope0 step0,361,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope0_step0,12.0,t,0.0,,f,f
+807,nuian_castle_wall_13m_slope1 step4,362,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1_step4,12.0,t,0.0,,f,f
+808,nuian_castle_wall_13m_slope1 step3,363,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1_step3,12.0,t,0.0,,f,f
+809,nuian_castle_wall_13m_slope1 step2,364,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1_step2,12.0,t,0.0,,f,f
+810,nuian_castle_wall_13m_slope1 step1,365,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1_step1,12.0,t,0.0,,f,f
+811,nuian_castle_wall_13m_slope1 step0,366,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1_step0,12.0,t,0.0,,f,f
+812,nuian_castle_wall_13m_slope2 step4,367,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2_step4,12.0,t,0.0,,f,f
+813,nuian_castle_wall_13m_slope2 step3,368,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2_step3,12.0,t,0.0,,f,f
+814,nuian_castle_wall_13m_slope2 step2,369,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2_step2,12.0,t,0.0,,f,f
+815,nuian_castle_wall_13m_slope2 step1,370,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2_step1,12.0,t,0.0,,f,f
+816,nuian_castle_wall_13m_slope2 step0,371,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2_step0,12.0,t,0.0,,f,f
+817,nuian_castle_wall_21m_slope0 step4,372,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope0_step4,12.0,t,0.0,,f,f
+818,nuian_castle_wall_21m_slope0 step3,373,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope0_step3,12.0,t,0.0,,f,f
+819,nuian_castle_wall_21m_slope0 step2,374,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope0_step2,12.0,t,0.0,,f,f
+820,nuian_castle_wall_21m_slope0 step1,375,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope0_step1,12.0,t,0.0,,f,f
+821,nuian_castle_wall_21m_slope0 step0,376,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope0_step0,12.0,t,0.0,,f,f
+822,nuian_castle_wall_21m_slope1 step4,377,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1_step4,12.0,t,0.0,,f,f
+823,nuian_castle_wall_21m_slope1 step3,378,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1_step3,12.0,t,0.0,,f,f
+824,nuian_castle_wall_21m_slope1 step2,379,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1_step2,12.0,t,0.0,,f,f
+825,nuian_castle_wall_21m_slope1 step1,380,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1_step1,12.0,t,0.0,,f,f
+826,nuian_castle_wall_21m_slope1 step0,381,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1_step0,12.0,t,0.0,,f,f
+827,nuian_castle_wall_21m_slope2 step4,382,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2_step4,12.0,t,0.0,,f,f
+828,nuian_castle_wall_21m_slope2 step3,383,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2_step3,12.0,t,0.0,,f,f
+829,nuian_castle_wall_21m_slope2 step2,384,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2_step2,12.0,t,0.0,,f,f
+830,nuian_castle_wall_21m_slope2 step1,385,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2_step1,12.0,t,0.0,,f,f
+831,nuian_castle_wall_21m_slope2 step0,386,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2_step0,12.0,t,0.0,,f,f
+832,hippogriff,410,ActorModel,0.0,10,f,0.0,t,t,f,hippogriff,12.0,t,0.0,,f,f
+834,kraken_test,412,ActorModel,0.0,10,t,0.0,t,f,f,kraken_test,12.0,t,0.0,318,f,f
+835,황의 탱크,28,VehicleModel,0.0,7,f,0.0,t,t,f,model835,12.0,t,0.0,171,f,f
+836,nuian_castle_wall_13m_slope1m step4,387,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1m_step4,12.0,t,0.0,,f,f
+837,nuian_castle_wall_13m_slope1m step3,388,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1m_step3,12.0,t,0.0,,f,f
+838,nuian_castle_wall_13m_slope1m step2,389,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1m_step2,12.0,t,0.0,,f,f
+839,nuian_castle_wall_13m_slope1m step1,390,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1m_step1,12.0,t,0.0,,f,f
+840,nuian_castle_wall_13m_slope1m step0,391,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope1m_step0,12.0,t,0.0,,f,f
+841,nuian_castle_wall_13m_slope2m step4,392,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2m_step4,12.0,t,0.0,,f,f
+842,nuian_castle_wall_13m_slope2m step3,393,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2m_step3,12.0,t,0.0,,f,f
+843,nuian_castle_wall_13m_slope2m step2,394,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2m_step2,12.0,t,0.0,,f,f
+844,nuian_castle_wall_13m_slope2m step1,395,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2m_step1,12.0,t,0.0,,f,f
+845,nuian_castle_wall_13m_slope2m step0,396,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_13m_slope2m_step0,12.0,t,0.0,,f,f
+846,nuian_castle_wall_21m_slope1m step4,397,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1m_step4,12.0,t,0.0,,f,f
+847,nuian_castle_wall_21m_slope1m step3,398,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1m_step3,12.0,t,0.0,,f,f
+848,nuian_castle_wall_21m_slope1m step2,399,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1m_step2,12.0,t,0.0,,f,f
+849,nuian_castle_wall_21m_slope1m step1,400,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1m_step1,12.0,t,0.0,,f,f
+850,nuian_castle_wall_21m_slope1m step0,401,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope1m_step0,12.0,t,0.0,,f,f
+851,nuian_castle_wall_21m_slope2m step4,402,PrefabModel,10.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2m_step4,12.0,t,0.0,,f,f
+852,nuian_castle_wall_21m_slope2m step3,403,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2m_step3,12.0,t,0.0,,f,f
+853,nuian_castle_wall_21m_slope2m step2,404,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2m_step2,12.0,t,0.0,,f,f
+854,nuian_castle_wall_21m_slope2m step1,405,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2m_step1,12.0,t,0.0,,f,f
+855,nuian_castle_wall_21m_slope2m step0,406,PrefabModel,2.0,8,t,0.0,f,f,t,nuian_castle_wall_21m_slope2m_step0,12.0,t,0.0,,f,f
+857,황의 탱크2,29,VehicleModel,0.0,7,f,0.0,t,t,f,model857,12.0,t,0.0,171,f,f
+858,sheep_black,413,ActorModel,0.0,10,f,0.0,t,t,f,sheep_black,12.0,t,0.0,,f,f
+859,sheep_brown,414,ActorModel,0.0,10,f,0.0,t,t,f,sheep_brown,12.0,t,0.0,,f,f
+860,flamingo_blue,415,ActorModel,0.0,10,f,0.0,t,t,f,flamingo_blue,12.0,t,0.0,284,f,f
+862,yaksa_big,417,ActorModel,0.0,8,t,0.0,t,f,t,yaksa_big,12.0,t,0.0,239,f,f
+863,chicken,418,ActorModel,0.0,10,f,0.0,t,t,f,chicken,12.0,t,0.0,,f,f
+864,porcupineslime_long,419,ActorModel,0.0,10,f,0.0,t,t,f,porcupineslime_long,12.0,t,0.0,365,f,f
+865,kraken_gstar,420,ActorModel,0.0,10,t,0.0,t,f,f,kraken_gstar,12.0,t,0.0,318,f,f
+866,뜰틀,10,ShipModel,0.0,12,f,0.0,f,f,t,model866,12.0,t,0.0,,f,f
+867,황의 쾌속정,11,ShipModel,0.0,12,t,0.0,f,t,t,model867,12.0,t,0.0,146,f,f
+868,nuia_h_castle_brige_a step4,408,PrefabModel,10.0,7,t,-1.0,f,f,t,nuia_h_castle_brige_a_step4,12.0,t,0.0,,f,f
+869,nuia_h_castle_brige_a step0,409,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_castle_brige_a_step0,12.0,t,0.0,,f,f
+870,castle_gate_a step4,410,PrefabModel,10.0,8,t,-1.0,f,f,t,castle_gate_a_step4,12.0,t,0.0,,f,f
+871,castle_gate_a step3,411,PrefabModel,2.0,8,t,-1.0,f,f,t,castle_gate_a_step3,12.0,t,0.0,,f,f
+872,castle_gate_a step2,412,PrefabModel,2.0,8,t,-1.0,f,f,t,castle_gate_a_step2,12.0,t,0.0,,f,f
+873,castle_gate_a step1,413,PrefabModel,-1.0,8,t,2.0,f,f,t,castle_gate_a_step1,12.0,t,0.0,,f,f
+874,castle_gate_a step0,414,PrefabModel,2.0,8,t,-1.0,f,f,t,castle_gate_a_step0,12.0,t,0.0,,f,f
+875,nuia_h_castle_brige_b step4 ,415,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_castle_brige_b_step4,12.0,t,0.0,,f,f
+876,nuia_h_castle_brige_b step0 ,416,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_castle_brige_b_step0,12.0,t,0.0,,f,f
+877,nuia_h_guild_a step4,417,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_a_step4,12.0,t,0.0,,f,f
+878,nuia_h_guild_a step3,418,PrefabModel,1.0,7,t,-1.0,f,f,t,nuia_h_guild_a_step3,12.0,t,0.0,,f,f
+879,nuia_h_guild_a step2,419,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_a_step2,12.0,t,0.0,,f,f
+880,nuia_h_guild_a step1,420,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_a_step1,12.0,t,0.0,,f,f
+881,nuia_h_guild_a step0,421,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_a_step0,12.0,t,0.0,,f,f
+882,nuia_h_guild_b step4,422,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_b_step4,12.0,t,0.0,,f,f
+883,nuia_h_guild_b step3,423,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_b_step3,12.0,t,0.0,,f,f
+884,nuia_h_guild_b step2,424,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_b_step2,12.0,t,0.0,,f,f
+885,nuia_h_guild_b step1,425,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_b_step1,12.0,t,0.0,,f,f
+886,nuia_h_guild_b step0,426,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_b_step0,12.0,t,0.0,,f,f
+887,nuia_h_guild_c step4,427,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_c_step4,12.0,t,0.0,,f,f
+888,nuia_h_guild_c step3,428,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_c_step3,12.0,t,0.0,,f,f
+889,nuia_h_guild_c step2,429,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_c_step2,12.0,t,0.0,,f,f
+890,nuia_h_guild_c step1,430,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_c_step1,12.0,t,0.0,,f,f
+891,nuia_h_guild_c step0,431,PrefabModel,2.0,7,t,-1.0,f,f,t,nuia_h_guild_c_step0,12.0,t,0.0,,f,f
+892,고전 전차,30,VehicleModel,3.0,7,f,0.0,f,f,t,siegetank_a,20.0,t,0.0,171,t,f
+893,guard tower_base,432,PrefabModel,2.0,8,t,0.0,f,f,t,guard_tower_base,12.0,t,0.0,,f,f
+894,guard tower_active,433,PrefabModel,2.0,8,t,0.0,f,f,t,guard_tower_active,12.0,t,0.0,,f,f
+895,harpoon,31,VehicleModel,0.0,7,f,0.0,t,t,f,harpoon,20.0,f,0.0,,f,f
+896,치근의 날으는 양탄자,32,VehicleModel,0.0,10,f,0.0,f,f,t,flyingcarpet,12.0,t,0.0,,f,f
+897,크라켄,421,ActorModel,0.0,10,t,0.0,f,f,t,kraken,12.0,t,0.0,318,f,f
+898,화염 공성 전차,33,VehicleModel,3.0,7,f,0.0,f,f,t,siegetank_b,20.0,t,0.0,171,t,f
+899,철갑 공성 전차,34,VehicleModel,3.0,7,f,0.0,f,f,t,siegetank_c,20.0,t,0.0,171,t,f
+900,giant_brute,422,ActorModel,0.0,8,t,0.0,t,f,f,giant_brute,12.0,t,0.0,51,f,f
+901,basilisk_big,423,ActorModel,0.0,10,t,0.0,t,f,f,basilisk_big,12.0,t,0.0,232,f,f
+902,누이아 중형주택 A,434,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_a_step0,12.0,t,0.0,,f,f
+903,누이아 중형주택 A,435,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_a_step1,12.0,t,0.0,,f,f
+904,누이아 중형주택 A,436,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_a_step2,12.0,t,0.0,,f,f
+905,누이아 중형주택 A,437,PrefabModel,0.0,7,f,0.0,f,f,t,housing_120_a_step3,12.0,t,0.0,,f,f
+906,누이아 중형주택 A,438,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_a_step4,12.0,t,0.0,,f,f
+907,누이아 중형주택 B,439,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_b_step0,12.0,t,0.0,,f,f
+908,누이아 중형주택 B,440,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_b_step1,12.0,t,0.0,,f,f
+909,누이아 중형주택 B,441,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_b_step2,12.0,t,0.0,,f,f
+910,누이아 중형주택 B,442,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_b_step3,12.0,t,0.0,,f,f
+911,누이아 중형주택 B,443,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_b_step4,12.0,t,0.0,,f,f
+912,누이아 중형주택 C,444,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_c_step0,12.0,t,0.0,,f,f
+913,누이아 중형주택 C,445,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_c_step1,12.0,t,0.0,,f,f
+914,누이아 중형주택 C,446,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_c_step2,12.0,t,0.0,,f,f
+915,누이아 중형주택 C,447,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_c_step3,12.0,t,0.0,,f,f
+916,누이아 중형주택 C,448,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_c_step4,12.0,t,0.0,,f,f
+917,누이아 중형주택 D,449,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_d_step0,12.0,t,0.0,,f,f
+918,누이아 중형주택 D,450,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_d_step1,12.0,t,0.0,,f,f
+919,누이아 중형주택 D,451,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_d_step2,12.0,t,0.0,,f,f
+920,누이아 중형주택 D,452,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_d_step3,12.0,t,0.0,,f,f
+921,누이아 중형주택 D,453,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_d_step4,12.0,t,0.0,,f,f
+922,누이아 중형주택 E,454,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_e_step0,12.0,t,0.0,,f,f
+923,누이아 중형주택 E,455,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_e_step1,12.0,t,0.0,,f,f
+924,누이아 중형주택 E,456,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_e_step2,12.0,t,0.0,,f,f
+925,누이아 중형주택 E,457,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_e_step3,12.0,t,0.0,,f,f
+926,누이아 중형주택 E,458,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_e_step4,12.0,t,0.0,,f,f
+927,누이아 중형주택 F,459,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_f_step0,12.0,t,0.0,,f,f
+928,누이아 중형주택 F,460,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_f_step1,12.0,t,0.0,,f,f
+929,누이아 중형주택 F,461,PrefabModel,0.0,7,f,0.0,f,f,t,housing_120_f_step2,12.0,t,0.0,,f,f
+930,누이아 중형주택 F,462,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_f_step3,12.0,t,0.0,,f,f
+931,누이아 중형주택 F,463,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_f_step4,12.0,t,0.0,,f,f
+932,누이아 중형주택 G,464,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_g_step0,12.0,t,0.0,,f,f
+933,누이아 중형주택 G,465,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_g_step1,12.0,t,0.0,,f,f
+934,누이아 중형주택 G,466,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_g_step2,12.0,t,0.0,,f,f
+935,누이아 중형주택 G,467,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_g_step3,12.0,t,0.0,,f,f
+936,누이아 중형주택 G,468,PrefabModel,6.0,7,f,0.0,f,f,t,housing_120_g_step4,12.0,t,0.0,,f,f
+937,누이아 중형주택 H,469,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_h_step0,12.0,t,0.0,,f,f
+938,누이아 중형주택 H,470,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_h_step1,12.0,t,0.0,,f,f
+939,누이아 중형주택 H,471,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_h_step2,12.0,t,0.0,,f,f
+940,누이아 중형주택 H,472,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_h_step3,12.0,t,0.0,,f,f
+941, 누이아 중형주택 H,473,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_h_step4,12.0,t,0.0,,f,f
+942,누이아 중형주택 I,474,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_i_step0,12.0,t,0.0,,f,f
+943,누이아 중형주택 I,475,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_i_step1,12.0,t,0.0,,f,f
+944,누이아 중형주택 I,476,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_i_step2,12.0,t,0.0,,f,f
+945,누이아 중형주택 I,477,PrefabModel,0.0,7,t,0.0,f,f,t,housing_120_i_step3,12.0,t,0.0,,f,f
+946,누이아 중형주택 I,478,PrefabModel,6.0,7,t,0.0,f,f,t,housing_120_i_step4,12.0,t,0.0,,f,f
+947,yaksa_bard,424,ActorModel,0.0,8,f,0.0,t,t,f,yaksa_bard,12.0,t,0.0,66,f,f
+948,yaksa_shaman,425,ActorModel,0.0,8,f,0.0,t,t,f,yaksa_shaman,12.0,t,0.0,66,f,f
+949,yaksa_spearman,426,ActorModel,0.0,8,f,0.0,t,t,f,yaksa_spearman,12.0,t,0.0,66,f,f
+950,yaksa_warrior,427,ActorModel,0.0,8,f,0.0,t,t,f,yaksa_warrior,12.0,t,0.0,66,f,f
+951,amoredspecter_hunter,428,ActorModel,0.0,10,f,0.0,t,t,f,amoredspecter_hunter,12.0,t,0.0,367,f,f
+952,움직이지 않는 체험용 전차,35,VehicleModel,3.0,7,f,0.0,f,f,t,siegetank_holdposition,12.0,t,0.0,171,f,f
+953,donkey,429,ActorModel,0.0,10,f,0.0,t,f,t,donkey,15.0,t,1.2,422,f,f
+954,ncom_potal_a,430,ActorModel,0.0,13,f,0.0,t,t,f,ncom_potal_a,12.0,t,0.0,,f,f
+955,해적선 제작대 05,479,PrefabModel,0.0,7,t,0.0,f,f,t,pirate_housing_05,12.0,t,0.0,,f,f
+956,해적선 제작대 06,480,PrefabModel,0.0,7,t,0.0,f,f,t,pirate_housing_06,12.0,t,0.0,,f,f
+957,해적선 제작대 07,481,PrefabModel,0.0,7,t,0.0,f,f,t,pirate_housing_07,12.0,t,0.0,,f,f
+958,해적선 제작대 08,482,PrefabModel,0.0,7,t,0.0,f,f,t,pirate_housing_08,12.0,t,0.0,,f,f
+959,해적선 제작대 09ceremony,483,PrefabModel,0.0,7,t,0.0,f,f,t,pirate_housing_09ceremony,12.0,t,0.0,,f,f
+960,쾌속정 제작대 01,484,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_01,12.0,t,0.0,,f,f
+961,쾌속정 제작대 02,485,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_02,12.0,t,0.0,,f,f
+962,쾌속정 제작대 03,486,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_03,12.0,t,0.0,,f,f
+963,쾌속정 제작대 04,487,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_04,12.0,t,0.0,,f,f
+964,쾌속정 제작대 05,488,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_05,12.0,t,0.0,,f,f
+965,쾌속정 제작대 06,489,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_06,12.0,t,0.0,,f,f
+966,쾌속정 제작대 07,490,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_07,12.0,t,0.0,,f,f
+967,쾌속정 제작대 08ceremony,491,PrefabModel,0.0,7,t,0.0,f,f,t,speedboat_housing_08ceremony,12.0,t,0.0,,f,f
+969,smallgiant_big_test,432,ActorModel,0.0,8,t,0.0,t,t,f,big_smallgiant,12.0,t,0.0,52,f,f
+970,,433,ActorModel,0.0,10,f,0.0,f,f,t,ncom_revival_c,12.0,t,0.0,,f,f
+971,big_crab_redshell,434,ActorModel,0.0,14,t,0.0,t,t,f,big_crab_redshell,12.0,t,0.0,80,f,f
+972,big_centauros_snowfield_warrior,435,ActorModel,0.0,10,t,0.0,t,t,f,big_centauros_snowfield_warrior,12.0,t,0.0,407,f,f
+973,big_mantis,436,ActorModel,0.0,10,t,0.0,t,t,f,big_mantis,12.0,t,0.0,338,f,f
+974,big_fleshgolem,437,ActorModel,0.0,10,t,0.0,t,t,f,big_fleshgolem,12.0,t,0.0,285,f,f
+975,big_harpy_brown,438,ActorModel,0.0,10,t,0.0,t,t,f,big_harpy_brown,12.0,t,0.0,301,f,f
+976,big_fepee_naughty,439,ActorModel,0.0,10,t,0.0,t,f,t,big_fepee_naughty,12.0,t,0.0,330,f,f
+977,big_woodgiant_silent,440,ActorModel,0.0,7,t,0.0,t,t,f,big_woodgiant_silent,12.0,t,0.0,247,f,f
+978,horse_zebra,441,ActorModel,0.0,10,f,0.0,t,t,f,horse_zebra,12.0,t,0.0,304,f,f
+981,donkey_black,444,ActorModel,0.0,10,f,0.0,t,f,t,donkey_black,15.0,t,1.2,422,f,f
+982,donkey_brown,445,ActorModel,0.0,10,f,0.0,t,f,t,donkey_brown,15.0,t,1.2,422,f,f
+983,donkey_brown_spot,446,ActorModel,0.0,10,f,0.0,t,t,f,donkey_brown_spot,15.0,t,0.0,422,f,f
+984,donkey_white,447,ActorModel,0.0,10,f,0.0,t,f,t,donkey_white,15.0,t,1.2,422,f,f
+985,learning_ob01_c,448,ActorModel,0.0,7,f,0.0,t,t,f,learning_ob01_c,12.0,t,0.0,,f,f
+986,housing_sign,492,PrefabModel,30.0,7,f,0.0,f,f,t,housing_sign,12.0,t,0.0,,f,f
+987,허수아비 텃밭_완성,493,PrefabModel,6.0,7,f,0.0,f,f,t,scarecrow_farm1,12.0,t,0.0,,f,f
+988,amoredspecter_warrior,449,ActorModel,0.0,10,f,0.0,t,t,f,amoredspecter_warrior,12.0,t,0.0,367,f,f
+989,허수아비 텃밭_진행,494,PrefabModel,6.0,7,f,0.0,f,f,t,scarecrow_farm0,12.0,t,0.0,,f,f
+990,발석차,36,VehicleModel,3.0,7,f,0.0,f,f,t,siege_catapult_a,40.0,t,4.0,173,t,f
+991,테스트용,450,ActorModel,0.0,10,f,0.0,f,f,f,null_actor_model,12.0,f,0.0,,f,f
+993,가공 제작소_건설 중,495,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_consite_1f_a,12.0,t,0.0,,f,f
+994,철재 가공 제작소,496,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_metal_1f_a,12.0,t,0.0,,f,f
+995,암석 가공 제작소,497,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_rock_1f_a,12.0,t,0.0,,f,f
+996,옷감 가공 제작소,498,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_cloth_1f_a,12.0,t,0.0,,f,f
+997,목재 가공 제작소,499,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_wood_1f_a,12.0,t,0.0,,f,f
+998,가죽 가공 제작소,500,PrefabModel,6.0,8,f,0.0,f,f,t,hs_common_workshop_leather_1f_a,12.0,t,0.0,,f,f
+999,beholder,452,ActorModel,0.0,10,f,0.0,t,t,f,beholder,12.0,t,0.7,233,f,f
+1000,nuia_h_castle_tower_a_towerrock,501,PrefabModel,6.0,8,t,0.0,f,f,t,nuia_h_castle_tower_a_towerrock,12.0,f,0.0,,f,f
+1001,nuia_h_castle_tower_stair,502,PrefabModel,6.0,8,t,0.0,f,f,t,nuia_h_castle_tower_stair,12.0,f,0.0,,f,f
+1002,nuia_h_castle_brige_b_step4,503,PrefabModel,2.0,7,t,0.0,f,f,t,nuia_h_castle_brige_a_step4_m,12.0,t,0.0,,f,f
+1003,nuia_h_castle_brige_b_step0,504,PrefabModel,2.0,7,t,0.0,f,f,t,nuia_h_castle_brige_a_step0_m,12.0,t,0.0,,f,f
+1004,nuia_h_castle_tower_a_towerdoor,505,PrefabModel,2.0,7,t,0.0,f,f,t,nuia_h_castle_tower_a_towerdoor,12.0,f,0.0,,f,f
+1005,테스트_정덕근,37,VehicleModel,3.0,7,f,0.0,f,f,t,rock_kajikun,20.0,t,0.0,,f,f
+1006,beholder_swamp,453,ActorModel,0.0,10,f,0.0,t,t,f,beholder_swamp,12.0,t,0.7,233,f,f
+1007,turkeypoult,454,ActorModel,0.0,10,f,0.0,t,t,f,turkeypoult,12.0,t,0.0,,f,f
+1008,농기계,38,VehicleModel,3.3,7,f,0.0,f,f,t,tractor,20.0,t,3.0,176,t,f
+1009,test_interaction_seahouse0,506,PrefabModel,0.0,7,t,-1.0,f,f,t,test_interaction_seahouse0,12.0,t,0.0,,f,f
+1010,test_interaction_seahouse1,507,PrefabModel,0.0,7,t,-1.0,f,f,t,test_interaction_seahouse1,12.0,t,0.0,,f,f
+1011,test_interaction_seahouse2,508,PrefabModel,0.0,7,t,-1.0,f,f,t,test_interaction_seahouse2,12.0,t,0.0,,f,f
+1012,test_interaction_seahouse3,509,PrefabModel,0.0,7,t,-1.0,f,f,t,test_interaction_seahouse3,12.0,t,0.0,,f,f
+1013,seafarm,510,PrefabModel,1.8,13,t,-1.0,f,f,t,seafarm,12.0,t,0.0,,f,f
+1014,chick,455,ActorModel,0.0,10,f,0.0,t,t,f,chick,12.0,t,0.0,,f,f
+1015,duckling,456,ActorModel,0.0,10,f,0.0,t,t,f,duckling,12.0,t,0.0,,f,f
+1016,gosling,457,ActorModel,0.0,10,f,0.0,t,t,f,gosling,12.0,t,0.0,,f,f
+1017,goat,458,ActorModel,0.0,10,f,0.0,t,t,f,goat,12.0,t,0.0,,f,f
+1018,bloodyarmy_commander2,459,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_commander2,12.0,t,0.0,234,f,f
+1019,bloodyarmy_infantry2,460,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_infantry2,12.0,t,0.0,234,f,f
+1020,bloodyarmy_soldier2,461,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_soldier2,12.0,t,0.0,234,f,f
+1021,bloodyarmy_archer2,462,ActorModel,0.9,10,f,0.0,t,t,f,bloodyarmy_archer2,12.0,t,0.0,234,f,f
+1022,bloodyarmy_quartemaster2,463,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_quartemaster2,12.0,t,0.0,234,f,f
+1023,bloodyarmy_spearman2,464,ActorModel,0.0,10,f,0.0,t,t,f,bloodyarmy_spearman2,12.0,t,0.0,234,f,f
+1024,인터랙션 테스트용 범선,12,ShipModel,0.0,12,t,0.0,f,f,t,interaction_galleon,70.0,t,0.0,144,f,f
+1025,투명의 띄우진 지옥문 용 모델,465,ActorModel,0.0,6,t,0.0,f,f,f,hellgate,12.0,f,0.0,,f,f
+1026,turret_b,39,VehicleModel,0.0,7,t,0.0,t,t,f,turret_b_mount_testing,20.0,f,0.0,,f,f
+1027,actor model 테스트 용도로 씁니다.,466,ActorModel,0.0,8,f,0.8,t,t,f,not_in_use,12.0,t,0.0,,f,f
+1028,프리팹 모델 테스트 용도로 씁니다.,511,PrefabModel,1.0,8,f,0.0,t,t,f,notinuse,12.0,t,0.0,,f,f
+1029,anthalon,467,ActorModel,0.0,10,t,0.0,t,t,f,anthalon,12.0,t,0.0,395,f,f
+1030,buffalo,468,ActorModel,0.0,10,f,0.0,t,t,f,buffalo,12.0,t,0.0,272,f,f
+1031,calf,469,ActorModel,0.0,10,f,0.0,t,t,f,calf,12.0,t,0.0,416,f,f
+1032,buffalo_baby,470,ActorModel,0.0,10,f,0.0,t,t,f,buffalo_baby,12.0,t,0.0,,f,f
+1033,piggy,471,ActorModel,0.0,10,f,0.0,t,t,f,piggy,12.0,t,0.0,,f,f
+1034,kid,472,ActorModel,0.0,10,f,0.0,t,t,f,kid,12.0,t,0.0,,f,f
+1035,ferre_male_ghost,473,ActorModel,0.0,9,f,0.8,t,t,f,ferre_male_ghost,12.0,t,0.0,63,f,f
+1036,ferre_female_ghost,474,ActorModel,0.0,9,f,0.8,t,t,f,ferre_female_ghost,12.0,t,0.0,63,f,f
+1037,elf_female_ghost,475,ActorModel,0.0,9,f,0.8,t,t,f,elf_female_ghost,12.0,t,0.0,63,f,f
+1038,elf_male_ghost,476,ActorModel,0.0,9,f,0.8,t,t,f,elf_male_ghost,12.0,t,0.0,62,f,f
+1039,hariharan_female_ghost,477,ActorModel,0.0,9,f,0.8,t,t,f,hariharan_female_ghost,12.0,t,0.0,63,f,f
+1040,hariharan_male_ghost,478,ActorModel,0.0,9,f,0.8,t,t,f,hariharan_male_ghost,12.0,t,0.0,62,f,f
+1041,nuian_female_ghost,479,ActorModel,0.0,9,f,0.8,t,t,f,nuian_female_ghost,12.0,t,0.0,63,f,f
+1042,boy_ghost,480,ActorModel,0.0,9,f,0.8,t,t,f,boy_ghost,12.0,t,0.0,,f,f
+1043,girl_ghost,481,ActorModel,0.0,9,f,0.8,t,t,f,girl_ghost,12.0,t,0.0,,f,f
+1044,turkey,482,ActorModel,0.0,10,f,0.0,t,t,f,turkey,12.0,t,0.0,,f,f
+1045,tare,483,ActorModel,0.0,10,f,0.0,t,f,t,tare,12.0,t,1.3,19,f,f
+1046,유람선,13,ShipModel,0.0,12,t,0.0,f,f,t,cruiser,40.0,t,18.0,144,t,f
+1047,오리,484,ActorModel,0.0,10,f,0.0,t,t,f,duck,12.0,t,0.0,,f,f
+1048,거위,485,ActorModel,0.0,10,f,0.0,t,t,f,goose,12.0,t,0.0,,f,f
+1049,tare_black,486,ActorModel,0.0,10,f,0.0,t,f,t,tare_black,12.0,t,1.3,19,f,f
+1050,tare_blue,487,ActorModel,0.0,10,f,0.0,t,f,t,tare_blue,12.0,t,1.3,19,f,f
+1051,인간 대포,40,VehicleModel,0.0,13,f,0.0,f,f,f,human_canon,10.0,t,0.0,,f,f
+1052,cow_white_riding,488,ActorModel,0.0,10,f,0.0,t,f,t,cow_white_riding,15.0,t,1.4,61,f,f
+1053,cow_black_riding,489,ActorModel,0.0,10,f,0.0,t,f,t,cow_black_riding,15.0,t,0.0,61,f,f
+1054,cow_brown_riding,490,ActorModel,0.0,10,f,0.0,t,f,t,cow_brown_riding,15.0,t,0.0,61,f,f
+1055,harihara_castle_gate_a_step1,512,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_gate_a_step1,12.0,t,0.0,,f,f
+1056,harihara_castle_gate_a_step2,513,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_gate_a_step2,12.0,t,0.0,,f,f
+1057,harihara_castle_gate_a_step3,514,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_gate_a_step3,12.0,t,0.0,,f,f
+1058,harihara_castle_towerrock,515,PrefabModel,6.0,8,t,0.0,f,f,t,harihara_castle_towerrock,12.0,f,0.0,,f,f
+1059,harihara_castle_tower_a_step1,516,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_a_step1,12.0,t,0.0,,f,f
+1060,harihara_castle_tower_a_step2,517,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_a_step2,12.0,t,0.0,,f,f
+1061,harihara_castle_tower_a_step3,518,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_a_step3,12.0,t,0.0,,f,f
+1062,harihara_castle_tower_b_step1,519,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_b_step1,12.0,t,0.0,,f,f
+1063,harihara_castle_tower_b_step2,520,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_b_step2,12.0,t,0.0,,f,f
+1064,harihara_castle_tower_b_step3,521,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_tower_b_step3,12.0,t,0.0,,f,f
+1065,harihara_castle_wall_13m_slope0_step1,522,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope0_step1,12.0,t,0.0,,f,f
+1066,harihara_castle_wall_13m_slope0_step2,523,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope0_step2,12.0,t,0.0,,f,f
+1067,harihara_castle_wall_13m_slope0_step3,524,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope0_step3,12.0,t,0.0,,f,f
+1068,snowlion2_yellomane,491,ActorModel,0.0,10,f,0.0,t,f,t,snowlion2_yellomane,15.0,t,0.5,321,f,f
+1069,snowlion2_white,492,ActorModel,0.0,10,f,0.0,t,f,t,snowlion2_white,15.0,t,1.35,321,f,f
+1070,snowlion2_blackmane,493,ActorModel,0.0,10,f,0.0,t,f,t,snowlion2_blackmane,15.0,t,1.35,321,f,f
+1071,weregoat,494,ActorModel,0.0,10,f,0.0,t,t,f,weregoat,12.0,t,0.0,50,f,f
+1072,monster_rat_black,495,ActorModel,0.0,10,f,0.0,t,t,f,monster_rat_black,12.0,t,0.0,332,f,f
+1073,monster_rat_white,496,ActorModel,0.0,10,f,0.0,t,t,f,monster_rat_white,12.0,t,0.0,332,f,f
+1074,nuian_female_sexy,497,ActorModel,0.0,10,f,0.8,t,t,f,nuian_female_sexy,12.0,t,0.6,,f,f
+1075,테스트용,525,PrefabModel,6.0,8,t,0.0,f,f,t,test_common,12.0,t,0.0,,f,f
+1076,조합형 하우징 테스트,526,PrefabModel,1.0,7,t,0.0,f,f,t,Large_housing_test_2,12.0,t,0.0,,f,f
+1077,harihara_castle_wall_13m_slope1_step1,527,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step1,12.0,t,0.0,,f,f
+1078,harihara_castle_wall_13m_slope1_step2,528,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step2,12.0,t,0.0,,f,f
+1079,harihara_castle_wall_13m_slope1_step3,529,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step3,12.0,t,0.0,,f,f
+1080,totem_stone,498,ActorModel,0.0,8,f,0.0,t,t,f,totem_stone,12.0,t,0.0,39,f,f
+1081,totem_wood,499,ActorModel,0.0,7,f,0.0,t,t,f,totem_wood,12.0,t,0.0,40,f,f
+1082,초가집,530,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_Farmhouse_S_1f_a,12.0,t,0.0,,f,f
+1083,소형 주택 건설진행 step1,531,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_S_step1,12.0,t,0.0,,f,f
+1084,소형 주택 건설진행 step2,532,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_S_step2,12.0,t,0.0,,f,f
+1085,소형 주택 건설진행 step3,533,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_S_step3,12.0,t,0.0,,f,f
+1086,중형 주택 건설진행 step1,534,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_M_step1,12.0,t,0.0,,f,f
+1087,중형 주택 건설진행 step2,535,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_M_step2,12.0,t,0.0,,f,f
+1088,중형 주택 건설진행 step3,536,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_M_step3,12.0,t,0.0,,f,f
+1089,대형 주택 건설진행 step1,537,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_L_step1,12.0,t,0.0,,f,f
+1090,대형 주택 건설진행 step2,538,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_L_step2,12.0,t,0.0,,f,f
+1091,대형 주택 건설진행 step3,539,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_consite_L_step3,12.0,t,0.0,,f,f
+1092,harihara_castle_wall_13m_slope1_step1_m,540,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step1_m,12.0,t,0.0,,f,f
+1093,harihara_castle_wall_13m_slope1_step2_m,541,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step2_m,12.0,t,0.0,,f,f
+1094,harihara_castle_wall_13m_slope1_step3_m,542,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope1_step3_m,12.0,t,0.0,,f,f
+1095,harihara_castle_wall_13m_slope2_step1,543,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step1,12.0,t,0.0,,f,f
+1096,harihara_castle_wall_13m_slope2_step2,544,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step2,12.0,t,0.0,,f,f
+1097,harihara_castle_wall_13m_slope2_step3,545,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step3,12.0,t,0.0,,f,f
+1098,harihara_castle_wall_13m_slope2_step1_m,546,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step1_m,12.0,t,0.0,,f,f
+1099,harihara_castle_wall_13m_slope2_step2_m,547,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step2_m,12.0,t,0.0,,f,f
+1100,harihara_castle_wall_13m_slope2_step3_m,548,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_13m_slope2_step3_m,12.0,t,0.0,,f,f
+1101,harihara_castle_wall_21m_slope0_step1,549,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope0_step1,12.0,t,0.0,,f,f
+1102,harihara_castle_wall_21m_slope0_step2,550,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope0_step2,12.0,t,0.0,,f,f
+1103,harihara_castle_wall_21m_slope0_step3,551,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope0_step3,12.0,t,0.0,,f,f
+1104,harihara_castle_wall_21m_slope1_step1,552,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step1,12.0,t,0.0,,f,f
+1105,harihara_castle_wall_21m_slope1_step2,553,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step2,12.0,t,0.0,,f,f
+1106,harihara_castle_wall_21m_slope1_step3,554,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step3,12.0,t,0.0,,f,f
+1107,harihara_castle_wall_21m_slope1_step1_m,555,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step1_m,12.0,t,0.0,,f,f
+1108,harihara_castle_wall_21m_slope1_step2_m,556,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step2_m,12.0,t,0.0,,f,f
+1109,harihara_castle_wall_21m_slope1_step3_m,557,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope1_step3_m,12.0,t,0.0,,f,f
+1110,harihara_castle_wall_21m_slope2_step1,558,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step1,12.0,t,0.0,,f,f
+1111,harihara_castle_wall_21m_slope2_step2,559,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step2,12.0,t,0.0,,f,f
+1112,harihara_castle_wall_21m_slope2_step3,560,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step3,12.0,t,0.0,,f,f
+1113,harihara_castle_wall_21m_slope2_step1_m,561,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step1_m,12.0,t,0.0,,f,f
+1114,harihara_castle_wall_21m_slope2_step2_m,562,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step2_m,12.0,t,0.0,,f,f
+1115,harihara_castle_wall_21m_slope2_step3_m,563,PrefabModel,10.0,8,t,0.0,f,f,t,harihara_castle_wall_21m_slope2_step3_m,12.0,t,0.0,,f,f
+1116,누이아 파랑지붕 소형 주택 A형,564,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_S_1f_a,12.0,t,0.0,,f,f
+1117,누이아 파랑지붕 소형 주택 B형,565,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_S_1f_b,12.0,t,0.0,,f,f
+1118,누이아 파랑지붕 소형 주택 C형,566,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_S_1f_c,12.0,t,0.0,,f,f
+1119,누이아 초록지붕 소형 주택 A형,567,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_S_1f_a,12.0,t,0.0,,f,f
+1120,누이아 초록지붕 소형 주택 B형,568,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_S_1f_b,12.0,t,0.0,,f,f
+1121,누이아 초록지붕 소형 주택 C형,569,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_S_1f_c,12.0,t,0.0,,f,f
+1122,elk,500,ActorModel,0.0,10,f,0.0,t,f,t,elk,15.0,t,1.3,38,f,f
+1123,owl_postman,501,ActorModel,0.0,10,f,0.0,t,t,f,owl_postman,12.0,t,0.6,,f,f
+1124,다루마을 대포,41,VehicleModel,0.0,13,f,0.0,f,f,f,daru_canon,10.0,t,2.0,,f,f
+1125,하리하라 기와지붕 소형 주택 A형,570,PrefabModel,10.0,8,t,0.0,f,f,t,hs_hari_roof01_S_1f_a,12.0,t,0.0,,f,f
+1126,하리하라 기와지붕 중형 주택 A형,571,PrefabModel,10.0,8,t,0.0,f,f,t,hs_hari_roof01_M_1f_a,12.0,t,0.0,,f,f
+1127,하리하라 기와지붕 대형 2층 주택 A형,572,PrefabModel,10.0,8,t,0.0,f,f,t,hs_hari_roof01_L_2f_a,12.0,t,0.0,,f,f
+1128,누이아 빨강지붕 소형 주택 A형,573,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_S_1f_a,12.0,t,0.0,,f,f
+1129,누이아 빨강지붕 소형 주택 B형,574,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_S_1f_b,12.0,t,0.0,,f,f
+1130,누이아 빨강지붕 소형 주택 C형,575,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_S_1f_c,12.0,t,0.0,,f,f
+1131,누이아 파랑지붕 중형 주택 A형,576,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_1f_a,12.0,t,0.0,,f,f
+1132,누이아 파랑지붕 중형 주택 B형,577,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_1f_b,12.0,t,0.0,,f,f
+1133,누이아 파랑지붕 중형 주택 C형,578,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_1f_c,12.0,t,0.0,,f,f
+1134,누이아 초록지붕 중형 주택 A형,579,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_1f_a,12.0,t,0.0,,f,f
+1135,누이아 초록지붕 중형 주택 B형,580,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_1f_b,12.0,t,0.0,,f,f
+1136,누이아 초록지붕 중형 주택 C형,581,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_1f_c,12.0,t,0.0,,f,f
+1137,누이아 빨강지붕 중형 주택 A형,582,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_1f_a,12.0,t,0.0,,f,f
+1138,누이아 빨강지붕 중형 주택 B형,583,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_1f_b,12.0,t,0.0,,f,f
+1139,누이아 빨강지붕 중형 주택 C형,584,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_1f_c,12.0,t,0.0,,f,f
+1140,누이아 파랑지붕 중형 2층 주택 A형,585,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_2f_a,12.0,t,0.0,,f,f
+1141,누이아 파랑지붕 중형 2층 주택 B형,586,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_2f_b,12.0,t,0.0,,f,f
+1142,누이아 파랑지붕 중형 2층 주택 C형,587,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_M_2f_c,12.0,t,0.0,,f,f
+1143,누이아 초록지붕 중형 2층 주택 A형,588,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_2f_a,12.0,t,0.0,,f,f
+1144,누이아 초록지붕 중형 2층 주택 B형,589,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_2f_b,12.0,t,0.0,,f,f
+1145,누이아 초록지붕 중형 2층 주택 C형,590,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_M_2f_c,12.0,t,0.0,,f,f
+1146,누이아 빨강지붕 중형 2층 주택 A형,591,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_2f_a,12.0,t,0.0,,f,f
+1147,누이아 빨강지붕 중형 2층 주택 B형,592,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_2f_b,12.0,t,0.0,,f,f
+1148,누이아 빨강지붕 중형 2층 주택 C형,593,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_M_2f_c,12.0,t,0.0,,f,f
+1149,누이아 파랑지붕 대형 주택 A형,594,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_a,12.0,t,0.0,,f,f
+1150,누이아 파랑지붕 대형 주택 B형,595,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_b,12.0,t,0.0,,f,f
+1151,누이아 파랑지붕 대형 주택 C형,596,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_c,12.0,t,0.0,,f,f
+1152,누이아 파랑지붕 대형 주택 D형,597,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_d,12.0,t,0.0,,f,f
+1153,누이아 파랑지붕 대형 주택 E형,598,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_e,12.0,t,0.0,,f,f
+1154,누이아 파랑지붕 대형 주택 F형,599,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_f,12.0,t,0.0,,f,f
+1155,누이아 파랑지붕 대형 주택 G형,600,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_g,12.0,t,0.0,,f,f
+1156,누이아 파랑지붕 대형 주택 H형,601,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_h,12.0,t,0.0,,f,f
+1157,누이아 파랑지붕 대형 주택 I형,602,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_i,12.0,t,0.0,,f,f
+1158,누이아 파랑지붕 대형 주택 J형,603,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_j,12.0,t,0.0,,f,f
+1159,누이아 파랑지붕 대형 주택 K형,604,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_k,12.0,t,0.0,,f,f
+1160,누이아 파랑지붕 대형 주택 L형,605,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_1f_l,12.0,t,0.0,,f,f
+1161,누이아 초록지붕 대형 주택 A형,606,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_a,12.0,t,0.0,,f,f
+1162,누이아 초록지붕 대형 주택 B형,607,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_b,12.0,t,0.0,,f,f
+1163,누이아 초록지붕 대형 주택 C형,608,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_c,12.0,t,0.0,,f,f
+1164,누이아 초록지붕 대형 주택 D형,609,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_d,12.0,t,0.0,,f,f
+1165,누이아 초록지붕 대형 주택 E형,610,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_e,12.0,t,0.0,,f,f
+1166,누이아 초록지붕 대형 주택 F형,611,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_f,12.0,t,0.0,,f,f
+1167,누이아 초록지붕 대형 주택 G형,612,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_g,12.0,t,0.0,,f,f
+1168,누이아 초록지붕 대형 주택 H형,613,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_h,12.0,t,0.0,,f,f
+1169,누이아 초록지붕 대형 주택 I형,614,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_i,12.0,t,0.0,,f,f
+1170,누이아 초록지붕 대형 주택 J형,615,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_j,12.0,t,0.0,,f,f
+1171,누이아 초록지붕 대형 주택 K형,616,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_k,12.0,t,0.0,,f,f
+1172,누이아 초록지붕 대형 주택 L형,617,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_1f_l,12.0,t,0.0,,f,f
+1173,highorc_warrior,502,ActorModel,0.0,10,f,0.0,t,t,f,highorc_warrior,12.0,t,0.0,49,f,f
+1174,누이아 빨강지붕 대형 주택 A형,618,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_a,12.0,t,0.0,,f,f
+1175,누이아 빨강지붕 대형 주택 B형,619,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_b,12.0,t,0.0,,f,f
+1176,누이아 빨강지붕 대형 주택 C형,620,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_c,12.0,t,0.0,,f,f
+1177,누이아 빨강지붕 대형 주택 D형,621,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_d,12.0,t,0.0,,f,f
+1178,누이아 빨강지붕 대형 주택 E형,622,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_e,12.0,t,0.0,,f,f
+1179,누이아 빨강지붕 대형 주택 F형,623,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_f,12.0,t,0.0,,f,f
+1180,누이아 빨강지붕 대형 주택 G형,624,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_g,12.0,t,0.0,,f,f
+1181,누이아 빨강지붕 대형 주택 H형,625,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_h,12.0,t,0.0,,f,f
+1182,누이아 빨강지붕 대형 주택 I형,626,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_i,12.0,t,0.0,,f,f
+1183,누이아 빨강지붕 대형 주택 J형,627,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_j,12.0,t,0.0,,f,f
+1184,누이아 빨강지붕 대형 주택 K형,628,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_k,12.0,t,0.0,,f,f
+1185,누이아 빨강지붕 대형 주택 L형,629,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_1f_l,12.0,t,0.0,,f,f
+1186,누이아 파랑지붕 대형 2층 주택 A형,630,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_a,12.0,t,0.0,,f,f
+1187,누이아 파랑지붕 대형 2층 주택 B형,631,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_b,12.0,t,0.0,,f,f
+1188,누이아 파랑지붕 대형 2층 주택 C형,632,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_c,12.0,t,0.0,,f,f
+1189,누이아 파랑지붕 대형 2층 주택 D형,633,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_d,12.0,t,0.0,,f,f
+1190,누이아 파랑지붕 대형 2층 주택 E형,634,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_e,12.0,t,0.0,,f,f
+1191,누이아 파랑지붕 대형 2층 주택 F형,635,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_f,12.0,t,0.0,,f,f
+1192,누이아 파랑지붕 대형 2층 주택 G형,636,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof01_L_2f_g,12.0,t,0.0,,f,f
+1193,누이아 초록지붕 대형 2층 주택 A형,637,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_a,12.0,t,0.0,,f,f
+1194,누이아 초록지붕 대형 2층 주택 B형,638,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_b,12.0,t,0.0,,f,f
+1195,누이아 초록지붕 대형 2층 주택 C형,639,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_c,12.0,t,0.0,,f,f
+1196,누이아 초록지붕 대형 2층 주택 D형,640,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_d,12.0,t,0.0,,f,f
+1197,누이아 초록지붕 대형 2층 주택 E형,641,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_e,12.0,t,0.0,,f,f
+1198,누이아 초록지붕 대형 2층 주택 F형,642,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof02_L_2f_f,12.0,t,0.0,,f,f
+1199,누이아 빨강지붕 대형 2층 주택 A형,643,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_a,12.0,t,0.0,,f,f
+1200,누이아 빨강지붕 대형 2층 주택 B형,644,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_b,12.0,t,0.0,,f,f
+1201,누이아 빨강지붕 대형 2층 주택 C형,645,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_c,12.0,t,0.0,,f,f
+1202,누이아 빨강지붕 대형 2층 주택 D형,646,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_d,12.0,t,0.0,,f,f
+1203,누이아 빨강지붕 대형 2층 주택 E형,647,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_e,12.0,t,0.0,,f,f
+1204,누이아 빨강지붕 대형 2층 주택 F형,648,PrefabModel,10.0,8,t,0.0,f,f,t,hs_nuia_roof03_L_2f_f,12.0,t,0.0,,f,f
+1205,merchant_ship,14,ShipModel,0.0,12,t,0.0,f,f,t,merchant_ship,40.0,t,0.0,144,t,f
+1206,jellyfish,503,ActorModel,0.0,10,f,0.0,t,t,f,jellyfish,12.0,t,0.0,20,f,f
+1207,jellyfish_gold,504,ActorModel,0.0,10,f,0.0,t,t,f,jellyfish_gold,12.0,t,0.0,20,f,f
+1208,wolf_pet,505,ActorModel,0.0,10,f,0.0,t,t,f,wolf_pet,12.0,t,0.0,37,f,f
+1209,ndeco_do_invisible_01,506,ActorModel,0.0,7,f,0.0,t,t,f,ndeco_do_invisible_01,12.0,t,0.0,,f,f
+1210,wolf_black_pet,507,ActorModel,0.0,10,f,0.0,t,t,f,wolf_black_pet,12.0,t,0.0,37,f,f
+1211,wolf_white_pet,508,ActorModel,0.0,10,f,0.0,t,t,f,wolf_white_pet,12.0,t,0.0,37,f,f
+1212,elk_purple,509,ActorModel,0.0,10,f,0.0,t,f,t,elk_purple,15.0,t,1.3,38,f,f
+1213,elk_white,510,ActorModel,0.0,10,f,0.0,t,f,t,elk_white,15.0,t,1.3,38,f,f
+1214,galleon.step_08cart,649,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_step_08cart,12.0,t,0.0,,f,f
+1215,galleon.step_08cart,650,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_step_08cart_damage,12.0,t,0.0,,f,f
+1216,galleon.step_09ceremony_cart,651,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_step_housing_final_cart,12.0,t,0.0,,f,f
+1217,galleon.step_10galleon_cart_normal,652,PrefabModel,0.0,7,t,0.0,f,f,t,galleon_step_10galleon_cart_normal,12.0,t,0.0,,f,f
+1218,ndeco_strawdoll_a,511,ActorModel,0.0,7,f,0.0,t,t,f,ndeco_strawdoll_a,12.0,t,0.0,,f,f
+1219,big_wraith,512,ActorModel,0.0,10,f,0.0,t,t,f,big_wraith,12.0,t,0.75,336,f,f
+1220,big_ostrich_spotted,513,ActorModel,0.0,10,f,0.0,t,t,f,big_ostrich_spotted,12.0,t,0.0,343,f,f
+1221,highorc_commander,514,ActorModel,0.0,10,f,0.0,t,t,f,highorc_commander,12.0,t,0.0,49,f,f
+1222,highorc_hunter,515,ActorModel,0.0,10,f,0.0,t,t,f,highorc_hunter,12.0,t,0.0,49,f,f
+1223,highorc_socerer,516,ActorModel,0.0,10,f,0.0,t,t,f,highorc_socerer,12.0,t,0.0,49,f,f
+1224,yata_wild_monster,517,ActorModel,0.0,10,f,0.0,t,t,f,yata_wild_monster,12.0,t,0.0,17,f,f
+1225,owl_animal,518,ActorModel,0.0,1,f,0.0,t,t,f,owl_animal,12.0,t,1.0,,f,f
+1226,테스트용 소형 텃밭,653,PrefabModel,6.0,7,t,0.0,f,f,t,test_farm1,12.0,t,0.0,,f,f
+1227,테스트용 소형 텃밭 8x8,654,PrefabModel,6.0,7,t,0.0,f,f,t,test_farm2,12.0,t,0.0,,f,f
+1228,spartoi_warrior,519,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_warrior,12.0,t,0.0,222,f,f
+1229,spartoi_archer,520,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_archer,12.0,t,0.0,222,f,f
+1230,unicornlion,521,ActorModel,0.0,10,t,0.0,t,f,f,unicornlion,12.0,t,0.0,,f,f
+1231,unicornlion_big,522,ActorModel,0.0,10,t,0.0,t,f,f,unicornlion_big,12.0,t,0.0,224,f,f
+1232,hidra_lake,523,ActorModel,0.0,10,t,0.0,t,f,f,hidra_lake,12.0,t,0.0,206,f,f
+1233,waterelemental_big빅모델용,524,ActorModel,0.0,5,t,0.0,t,t,t,big_waterelemental_big,12.0,t,1.0,271,f,f
+1234,정예 훈련용 허수아비,525,ActorModel,0.0,7,f,0.0,t,t,f,learning_ob01_d,12.0,t,0.0,,f,f
+1235,중급 훈련용 허수아비,526,ActorModel,0.0,7,f,0.0,t,t,f,learning_ob01_e,12.0,t,0.0,,f,f
+1236,훈련용 허수아비,527,ActorModel,0.0,7,f,0.0,t,t,f,learning_ob01_c2,12.0,t,0.0,,f,f
+1237,hidra_sea,528,ActorModel,0.0,10,t,0.0,t,f,f,hidra_sea,12.0,t,0.0,206,f,f
+1238,hidra_lake_big,529,ActorModel,0.0,10,t,0.0,t,f,f,hidra_lake_big,12.0,t,0.0,206,f,f
+1239,mermaid,530,ActorModel,0.0,10,f,0.0,t,t,f,mermaid,12.0,t,0.0,,f,f
+1240,메인 퀘스트용 대화하는 벽화,531,ActorModel,0.0,8,f,0.0,t,t,f,floramaiden,12.0,t,0.0,,f,f
+1241,twoheadsnake_egg,532,ActorModel,0.0,10,f,0.0,t,t,f,twoheadsnake_egg,12.0,t,0.0,,f,f
+1242,cat_pet,533,ActorModel,0.0,10,f,0.0,t,t,f,cat_pet,12.0,t,0.0,415,f,f
+1243,yeti_big,534,ActorModel,0.0,10,f,0.0,t,t,f,yeti_big,12.0,t,0.0,212,f,f
+1244,딸깍발이 고쉬(보스전용),535,ActorModel,0.0,10,f,0.0,t,t,f,goblin_scratcher_boss,12.0,t,0.0,326,f,f
+1245,cat_black_pet,536,ActorModel,0.0,10,f,0.0,t,t,f,cat_black_pet,12.0,t,0.3,415,f,f
+1246,cat_siamese_pet,537,ActorModel,0.0,10,f,0.0,t,t,f,cat_siamese_pet,12.0,t,0.0,415,f,f
+1247,cat_stripes_pet,538,ActorModel,0.0,10,f,0.0,t,t,f,cat_stripes_pet,12.0,t,0.0,415,f,f
+1248,cat_threecolors_pet,539,ActorModel,0.0,10,f,0.0,t,t,f,cat_threecolors_pet,12.0,t,0.0,415,f,f
+1249,boardship,15,ShipModel,0.0,12,t,0.0,f,f,t,boardship,40.0,t,0.0,144,t,f
+1250,boardship2,16,ShipModel,0.0,12,f,0.0,f,f,t,boardship2,30.0,t,0.0,144,f,f
+1251,horse_zebra2,540,ActorModel,0.0,10,f,0.0,t,f,t,horse_zebra2,15.0,t,1.5,21,f,f
+1252,호박머리 텃밭_진행,655,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm0,12.0,t,0.0,,f,f
+1253,호박머리 텃밭_완료,656,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm1,12.0,t,0.0,,f,f
+1254,fireelemental_big빅모델용,541,ActorModel,0.0,6,t,0.0,t,t,f,big_fireelemental_big,12.0,t,0.0,282,f,f
+1255,Cannon_tower,42,VehicleModel,0.0,13,t,0.0,t,t,f,Cannon_tower,20.0,f,0.0,,f,f
+1256,,542,ActorModel,0.0,10,f,0.0,t,t,f,wolf_pet_junior,12.0,t,0.0,,f,f
+1257,mandragora_under,543,ActorModel,0.0,10,f,0.0,t,t,f,mandragora_under,12.0,t,0.0,337,f,f
+1258,boxship_housing_02,657,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_02,12.0,t,0.0,,f,f
+1259,boxship_housing_03,658,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_03,12.0,t,0.0,,f,f
+1260,boxship_housing_05,659,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_05,12.0,t,0.0,,f,f
+1261,boxship_housing_07,660,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_07,12.0,t,0.0,,f,f
+1263,boxship_housing_09_ceremony,662,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_09_ceremony,12.0,t,0.0,,f,f
+1264,boardship_step_03,663,PrefabModel,0.0,7,t,0.0,f,f,t,boardship_step_03,12.0,t,0.0,,f,f
+1265,boardship_step_05,664,PrefabModel,0.0,7,t,0.0,f,f,t,boardship_step_05,12.0,t,0.0,,f,f
+1266,boardship_step_07,665,PrefabModel,0.0,7,t,0.0,f,f,t,boardship_step_07,12.0,t,0.0,,f,f
+1267,boardship_step_09_ceremony,666,PrefabModel,0.0,7,t,0.0,f,f,t,boardship_step_09,12.0,t,0.0,,f,f
+1268,boardship_step_08,667,PrefabModel,0.0,7,t,0.0,f,f,t,boardship_step_08,12.0,t,0.0,,f,f
+1269,boxship_housing_08,668,PrefabModel,0.0,7,t,0.0,f,f,t,boxship_housing_08,12.0,t,0.0,,f,f
+1270,cat_baby_pet,544,ActorModel,0.0,10,f,0.0,t,t,f,cat_baby_pet,12.0,t,0.0,,f,f
+1272,mandragora_spotted_under,546,ActorModel,0.0,10,f,0.0,t,t,f,mandragora_spotted_under,12.0,t,0.0,337,f,f
+1273,spartoi_warrior_orange,547,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_warrior_orange,12.0,t,0.0,222,f,f
+1274,spartoi_warrior_black,548,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_warrior_black,12.0,t,0.0,222,f,f
+1275,spartoi_archer_orange,549,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_archer_orange,12.0,t,0.0,222,f,f
+1276,spartoi_archer_black,550,ActorModel,0.0,10,f,0.0,t,t,f,spartoi_archer_black,12.0,t,0.0,222,f,f
+1277,성탑 대포,43,VehicleModel,3.0,13,f,0.0,f,f,t,tower_cannon,20.0,f,0.0,,f,f
+1279,춤같이 추는북,44,VehicleModel,0.0,7,f,0.0,f,t,f,hdeco_drum_a,12.0,f,0.0,,f,f
+1281,cat_siamese_baby_pet,551,ActorModel,0.0,10,f,0.0,t,t,f,cat_siamese_baby_pet,12.0,t,0.0,,f,f
+1282,dragon,552,ActorModel,0.0,10,t,0.0,f,f,f,dragon,12.0,f,0.0,403,t,f
+1283,yata_black,553,ActorModel,0.0,10,f,0.0,t,f,t,yata_black,12.0,t,1.1,18,f,f
+1284,yata_siamese,554,ActorModel,0.0,10,f,0.0,t,f,t,yata_siamese,12.0,t,1.1,18,f,f
+1285,yata_stripes,555,ActorModel,0.0,10,f,0.0,t,f,t,yata_stripes,12.0,t,1.1,18,f,f
+1286,정예 훈련용 허수아비,671,PrefabModel,0.0,7,f,0.0,f,f,t,learning_scarecrow_01,12.0,t,1.7,,f,f
+1287,오리배,17,ShipModel,0.0,12,t,0.0,f,f,t,duckship,20.0,t,0.0,335,t,t
+1288,솔로배,18,ShipModel,0.0,12,t,0.0,f,f,t,soloship,12.0,t,0.0,145,t,t
+1289,영주말,556,ActorModel,0.0,10,f,0.0,t,f,t,horse_lord,15.0,t,1.5,21,f,f
+1290,중급 훈련용 허수아비,672,PrefabModel,0.0,7,f,0.0,f,f,t,learning_scarecrow_02,12.0,t,1.7,,f,f
+1291,훈련용 허수아비,673,PrefabModel,0.0,7,f,0.0,f,f,t,learning_scarecrow_03,12.0,t,1.7,,f,f
+1292,enshaka,557,ActorModel,0.0,10,f,0.0,t,t,f,enshaka,12.0,t,0.0,344,f,f
+1293,황의 페라리 - 시뮬레이션되는 지상 탈 것,45,VehicleModel,0.0,7,f,0.0,t,t,f,hwang_ferrari,12.0,t,0.0,355,f,t
+1294,포획된 불의 군주 - 전투펫,558,ActorModel,0.0,6,f,0.0,t,t,f,pet_fireelemental_small,12.0,t,0.0,360,f,f
+1295,포획된 가고일 드라쥬다/타이란 - 전투펫,559,ActorModel,0.0,10,f,0.0,t,t,f,pet_gargoyle,12.0,t,0.0,357,f,f
+1296,포획된 방황하는 자 - 전투펫,560,ActorModel,0.0,8,f,0.0,t,t,f,pet_smallgiant,12.0,t,0.0,356,f,f
+1297,포획된 바람 군주 - 전투펫,561,ActorModel,0.0,9,f,0.0,t,t,f,pet_windelemental_small,12.0,t,0.0,361,f,f
+1298,포획된 야차 하즈라드 - 전투펫,562,ActorModel,0.0,8,f,0.0,t,t,f,pet_yaksa_warrior,12.0,t,0.0,359,f,f
+1299,국지 방어기 전용,563,ActorModel,0.0,10,t,0.0,f,f,f,hellgate2,12.0,f,1.0,,f,f
+1301,yata_baby_pet ,565,ActorModel,0.0,10,f,0.0,t,t,f,yata_baby_pet,12.0,t,0.0,241,f,f
+1302,yata_baby_black_pet,566,ActorModel,0.0,10,f,0.0,t,t,f,yata_baby_black_pet,12.0,t,0.0,241,f,f
+1303,yata_baby_siamese_pet,567,ActorModel,0.0,10,f,0.0,t,t,f,yata_baby_siamese_pet,12.0,t,0.0,241,f,f
+1304,yata_baby_stripes_pet,568,ActorModel,0.0,10,f,0.0,t,t,f,yata_baby_stripes_pet,12.0,t,0.0,241,f,f
+1305,공성전 목책,674,PrefabModel,0.0,7,t,0.0,t,t,f,fence,12.0,t,3.0,,f,f
+1306,tare_baby_pet,569,ActorModel,0.0,10,f,0.0,t,t,f,tare_baby_pet,12.0,t,0.0,,f,f
+1307,tare_baby_black_pet,570,ActorModel,0.0,10,f,0.0,t,t,f,tare_baby_black_pet,12.0,t,0.0,,f,f
+1308,tare_baby_blue_pet,571,ActorModel,0.0,10,f,0.0,t,t,f,tare_baby_blue_pet,12.0,t,0.0,,f,f
+1309,elk_baby_pet,572,ActorModel,0.0,10,f,0.0,t,t,f,elk_baby_pet,12.0,t,0.0,38,f,f
+1310,elk_baby_purple_pet,573,ActorModel,0.0,10,f,0.0,t,t,f,elk_baby_purple_pet,12.0,t,0.0,38,f,f
+1311,elk_baby_white_pet,574,ActorModel,0.0,10,f,0.0,t,t,f,elk_baby_white_pet,12.0,t,0.0,38,f,f
+1312,horse_baby_pet,575,ActorModel,0.0,10,f,0.0,t,t,f,horse_baby_pet,12.0,t,0.0,,f,f
+1313,horse_baby_brown_spot_pet,576,ActorModel,0.0,10,f,0.0,t,t,f,horse_baby_brown_spot_pet,12.0,t,0.0,,f,f
+1314,horse_baby_gray_pet,577,ActorModel,0.0,10,f,0.0,t,t,f,horse_baby_gray_pet,12.0,t,0.0,,f,f
+1315,horse_baby_white_pet,578,ActorModel,0.0,10,f,0.0,t,t,f,horse_baby_white_pet,12.0,t,0.0,,f,f
+1316,donkey_baby_pet,579,ActorModel,0.0,10,f,0.0,t,t,f,donkey_baby_pet,12.0,t,0.0,,f,f
+1317,donkey_baby_red_spot_pet,580,ActorModel,0.0,10,f,0.0,t,t,f,donkey_baby_red_spot_pet,12.0,t,0.0,,f,f
+1318,donkey_baby_white_pet,581,ActorModel,0.0,10,f,0.0,t,t,f,donkey_baby_white_pet,12.0,t,0.0,,f,f
+1319,snowlion_baby_pet,582,ActorModel,0.0,10,f,0.0,t,t,f,snowlion_baby_pet,12.0,t,0.0,,f,f
+1320,snowlion_baby_black_pet,583,ActorModel,0.0,10,f,0.0,t,t,f,snowlion_baby_black_pet,12.0,t,0.0,,f,f
+1321,snowlion_baby_white_pet,584,ActorModel,0.0,10,f,0.0,t,t,f,snowlion_baby_white_pet,12.0,t,0.0,,f,f
+1322,Test_Monster_Sphere,585,ActorModel,0.0,8,f,0.0,t,t,f,Test_Monster_Sphere,12.0,t,0.0,,f,f
+1323,speedcar,46,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar,12.0,t,1.5,355,t,t
+1324,spartoi_big,586,ActorModel,0.0,10,t,0.0,t,t,f,spartoi_big,12.0,t,0.5,363,f,f
+1325,참치,587,ActorModel,0.0,10,f,0.0,t,t,f,tuna,12.0,t,1.0,,f,f
+1326,식목일 페피,588,ActorModel,0.0,10,f,0.0,t,t,f,pet_fepee,12.0,t,0.0,368,f,f
+1327,식목일 나무정령(노란색),589,ActorModel,0.0,7,f,0.0,t,t,f,pet_woodgiant_silent,12.0,t,0.0,369,f,f
+1328,narayana_girl_colth_001,590,ActorModel,0.0,10,f,0.0,t,t,f,narayana_girl_colth_001,12.0,t,0.7,,f,f
+1329,narayana_girl_colth_002,591,ActorModel,0.0,10,f,0.0,t,t,f,narayana_girl_colth_002,12.0,t,0.7,,f,f
+1330,narayana_girl_colth_003,592,ActorModel,0.0,10,f,0.0,t,t,f,narayana_girl_colth_003,12.0,t,0.7,,f,f
+1331,bloodyarmy_commander_ghost,593,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_commander_ghost,12.0,t,0.0,234,f,f
+1332,bloodyarmy_infantry_ghost,594,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_infantry_ghost,12.0,t,0.0,234,f,f
+1333,bloodyarmy_soldier_ghost,595,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_soldier_ghost,12.0,t,0.0,234,f,f
+1334,bloodyarmy_archer_ghost,596,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_archer_ghost,12.0,t,0.0,234,f,f
+1335,bloodyarmy_quartemaster_ghost,597,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_quartemaster_ghost,12.0,t,0.0,234,f,f
+1336,bloodyarmy_spearman_ghost,598,ActorModel,0.0,9,f,0.0,t,t,f,bloodyarmy_spearman_ghost,12.0,t,0.0,234,f,f
+1337,amoredspecter_hunter_ghost,599,ActorModel,0.0,9,f,0.0,t,t,f,amoredspecter_hunter_ghost,12.0,t,0.0,367,f,f
+1338,girl01_cloth001,600,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth001,12.0,t,0.0,,f,f
+1339,amoredspecter_warrior_ghost,601,ActorModel,0.0,9,f,0.0,t,t,f,amoredspecter_warrior_ghost,12.0,t,0.0,367,f,f
+1340,girl01_cloth002,602,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth002,12.0,t,0.0,,f,f
+1341,girl01_cloth003,603,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth003,12.0,t,0.0,,f,f
+1342,girl01_cloth004,604,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth004,12.0,t,0.0,,f,f
+1343,girl01_cloth005,605,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth005,12.0,t,0.0,,f,f
+1344,girl01_cloth006,606,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth006,12.0,t,0.0,,f,f
+1345,girl01_cloth007,607,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth007,12.0,t,0.0,,f,f
+1346,girl01_cloth008,608,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth008,12.0,t,0.0,,f,f
+1347,girl01_cloth009,609,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth009,12.0,t,0.0,,f,f
+1348,girl01_cloth010,610,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth010,12.0,t,0.0,,f,f
+1349,girl01_cloth011,611,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth011,12.0,t,0.0,,f,f
+1350,girl01_cloth012,612,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth012,12.0,t,0.0,,f,f
+1351,girl01_cloth013,613,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth013,12.0,t,0.0,,f,f
+1352,girl01_cloth014,614,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth014,12.0,t,0.0,,f,f
+1353,girl01_cloth015,615,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth015,12.0,t,0.0,,f,f
+1354,girl01_cloth016,616,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth016,12.0,t,0.0,,f,f
+1355,girl01_cloth017,617,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth017,12.0,t,0.0,,f,f
+1356,girl01_cloth018,618,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth018,12.0,t,0.0,,f,f
+1357,girl01_cloth019,619,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth019,12.0,t,0.0,,f,f
+1358,armourdslime_ironpiece_violet,620,ActorModel,0.0,10,f,0.0,t,t,f,armourdslime_ironpiece_violet,12.0,t,0.0,14,f,f
+1359,enshaka_va1,621,ActorModel,0.0,10,t,0.0,t,f,f,enshaka_va1,12.0,t,0.0,344,f,f
+1360,고래 어선,19,ShipModel,0.0,12,t,0.0,f,f,f,fishboat_1,35.0,t,0.0,381,t,f
+1361,daru_driver,622,ActorModel,0.0,10,f,0.0,t,t,f,daru_driver,12.0,t,0.0,237,f,f
+1362,daru_auction,623,ActorModel,0.0,10,f,0.0,t,t,f,daru_auction,12.0,t,0.0,237,f,f
+1363,daru_trader,624,ActorModel,0.0,10,f,0.0,t,t,f,daru_trader,12.0,t,0.0,237,f,f
+1364,daru_wanderer,625,ActorModel,0.0,10,f,0.0,t,t,f,daru_wanderer,12.0,t,0.0,237,f,f
+1365,마차안내인,626,ActorModel,0.0,10,f,0.0,t,t,f,daru_info,12.0,t,0.0,237,f,f
+1366,공용목장인,627,ActorModel,0.0,10,f,0.0,t,t,f,daru_shepherd,12.0,t,0.0,237,f,f
+1367,공용수목원,628,ActorModel,0.0,10,f,0.0,t,t,f,daru_gardener,12.0,t,0.0,237,f,f
+1368,공용텃밭,629,ActorModel,0.0,10,f,0.0,t,t,f,daru_farmer,12.0,t,0.0,237,f,f
+1369,m24 프로모션 촬영용,630,ActorModel,0.0,10,f,0.0,t,t,f,gold_knight,12.0,t,0.0,1,f,f
+1370,m24 프로모션 촬영용,631,ActorModel,0.0,10,f,0.0,t,t,f,silver_knight,12.0,t,0.0,1,f,f
+1371,speedcar2,47,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar2,12.0,t,1.5,355,t,t
+1372,식목일 나무정령(초록색),632,ActorModel,0.0,7,f,0.0,t,t,f,pet_woodgiant_wild,12.0,t,0.0,369,f,f
+1373,잉어,633,ActorModel,0.0,10,f,0.0,t,t,f,carp,12.0,t,1.0,,f,f
+1374,전기뱀장어,634,ActorModel,0.0,10,f,0.0,t,t,f,electriceel,12.0,t,1.0,,f,f
+1375,바라문디,635,ActorModel,0.0,10,f,0.0,t,t,f,barramundi,12.0,t,1.0,,f,f
+1376,돛새치,636,ActorModel,0.0,10,f,0.0,t,t,f,pacificsailfish,12.0,t,1.0,,f,f
+1377,청새치,637,ActorModel,0.0,10,f,0.0,t,t,f,bluemarlin,12.0,t,1.0,,f,f
+1378,철갑상어,638,ActorModel,0.0,10,f,0.0,t,t,f,sturgeon,12.0,t,1.0,,f,f
+1379,소형 방갈로 건설진행 step1,675,PrefabModel,10.0,7,t,0.0,f,f,t,hs_common_floatconsite_S_step1,12.0,t,0.0,,f,f
+1380,소형 방갈로 건설진행 step2,676,PrefabModel,10.0,7,t,0.0,f,f,t,hs_common_floatconsite_S_step2,12.0,t,0.0,,f,f
+1381,소형 방갈로 건설진행 step3,677,PrefabModel,10.0,7,t,0.0,f,f,t,hs_common_floatconsite_S_step3,12.0,t,0.0,,f,f
+1382,공용 소형 수상 주택,678,PrefabModel,10.0,7,t,0.0,f,f,t,hs_common_floatinghouse_a,12.0,t,0.0,,f,f
+1383,상어 어선,20,ShipModel,0.0,12,t,0.0,f,f,f,fishboat_2,35.0,t,0.0,381,t,f
+1384,청새치 어선,21,ShipModel,0.0,12,t,0.0,f,f,f,fishboat_3,35.0,t,0.0,381,t,f
+1385,sunken_merchant_ship,22,ShipModel,0.0,12,t,0.0,f,f,t,sunken_merchant_ship,40.0,f,0.0,144,t,f
+1386,sunken_merchant_ship_2,23,ShipModel,0.0,12,t,0.0,f,f,t,sunken_merchant_ship_2,40.0,f,0.0,144,t,f
+1387,girl01_cloth009_02,639,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth009_02,12.0,t,0.0,,f,f
+1388,girl01_cloth001_02,640,ActorModel,0.0,10,f,0.0,t,t,f,girl01_cloth001_02,12.0,t,0.0,,f,f
+1389,pet_wraith,641,ActorModel,0.0,10,f,0.0,t,t,f,pet_wraith,12.0,t,0.75,242,f,f
+1390,pet_ostrich_spotted,642,ActorModel,0.0,10,f,0.0,t,t,f,pet_ostrich_spotted,12.0,t,0.0,343,f,f
+1391,pet_crab_redshell,643,ActorModel,0.0,14,f,0.0,t,t,f,pet_crab_redshell,12.0,t,0.0,79,f,f
+1392,pet_turtle_tropic,644,ActorModel,0.0,14,f,0.0,t,t,f,pet_turtle_tropic,12.0,t,0.0,379,f,f
+1393,enshaka_va2,645,ActorModel,0.0,10,t,0.0,t,f,f,enshaka_va2,12.0,t,0.0,344,f,f
+1394,어선 제작대 01,679,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_01,12.0,t,0.0,,f,f
+1395,어선 제작대 02,680,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_02,12.0,t,0.0,,f,f
+1396,어선 제작대 03,681,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_03,12.0,t,0.0,,f,f
+1397,어선 제작대 05,682,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_05,12.0,t,0.0,,f,f
+1398,어선(그린) 제작대 07,683,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_green_07,12.0,t,0.0,,f,f
+1399,어선(그린) 제작대 08,684,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_green_08,12.0,t,0.0,,f,f
+1400,어선(그린) 제작대 09ceremony ,685,PrefabModel,0.0,7,t,0.0,f,f,t,fishboat_housing_green_09ceremony,12.0,t,0.0,,f,f
+1401,포획된 검은비늘 군단 현혹자,646,ActorModel,0.0,10,f,0.0,t,t,f,pet_demisnake_female_mage,12.0,t,1.5,380,f,f
+1402,sunken_merchant_ship_6,24,ShipModel,0.0,12,t,0.0,f,f,t,sunken_merchant_ship_6,40.0,f,0.0,144,t,f
+1403,,647,ActorModel,0.0,10,f,0.0,t,f,t,horse_lord01,15.0,t,1.5,21,f,f
+1404,stormstrider,648,ActorModel,0.0,10,f,0.0,t,f,t,stormstrider,15.0,t,1.35,321,f,f
+1406,speedcar3,48,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar3,12.0,t,1.5,355,t,t
+1407,watcher,650,ActorModel,0.0,10,t,0.0,t,f,t,watcher,12.0,t,0.0,,f,f
+1408,,686,PrefabModel,0.0,13,f,0.0,f,f,t,whiteabyss_blue,12.0,t,4.0,,f,f
+1409,weregoat_red,651,ActorModel,0.0,10,f,0.0,t,t,f,weregoat_red,12.0,t,0.0,50,f,f
+1410,,687,PrefabModel,0.0,13,f,0.0,f,f,t,whiteabyss_pink,12.0,t,4.0,,f,f
+1411,gorgon_va1,652,ActorModel,0.0,10,f,0.0,t,t,f,gorgon_va1,12.0,t,1.5,292,f,f
+1412,우당탕탕 타악기 모음,49,VehicleModel,0.0,7,f,0.0,f,t,f,ndeco_percussion_a,12.0,f,0.0,,f,f
+1413,polarbear_white,653,ActorModel,0.0,10,f,0.0,t,f,t,polarbear_white,12.0,t,1.0,401,f,f
+1414,polarbear_black,654,ActorModel,0.0,10,f,0.0,t,f,t,polarbear_black,12.0,t,0.0,401,f,f
+1415,polarbear_brown,655,ActorModel,0.0,10,f,0.0,t,f,t,polarbear_brown,12.0,t,0.0,401,f,f
+1416,인던 나차쉬가르의 보물상자,688,PrefabModel,1.3,4,f,2.0,t,t,f,instance_nachashgar_mimicbox,12.0,t,0.0,,f,f
+1417,pet_fox_white,656,ActorModel,0.0,10,f,0.0,t,t,f,pet_fox_white,12.0,t,0.0,396,f,f
+1418,pet_polarbear,657,ActorModel,0.0,10,f,0.0,t,f,t,pet_polarbear,12.0,t,0.0,402,f,f
+1420,snowlion_ghost_riding,659,ActorModel,0.0,10,f,0.0,t,f,t,snowlion_ghost_riding,15.0,t,1.35,321,f,f
+1421,pet_polarbear_black,660,ActorModel,0.0,10,f,0.0,t,f,t,pet_polarbear_black,12.0,t,0.0,402,f,f
+1422,pet_polarbear_brown,661,ActorModel,0.0,10,f,0.0,t,f,t,pet_polarbear_brown,12.0,t,0.0,402,f,f
+1423,instance_immortal_isle_mob_wave,689,PrefabModel,0.0,5,f,0.0,t,t,f,instance_immortal_isle_mob_wave,12.0,t,0.0,,f,f
+1424,pet_detectmachine_rust,662,ActorModel,0.0,13,f,0.0,t,t,f,pet_detectmachine_rust,12.0,t,0.0,398,f,f
+1425,pet_werespider,663,ActorModel,0.0,10,f,0.0,t,t,f,pet_werespider,12.0,t,0.0,399,f,f
+1426,donkey_orange,664,ActorModel,0.0,10,f,0.0,t,f,t,donkey_orange,15.0,t,1.2,422,f,f
+1427,speedcar_redbull,50,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar_redbull,12.0,t,1.5,355,t,t
+1428,,665,ActorModel,0.0,1,f,0.0,t,f,t,ocom_submarine_a,12.0,t,0.6,,f,f
+1429,event_dragon,666,ActorModel,0.0,10,t,0.0,f,f,f,event_dragon,12.0,t,0.0,404,t,f
+1430,aranzebia,667,ActorModel,0.0,10,f,0.0,t,t,f,aranzebia,12.0,t,0.6,405,f,f
+1431,hidra_small,668,ActorModel,0.0,10,t,0.0,t,f,f,hidra_small,12.0,t,0.0,207,f,f
+1432,나차쉬가르의 무기수리 NPC,690,PrefabModel,0.0,8,f,2.0,t,t,f,instance_nachashgar_repair,12.0,t,0.0,,f,f
+1433,,669,ActorModel,0.0,1,f,0.0,t,f,t,ocom_submarine_blue,12.0,t,0.0,,f,f
+1434,,670,ActorModel,0.0,1,f,0.0,t,t,f,ocom_submarine_red,12.0,t,0.0,,f,f
+1435,,671,ActorModel,0.0,1,f,0.0,t,t,f,ocom_submarine_w,12.0,t,0.0,,f,f
+1436,polarbear_rider_orange,672,ActorModel,0.0,10,f,0.0,t,f,t,polarbear_rider_orange,12.0,t,0.0,401,f,f
+1437,donkey_blue,673,ActorModel,0.0,10,f,0.0,t,f,t,donkey_blue,15.0,t,1.2,422,f,f
+1438,elk_blue,674,ActorModel,0.0,10,f,0.0,t,f,t,elk_blue,15.0,t,1.3,38,f,f
+1439,tare_red,675,ActorModel,0.0,10,f,0.0,t,f,t,tare_red,12.0,t,1.3,19,f,f
+1441,테스트용 임시 모델,677,ActorModel,0.0,7,t,0.0,t,t,f,test_submarine_ghost,12.0,t,0.0,364,f,f
+1442,황금밥차,51,VehicleModel,3.3,7,f,0.0,f,f,t,food_truck,20.0,t,3.0,176,t,f
+1443,푸른색 마을 회관,691,PrefabModel,10.0,8,t,0.0,f,f,t,hs_common_townhall_a,12.0,t,0.0,,f,f
+1444,speedcar decal test,52,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar_decal,12.0,t,1.5,355,t,t
+1445,크라켄 폴리곤 줄인 모델,678,ActorModel,0.0,10,t,0.0,f,f,t,pet_kraken,12.0,t,0.0,414,f,f
+1446,빛나는 해안 유령동물원,679,ActorModel,0.0,9,f,0.0,t,t,f,ostrich_spotted_ghost,12.0,t,0.0,420,f,f
+1447,빛나는 해안 유령동물원,680,ActorModel,0.0,9,f,0.0,t,t,f,bear_brown_ghost,12.0,t,0.0,417,f,f
+1448,빛나는 해안 유령동물원 ,681,ActorModel,0.0,9,f,0.0,t,t,f,twoheadsnake_spotted_ghost,12.0,t,0.0,421,f,f
+1449,빛나는 해안 유령동물원,682,ActorModel,0.0,9,f,0.0,t,t,f,garuda_jade_ghost,12.0,t,5.0,418,f,f
+1450,빛나는 해안 유령동물원,683,ActorModel,0.0,9,f,0.0,t,t,f,gorilla_mahadevi_ghost,12.0,t,0.0,419,f,f
+1451,노란색_경비견,684,ActorModel,0.0,10,f,0.0,t,t,f,dog_guard_yellow,12.0,t,0.0,425,f,f
+1452,까마귀 텃밭_완료,692,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm_test,12.0,t,0.0,,f,f
+1453,갈색_경비견,685,ActorModel,0.0,10,f,0.0,t,t,f,dog_guard_brown,12.0,t,0.0,425,f,f
+1454,검은_경비견,686,ActorModel,0.0,10,f,0.0,t,t,f,dog_guard_black,12.0,t,0.0,425,f,f
+1455,Whiteabyss_Blue_Actor,687,ActorModel,0.0,8,f,0.0,t,t,f,Whiteabyss_Blue_Actor,12.0,t,0.0,,f,f
+1456,Whiteabyss_Pink_Actor,688,ActorModel,0.0,8,f,0.0,t,t,f,Whiteabyss_Pink_Actor,12.0,t,0.0,,f,f
+1457,,689,ActorModel,0.0,1,f,0.0,t,t,f,ocom_submarine_black,12.0,t,0.0,,f,f
+1458,,690,ActorModel,0.0,1,f,0.0,t,t,f,ocom_submarine_gold,12.0,t,0.0,,f,f
+1459,ghostcarriage_trailed,53,VehicleModel,0.0,1,f,0.0,f,f,t,ghostcarriage_trailed,12.0,t,0.0,,f,f
+1460,speedcar_r_ucc,54,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar_r_ucc,12.0,t,1.5,355,t,t
+1461,speedcar_b_ucc,55,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar_b_ucc,12.0,t,1.5,355,t,t
+1462,speedcar_y_ucc,56,VehicleModel,2.8,7,f,0.0,f,f,f,speedcar_y_ucc,12.0,t,1.5,355,t,t
+1463,ghostcarriage_main,57,VehicleModel,0.0,7,f,0.0,f,f,t,ghostcarriage_main,12.0,t,0.0,175,t,f
+1464,무역 농기계,58,VehicleModel,3.3,7,f,0.0,f,f,t,tractor_b,20.0,t,3.0,426,t,f
+1465,러시아 전차,59,VehicleModel,3.0,7,t,0.0,f,f,f,sigetank,60.0,t,0.0,174,t,f
+1466,drowned_noswim,691,ActorModel,0.0,10,f,0.0,t,t,f,drowned_noswim,12.0,t,0.0,258,f,f
+1467,갈색 바다사자,692,ActorModel,0.0,10,f,0.0,t,t,f,sealion_brown,12.0,t,3.0,,f,f
+1468,청회색 바다사자,693,ActorModel,0.0,10,f,0.0,t,t,f,sealion_greyblue,12.0,t,3.0,,f,f
+1469,점박이 바다사자,694,ActorModel,0.0,10,f,0.0,t,t,f,sealion_spotted,12.0,t,3.0,,f,f
+1470,흰색 바다사자,695,ActorModel,0.0,10,f,0.0,t,t,f,sealion_white,12.0,t,3.0,,f,f
+1471,ghoul_thrower,696,ActorModel,0.0,10,f,0.0,t,t,f,ghoul_thrower,12.0,t,0.0,,f,f
+1472,wildboar_grey,697,ActorModel,0.0,10,f,0.0,t,f,t,wildboar_grey,15.0,t,0.6,,f,f
+1473,wildboar_white,698,ActorModel,0.0,10,f,0.0,t,f,t,wildboar_white,15.0,t,0.0,,f,f
+1474,wildboar_yellow,699,ActorModel,0.0,10,f,0.0,t,f,t,wildboar_yellow,15.0,t,0.0,,f,f
+1475,페가수스 테스트 에셋모델,700,ActorModel,0.0,10,f,0.0,t,t,f,Pegasus_TEST,15.0,t,0.6,21,f,f
+1476,빨간 호박머리 허수아비 텃밭,693,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm2_red,12.0,f,6.0,,f,f
+1477,파란 호박머리 허수아비 텃밭,694,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm3_blue,12.0,f,6.0,,f,f
+1478,초록 호박머리 허수아비 텃밭,695,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm4_green,12.0,f,6.0,,f,f
+1479,비상용 호박머리 허수아비 텃밭,696,PrefabModel,6.0,7,t,0.0,f,f,t,pumpkin_farm5_sp,12.0,t,0.0,,f,f
+1480,seedbucket0,697,PrefabModel,0.0,7,f,0.0,t,t,f,seedbucket0,12.0,f,0.0,,f,f
+1481,seedbucket,698,PrefabModel,60.0,7,f,0.0,t,t,f,seedbucket,12.0,f,0.0,,f,f
+1482,boardship_01,25,ShipModel,0.0,12,t,0.0,f,f,t,boardship_01,40.0,t,0.0,144,t,f
+1483,ghoul_stalker,701,ActorModel,0.0,10,f,0.0,t,t,f,ghoul_stalker,12.0,t,0.0,,f,f
+1484,ghoul_warrior,702,ActorModel,0.0,10,f,0.0,t,t,f,ghoul_warrior,12.0,t,0.0,,f,f

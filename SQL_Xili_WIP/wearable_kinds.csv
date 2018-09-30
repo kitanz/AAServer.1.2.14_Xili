@@ -1,0 +1,6 @@
+id,armor_type_id,armor_ratio,magic_resistance_ratio,full_buff_id,half_buff_id,sound_material_id,extra_damage_pierce,extra_damage_slash,extra_damage_blunt,durability_ratio
+1,1,20,100,714,713,1,15,15,0,0.7
+2,2,60,60,716,715,2,0,15,0,0.85
+3,3,100,0,740,717,3,0,0,15,1.0
+4,4,50,0,0,0,3,0,0,0,1.0
+5,5,0,0,0,0,3,0,0,0,1.0

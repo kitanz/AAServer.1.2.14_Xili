@@ -1,0 +1,3 @@
+id,kind_id,formula
+1,0,floor(item_level ^ 1.1 * 45 + 100) * item_grade
+2,1,floor(item_level ^ 1.1 * 25 + 117) * item_grade

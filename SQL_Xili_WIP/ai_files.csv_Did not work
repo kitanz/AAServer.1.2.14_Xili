@@ -1,0 +1,166 @@
+id,name,param_template
+11,siegeweapon_place,
+12,bomb,
+13,roaming,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+15,hold_position,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+17,tower_defense_attacker,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+minAPS = [최소APS],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+18,flytrap,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+attackEndDistance = [공격종료거리],
+meleeAttackRange = [근접/원거리공격구분기준거리],
+combatSkills = {
+  melee = { [근접스킬리스트] },
+  ranged = { [원거리스킬리스트] }
+},
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+19,big_monster_hold_position,"msgs = {
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+combatSkills = {
+  { skillType = [스킬번호], skillDelay = [스킬사용후지연시간], strafeDuringDelay = [스킬사용경직중회전여부], healthRange = { [스킬사용최소HP%], [스킬사용최대HP%] } },
+  [위의항목을원하는개수만큼입력],
+},
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+20,big_monster_roaming,"msgs = {
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+combatSkills = {
+  { skillType = [스킬번호], skillDelay = [스킬사용후지연시간], strafeDuringDelay = [스킬사용경직중회전여부], healthRange = { [스킬사용최소HP%], [스킬사용최대HP%] } },
+  [위의항목을원하는개수만큼입력],
+},
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+21,archer_hold_position,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+meleeAttackRange = [근접/원거리공격구분기준거리],
+combatSkills = {
+  melee = { [근접스킬리스트] },
+  makeAGap = { [거리벌리기스킬리스트] },
+  rangedDef = { [원거리기본스킬리스트] },
+  rangedStrong = { [원거리강력스킬리스트] }
+},
+preferedCombatDist = [선호전투거리],
+maxMakeAGapCount = [최대거리벌리기횟수],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+22,archer_roaming,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+meleeAttackRange = [근접/원거리공격구분기준거리],
+combatSkills = {
+  melee = { [근접스킬리스트] },
+  makeAGap = { [거리벌리기스킬리스트] },
+  rangedDef = { [원거리기본스킬리스트] },
+  rangedStrong = { [원거리강력스킬리스트] }
+},
+preferedCombatDist = [선호전투거리],
+maxMakeAGapCount = [최대거리벌리기횟수],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+23,wild_boar_hold_position,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] },
+onCombatStartSkill = { [전투시작스킬리스트] },
+onSpurtSkill = {
+  { skillType = [스킬번호], healthCondition = [스킬발동HP%] },
+  [위의항목을원하는개수만큼입력],
+}"
+24,wild_boar_roaming,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] },
+onCombatStartSkill = { [전투시작스킬리스트] },
+onSpurtSkill = {
+  { skillType = [스킬번호], healthCondition = [스킬발동HP%] },
+  [위의항목을원하는개수만큼입력],
+}"
+25,dummy,
+26,default,"msgs = {
+  greeting = ""[인터렉션대사]"",
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] }"
+27,almighty_npc,"msgs = {
+  onFriendSee = ""[같은세력봤을때대사]"",
+  onEnemySee = ""[적봤을때대사]""
+},
+alertDuration = [경계시간],
+alertToAttack = [경계->전투여부],
+alertSafeTargetRememberTime = [비경계대상기억시간],
+combatSkills = {
+  { skillType = [스킬번호], skillDelay = [스킬사용후지연시간], strafeDuringDelay = [스킬사용경직중회전여부], healthRange = { [스킬사용최소HP%], [스킬사용최대HP%] } },
+  [위의항목을원하는개수만큼입력],
+},
+onGroupLeaderDied = { [리더사망스킬리스트] },
+onGroupMemberDied = { [그룹원사망스킬리스트] },
+idle_ai = ""[idle_type]<hold_position(base), roaming>"""

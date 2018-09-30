@@ -1,0 +1,6 @@
+id,item_group_id,count,highlight_doodad_id,use_alias,quest_act_obj_alias_id,drop_when_destroy
+3,4,1,,t,353,f
+4,4,5,,t,406,f
+5,5,6,,f,0,f
+6,7,1,,t,1757,f
+7,10,1,,f,0,f

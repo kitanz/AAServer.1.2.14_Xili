@@ -1,0 +1,11 @@
+id,group_id,ratio,model
+1,1,85.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_a
+2,3,10.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_b
+3,5,5.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_c
+4,0,100.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_a
+5,1,85.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_ba
+6,3,10.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_bb
+7,5,5.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_bc
+8,1,85.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_ca
+9,3,10.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_cb
+10,5,5.0,prefab://prefabs/interaction_c.xml/toy.slotmachine_cc

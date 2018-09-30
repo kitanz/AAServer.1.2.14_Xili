@@ -1,0 +1,6 @@
+id,outside_siege_zone,during_no_dominion,during_declare,during_peace,outside_siege_area_during_warmup,outside_siege_area_during_siege,offense_hq_during_warmup,offense_hq_during_siege,defense_hq_during_warmup,defense_hq_during_siege,siege_circle_during_warmup,siege_circle_during_siege,usage
+26397,f,f,f,f,f,f,f,f,f,f,f,t,'전차 지뢰'는 공성 기간에 공성 영역에서만 사용할 수 있습니다.
+26424,f,f,f,f,f,f,f,f,f,f,f,t,'나무 방책'은 공성 기간에 공성 영역에서만 사용할 수 있습니다.
+26428,f,f,f,f,f,f,f,f,f,f,f,t,'공중 방어기'는 공성 기간에 공성 영역에서만 사용할 수 있습니다.
+27300,f,f,f,f,f,f,f,t,f,f,f,f,'공성 투석기'는 공성 기간에 공성 진지에서 부활하는 진영만 진지 근처에서 소환할 수 있습니다.
+27302,f,f,f,f,f,f,f,t,f,f,f,f,'공성 사다리차'는 공성 기간에 공성 진지에서 부활하는 진영만 진지 근처에서 소환할 수 있습니다.

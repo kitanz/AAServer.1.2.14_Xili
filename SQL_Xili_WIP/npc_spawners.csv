@@ -1,0 +1,1 @@
+id,npc_spawner_category_id,name,comment,maxPopulation,startTime,endTime,destroyTime,spawn_delay_min,activation_state,save_indun,min_population,test_radius_npc,test_radius_pc,suspend_spawn_count,spawn_delay_max

@@ -1,0 +1,75 @@
+id,name,model_path,mass,density,pushable_by_player,water_damping,water_density,water_resistance,skill_id,skill_delay,life_time,collision_min_speed,collision_skill_id,disappear_by_collision,collision_unit_only,spawn_delay,fade_in_duration,fade_out_duration,damping,free_fall_damping,graspable,gravity,air_resistance,no_ground_collider
+1,box,objects/box.cgf,10.0,1.0,t,0.0,1.0,1.0,0,0,0,5.0,0,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+2,scaffolder_b,objects/env/nuia/mockup/silent_colossus/sc_scaffolding_breakable_b.cgf,100.0,1.0,t,0.0,1.0,1.0,,0,0,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+3,scafolder_d01,objects/env/nuia/mockup/silent_colossus/sc_scaffolding_breakable_d01.cgf,30.0,1.0,t,0.0,1.0,1.0,0,0,0,5.0,0,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+4,폭약 (HOYA),prefab://prefabs/fx.xml/quest.dynamite,-1.0,1.0,t,0.0,1.0,1.0,11915,5000,5100,5.0,,f,f,0,0,500,0.0,0.0,f,9.8,0.0,f
+5,불덩이러쉬,prefab://prefabs/fx.xml/fire_etc.fireball_gimmick,-1.0,100.0,f,0.0,1.0,1.0,,0,10000,0.1,11931,t,t,0,1000,1000,0.0,0.0,f,9.8,0.0,f
+6,바위굴리기,objects\Env\01_nuia\001_ndeco\quest_snowstone_1.cgf,1000.0,2.0,t,0.0,1.0,1.0,,0,15000,3.0,11931,f,t,0,500,1000,0.0,0.0,f,9.8,0.0,f
+7,mine,objects\Env\01_nuia\001_ndeco\cannonball_gimmick.cgf,0.0,0.5,t,0.0,2.0,2.0,,0,0,1.0,12006,t,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+8,거대 나무거인이 던지는 돌,objects/env/05_nature/08_cry_source/rocks/forest_rocks/forest_rock_big_a_withgreen.cgf,1000.0,8.0,t,0.0,1.0,1.0,,0,10000,0.01,12944,f,t,0,1000,1000,0.0,0.0,f,9.8,0.0,f
+9,돌의 형제회 폭탄 - 폭발하는 기믹,objects/Env/01_nuia/001_ndeco/cannonball_gimmick.cgf,20000.0,1.0,t,0.0,1.0,1.0,11915,500,1000,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+10,돌의 형제회 폭탄 - 굴러가다 폭발함,objects/Env/01_nuia/001_ndeco/cannonball_gimmick.cgf,-1.0,1.0,t,0.0,1.0,1.0,12278,2450,2500,10.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+11,꽃폭탄,Objects\Env\01_nuia\001_ndeco\quest\ndeco_quest_bigflower.cgf,0.001,0.001,t,0.0,1.0,1.0,,0,5000,0.1,12518,t,t,1000,0,0,0.0,0.0,f,9.8,0.0,f
+12,Quest : 영혼이 깃든 꽃잎,Objects\Env\02_harihara\001_hdeco\quest\hdeco_quest_flower.cgf,-1.0,0.001,t,0.0,1.0,1.0,,0,20000,2.0,,f,f,500,0,1000,0.0,0.0,f,9.8,0.0,f
+13,통나무,objects/Env/02_harihara/12_an/an_treecut_a.cgf,10.0,0.001,t,0.0,1.0,1.0,,0,30000,1.0,,f,f,0,1000,1000,0.0,0.0,f,9.8,0.0,f
+14,원형폭탄 (HOYA),objects/Env/01_nuia/001_ndeco/cannonball_gimmick.cgf,-1.0,1.0,t,0.0,1.0,1.0,12572,2450,0,10.0,,f,f,0,0,2500,0.0,0.0,f,9.8,0.0,f
+15,폭격기 폭탄 (HOYA),objects/Env/01_nuia/001_ndeco/cannonball_gimmick.cgf,1.0,1.0,t,0.0,1.0,1.0,12574,5000,5100,5.0,12574,t,f,0,0,500,0.0,0.0,f,9.8,0.0,f
+16,녹색 폭죽,prefab://prefabs/fx.xml/quest.firecracker_green,0.01,1.0,t,0.0,1.0,1.0,12849,1000,1000,1.0,,f,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+17,붉은색 폭죽,prefab://prefabs/fx.xml/quest.firecracker_red,0.01,1.0,t,0.0,1.0,1.0,12858,1000,1000,1.0,,f,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+18,푸른색 폭죽,prefab://prefabs/fx.xml/quest.firecracker_blue,0.01,1.0,t,0.0,1.0,1.0,12861,1000,1000,1.0,,f,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+20,흉포한 거인 - 바위굴리기 (Skill 13476),Objects/env/05_nature/08_cry_source/rocks/forest_rocks/forest_rock_big_b_withgreen.cgf,2000.0,8.0,t,0.0,1.0,1.0,,0,10000,5.0,14102,f,t,0,500,1500,0.0,0.0,f,9.8,0.0,f
+21,청동바위산 존퀘스트 - 눈덩이 굴리기,Objects\env\01_nuia\001_ndeco\quest\ndeco_quest_snowball_b.cgf,2000.0,4.0,t,0.0,1.0,1.0,,0,8000,3.0,14873,f,t,0,500,1000,0.0,0.0,f,9.8,0.0,f
+22,공,Objects/env/01_nuia/001_ndeco/ndeco_ball_a.cgf,0.11,-1.0,t,0.01,1.0,13.0,,0,3600000,5.0,,f,f,0,0,0,1.0,0.0,f,9.8,0.0,f
+23,배,Objects/Env/01_nuia/001_ndeco/old/ferryboat_b.cgf,-1.0,0.5,t,0.0,1.0,1.0,,0,0,100.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+24,야차의 밥상,Objects/env/05_nature/08_cry_source/rocks/cliff_rocks/cliff_rock_neutral_big_b_flat.cgf,100000.0,8.0,t,0.0,1.0,1.0,,0,10000,0.0,,f,t,0,0,3000,0.0,0.0,f,9.8,0.0,f
+25,술통 폭탄,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf,-1.0,0.6,t,2.0,1.0,1.0,13210,10000,10150,5.0,13210,t,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+26,용무늬폭죽,prefab://prefabs/fx.xml/quest.firecracker_red,0.01,1.0,t,0.0,1.0,1.0,,1000,1000,1.0,,t,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+27,하트무늬폭죽,prefab://prefabs/fx.xml/quest.firecracker_red,0.01,1.0,t,0.0,1.0,1.0,,1500,1000,1.0,,f,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+28,조명탄,prefab://prefabs/interaction.xml/toy.flare,-1.0,0.5,f,0.0,1.0,1.0,,1000,20000,5.0,,f,f,0,1000,1000,0.0,0.0,f,4.0,0.0,f
+29,담라우의 폭죽,prefab://prefabs/fx.xml/quest.firecracker_green,0.01,1.0,t,0.0,1.0,1.0,13757,1000,3000,1.0,,f,f,0,0,1500,0.0,0.0,f,9.8,0.0,f
+30,날틀 폭탄,Objects\env\01_nuia\001_ndeco\ndeco_common_barrel_02.cgf,1.0,1.0,t,0.0,1.0,1.0,14648,10000,0,1.0,14648,t,f,0,100,500,0.0,0.0,f,9.8,0.0,f
+31,핵폭탄,objects/Env/01_nuia/001_ndeco/cannonball_gimmick.cgf ,1.0,1.0,t,0.0,1.0,1.0,14649,5000,0,5.0,14649,t,f,0,300,500,0.0,0.0,f,9.8,0.0,f
+32,탐사 로봇,prefab://prefabs/interaction.xml/toy.detect_machine,2000.0,-1.0,t,3.0,50.0,500.0,,0,600000,5.0,,f,f,0,1000,1000,0.0,0.0,f,9.8,0.0,f
+33,테스트_주사위,Objects/env/01_nuia/001_ndeco/ndeco_dice_a.cgf,1.0,1.0,t,0.0,1.0,1.0,,0,10000,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+34,테스트_볼링핀,Objects\env\01_nuia\001_ndeco\ndeco_bpin_a.cgf,0.1,-1.0,t,0.0,1.0,1.0,,0,30000,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+35,테스트_볼링공,Objects/env/01_nuia/001_ndeco/ndeco_ball_a.cgf,100.0,-1.0,t,0.0,1.0,1.0,,0,20000,5.0,,f,t,0,0,0,0.5,0.0,f,9.8,0.0,f
+36,기뢰,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf ,-1.0,0.6,t,2.0,1.0,1.0,14768,10000,10200,5.0,14768,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+37,가라앉은 보물,prefab://prefabs/ndeco_quest.xml/ndeco_quest.ndeco_watercase_ball,-1.0,0.5,f,2.0,1.0,1.0,15343,40000,40100,5.0,,f,t,0,500,0,0.0,0.0,f,9.8,0.0,f
+38,지옥의 불덩이,prefab://prefabs/fx.xml/fire_etc.fireball_gimmick_realsize,1.0,1.0,f,0.0,1.0,1.0,15340,10000,10200,0.1,15340,t,t,0,0,200,0.0,0.0,f,9.8,0.0,f
+39,창고지기 쇼블의 술통 폭탄,Objects\Env\01_nuia\001_ndeco\old\barrel_oak_b.cgf,0.7,-1.0,t,2.0,1.0,1.0,15651,5900,6000,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+40,거대 석궁,prefab://prefabs/fx.xml/fire_etc.siege_bow_gimmick_realsize,1.0,-1.0,t,0.0,1.0,1.0,15657,10000,10200,1.0,15657,t,f,0,0,500,0.0,0.0,f,9.8,0.1,f
+41,썩은 고깃덩이,prefab://prefabs/interaction_d.xml/monster.hadir_boss_meat1,-1.0,0.6,t,2.0,1.0,1.0,16402,4500,5000,5.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+42,불타는 돌,prefab://prefabs/interaction.xml/env.fireball_gimmick_realsize,100.0,-1.0,t,0.0,1.0,1.0,,0,20000,2.0,16547,f,t,0,500,0,0.0,0.0,f,9.8,0.0,f
+43,긴 모래톱 공,Objects/env/01_nuia/001_ndeco/ndeco_ball_a.cgf,0.11,-1.0,t,0.01,1.0,13.0,,0,60000,5.0,,f,t,0,0,3000,1.0,0.0,f,9.8,0.0,f
+44,횃불,prefab://Prefabs/interaction.xml/light.torch,1.0,-1.0,t,0.0,1.0,1.0,17664,4900,5000,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+45,작살 폭탄,prefab://prefabs/fx.xml/fire_etc.siege_bow_gimmick_realsize,1.0,-1.0,t,0.0,1.0,1.0,17741,10000,10200,1.0,17741,t,f,0,0,500,0.0,0.0,f,9.8,0.1,f
+46,맹독 유탄,prefab://prefabs/fx.xml/fire_etc.siege_bow_gimmick_realsize,1.0,-1.0,t,0.0,1.0,1.0,17745,10000,10200,1.0,17745,t,f,0,0,500,0.0,0.0,f,9.8,0.1,f
+47,칼바람폐광 폭탄,prefab://prefabs/fx.xml/quest.dynamite,-1.0,1.0,t,0.0,1.0,1.0,18577,3000,3100,0.0,,f,t,0,0,1000,0.0,0.0,f,9.8,0.0,f
+48,칼바람폐광 종유석_lower,prefab://prefabs/interaction_b.xml/cuttingwind.caverock_stalactite_lower,-1.0,2.0,t,0.0,1.0,1.0,,0,10000,1.0,18252,t,f,0,0,1000,0.0,0.0,f,9.8,0.0,f
+49,폭발통,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf ,-1.0,0.6,t,2.0,1.0,1.0,18366,6000,6150,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+50,칼바람폐광_돌,prefab://prefabs/interaction_b.xml/cuttingwind.fallenrock1,100.0,1.0,t,0.0,1.0,1.0,,0,10000,1.0,18252,t,f,0,1000,3000,0.0,0.0,f,9.8,0.0,f
+51,죽음의 향료병,prefab://prefabs/interaction_d.xml/cradle_of_destruction.dead_spice_middle,-1.0,0.6,t,2.0,1.0,1.0,18424,2500,3000,5.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+52,무너지는 천장,prefab://prefabs/interaction_e.xml/howling_abyss.fall_stone_02,3.0,-1.0,t,2.0,1.0,1.0,18384,5500,8000,10.0,18384,t,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+53,test_인던파괴가능벽,Objects/Env/08_dungeon/02_ga_cave/ga_caverock_a01_br.cgf,-1.0,1.0,t,0.0,1.0,1.0,,0,0,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+54,미쳐버린 은둔자의 마나공,prefab://prefabs/interaction_d.xml/cradle_of_destruction.cradle_4,-1.0,0.6,t,2.0,1.0,1.0,,2500,3000,5.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+55,파괴의 요람_석상 얼굴,prefab://prefabs/ga_cave_prop.xml/ga_cave_prop.head_broken_gimmick,100.0,-1.0,t,0.0,1.0,1.0,,0,10000,1.0,18672,t,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+56,칼바람폐광 화약통,prefab://prefabs/interaction_b.xml/cuttingwind.barrel_bomb1,-1.0,1.0,t,0.0,1.0,1.0,,0,0,0.0,18717,t,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+57,메타모제의 시체,Objects\Env\01_nuia\001_ncom\ncom_headstand_body.cgf,1.0,-1.0,t,2.0,1.0,1.0,18870,5800,6000,0.0,,f,t,0,0,0,0.0,0.0,f,9.8,0.0,f
+58,네르타 분신 통나무,prefab://prefabs/interaction_b.xml/cuttingwind.log1,-1.0,1.0,t,0.0,1.0,1.0,,0,10000,5.0,,f,t,0,0,5000,0.0,0.0,f,9.8,0.0,f
+59,플레이어_폭발통,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf ,-1.0,0.6,t,2.0,1.0,1.0,18931,5500,5650,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+60,칼바람폐광 종유석_upper,prefab://prefabs/interaction_b.xml/cuttingwind.caverock_stalactite_upper,-1.0,2.0,t,0.0,1.0,1.0,,0,10000,1.0,18252,t,f,0,0,1000,0.0,0.0,f,9.8,0.0,f
+61,파괴의 요람 종유석,prefab://prefabs/interaction_d.xml/cradle_of_destruction.rock_04,-1.0,2.0,t,0.0,1.0,1.0,,0,0,1.0,19197,t,f,0,0,1000,0.0,0.0,f,9.8,0.0,f
+63,폭약통,prefab://prefabs/interaction.xml/toy.explosive_barrel_launch,-1.0,1.0,f,0.0,1.0,1.0,19450,2800,3000,1.0,19450,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+64,트리스테 가문의 비밀병기,prefab://prefabs/fx.xml/fire_etc.siege_bow_gimmick_realsize,1.0,-1.0,t,0.0,1.0,1.0,19520,10000,10200,1.0,19520,t,f,0,0,500,0.0,0.0,f,9.8,0.1,f
+65,테스트 - 기믹이 두다드 소환,Objects/env/01_nuia/001_ndeco/ndeco_dice_a.cgf,-1.0,1.0,t,0.0,1.0,1.0,,0,10000,5.0,21003,t,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+66,트리스테 가문의 비밀병기,prefab://prefabs/fx.xml/fire_etc.siege_bow_gimmick_realsize,1.0,-1.0,t,0.0,1.0,1.0,21126,10000,10200,1.0,21126,t,f,0,0,500,0.0,0.0,f,9.8,0.1,f
+67,폭약통,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf ,-10.6,1.0,t,0.0,1.0,1.0,,0,6150,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+68,폭약통,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf ,-10.6,1.0,t,0.0,1.0,1.0,21343,6000,6150,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+69,울구영던_플레이어_폭발통,objects/env/01_nuia/001_ndeco/old/barrel_grape_e.cgf,-1.0,0.6,t,2.0,1.0,1.0,21377,5500,5650,0.0,,f,f,0,0,0,0.0,0.0,f,9.8,0.0,f
+70,크라켄의 소형 유물,prefab://prefabs/interaction_c.xml/container.backpack_kraken_ground,-1.0,0.5,f,2.0,1.0,1.0,21597,10000,10100,5.0,,f,f,0,500,0,0.0,0.0,f,9.8,0.0,f
+71,크라켄의 중형 유물,prefab://prefabs/interaction_c.xml/container.backpack_kraken_b_ground,-1.0,0.5,f,2.0,1.0,1.0,23089,10000,10100,5.0,,f,f,0,500,0,0.0,0.0,f,9.8,0.0,f
+72,크라켄의 대형 유물,prefab://prefabs/interaction_c.xml/container.backpack_kraken_m_ground,-1.0,0.5,f,2.0,1.0,1.0,23090,10000,10100,5.0,,f,f,0,500,0,0.0,0.0,f,9.8,0.0,f
+73,붉은 용의 비늘,prefab://prefabs/carcass.xml/w_carcass.dragonscales,-1.0,0.6,f,2.0,1.0,1.0,23172,20000,20200,5.0,,f,t,0,500,0,0.0,0.0,f,9.8,0.0,f
+74,붉은 용의 비늘,prefab://prefabs/carcass.xml/w_carcass.dragonscales,-1.0,0.6,t,0.0,1.0,1.0,23172,10000,10100,5.0,,f,t,0,500,0,0.0,0.0,f,9.8,0.0,f
+75,아켄의 촉수,prefab://prefabs/interaction_c.xml/container.backpack_kraken_ground,-1.0,0.5,t,2.0,1.0,1.0,23476,10000,10100,5.0,,f,f,0,500,0,0.0,0.0,f,9.8,0.0,f
+76,추석 호랑이_돌,prefab://prefabs/interaction_b.xml/cuttingwind.fallenrock1,100.0,1.0,t,0.0,1.0,1.0,,0,10000,1.0,23923,t,f,0,1000,3000,0.0,0.0,f,9.8,0.0,f

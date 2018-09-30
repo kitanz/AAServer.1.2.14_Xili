@@ -1,0 +1,5 @@
+id,zone_group_id,name,shape_id,shape_type
+1,62,aranzebia room,1,IndunRoomSphere
+3,64,aranzebia room(event),3,IndunRoomSphere
+5,66,room_05,5,IndunRoomSphere
+6,66,room_10,6,IndunRoomSphere

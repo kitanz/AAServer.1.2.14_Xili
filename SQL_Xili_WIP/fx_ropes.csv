@@ -1,0 +1,4 @@
+id,launcher_model_path,anchor_model_path,material,length,thickness,physcis_segment,segment,side_count,collision,attachment_collision,smooth,subdivide
+1,,objects/env/06_unit/08_ballista/ballista_a_rope.cgf,materials/misc/rope/rope_a,1.2,0.05,20,50,8,t,f,t,t
+2,,objects/item/etc/hook/hook_stick.cgf,materials/misc/rope/rope_a,1.2,0.02,20,40,4,t,f,t,t
+3,,,materials/misc/rope/rope_fishing,1.002,0.0025,40,80,8,t,f,t,f

@@ -1,0 +1,13 @@
+id,name,grade_order,var_holdable_dps,var_holdable_armor,var_holdable_magic_dps,var_wearable_armor,var_wearable_magic_resistance,color_argb,comments,durability_value,icon_id,color_argb_second,upgrade_ratio,stat_multiplier,refund_multiplier,grade_enchant_success_ratio,grade_enchant_great_success_ratio,grade_enchant_break_ratio,num_sockets
+0,일반,1,1.0,1.0,1.0,1.0,1.0,FFBA976D,common,1.0,5767,FFBA976D,250000,100,100,5000,2000,0,0
+1,저급,0,0.8,0.8,0.8,0.8,0.8,FF949293,poor,0.5,5768,FF949293,333333,80,50,5000,2000,0,0
+2,고급,2,1.05,1.05,1.05,1.05,1.05,FF77b064,uncommon,1.05,5769,FF77b064,200000,108,150,4000,2000,0,0
+3,희귀,3,1.1,1.1,1.1,1.1,1.1,FF558fd7,rare,1.095,5770,FF558fd7,166666,116,200,3000,2000,0,0
+4,고대,4,1.15,1.15,1.15,1.15,1.15,FFcb72d8,ancient,1.135,5771,FFcb72d8,142857,124,250,2500,2000,10000,0
+5,영웅,5,1.2,1.2,1.2,1.2,1.2,FFd78b06,heroic,1.17,5772,FFd78b06,125000,132,300,2000,2000,10000,0
+6,유일,6,1.25,1.25,1.25,1.25,1.25,FFe17853,unique,1.2,5773,FFe17853,0,140,350,1500,2000,10000,0
+7,유물,7,1.35,1.35,1.35,1.35,1.35,FFf95252,artifact,1.225,5774,FFf95252,0,150,400,1500,2000,10000,0
+8,경이,8,1.45,1.45,1.45,1.45,1.45,FFcf7d5d,wonder,1.245,5775,FFcf7d5d,0,160,450,1500,2000,10000,0
+9,서사,9,1.55,1.55,1.55,1.55,1.55,FF8fa5ca,epic,1.26,5776,FF8fa5ca,0,170,500,1500,2000,10000,0
+10,전설,10,1.65,1.65,1.65,1.65,1.65,FFbf7900,legendary,1.27,5777,FFbf7900,0,180,550,1500,0,10000,0
+11,신화,11,1.75,1.75,1.75,1.75,1.75,FFc90b0b,mythic,1.275,5778,FFc90b0b,0,190,600,0,0,0,0

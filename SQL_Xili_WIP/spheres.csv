@@ -1,0 +1,1875 @@
+id,name,enter_or_leave,sphere_detail_id,sphere_detail_type,trigger_condition_id,trigger_condition_time,team_msg,category_id,or_unit_reqs,is_personal_msg
+4,Q176_미심쩍은목소리_진입,t,4,SphereQuest,3,0,,10,f,f
+5,Q49_아직마르지않은핏자국_핏자국1,t,5,SphereQuest,3,0,,2,f,f
+6,Q61_아직마르지않은핏자국_핏자국2,t,6,SphereQuest,0,0,,1,f,f
+7,Q61_아직마르지않은핏자국_핏자국3,t,7,SphereQuest,0,0,,1,f,f
+8,Q61_아직마르지않은핏자국_도적시체,t,8,SphereQuest,0,0,,1,f,f
+9,Q99_가랑돌평원_돌의형제회야영지,t,9,SphereQuest,3,0,,1,f,f
+10,Q604_하피마녀의둥지_첫번째진입,t,10,SphereQuest,3,0,,10,f,f
+11,Q1663_침묵의거상입구,t,11,SphereQuest,3,0,,1,f,f
+12,Q604_하피마녀의둥지_두번째진입,t,12,SphereQuest,3,0,,10,f,f
+15,Q63_위험한모래톱,t,15,SphereQuest,3,0,,2,f,f
+18,Q604_하피마녀의둥지_세번째진입,t,18,SphereQuest,3,0,,10,f,f
+21,Q202_유리구두를신은마리안_마리안의이동경로,t,21,SphereQuest,0,0,,1,f,f
+25,Q954_전령_기억의터입구,t,25,SphereQuest,0,0,,1,f,f
+28,수습생이 사라진 곳,t,28,SphereQuest,3,0,,1,f,f
+33,마리아노플 전체,t,33,SphereQuest,2,0,,1,f,f
+35,Q29_소란의원인_그위오니드호수,t,35,SphereQuest,0,0,,1,f,f
+36,Q29_소란의원인_호수마을,t,36,SphereQuest,0,0,,1,f,f
+38,Q65_바람의 목소리_길버트의 비밀 장소,t,38,SphereQuest,0,0,,1,f,f
+39,Q65_바람의 목소리_거상 무덤 입구,t,39,SphereQuest,3,0,,1,f,f
+40,Q67_거상의 불편한 심기_거상 내부1,t,40,SphereQuest,0,0,,1,f,f
+41,Q67_거상의 불편한 심기_거상 내부2,t,41,SphereQuest,0,0,,1,f,f
+42,Q67_거상의 불편한 심기_거상 내부3,t,42,SphereQuest,0,0,,1,f,f
+43,Q67_거상의 불편한 심기_거상 내부4,t,43,SphereQuest,0,0,,1,f,f
+44,Q35_영매_환영술사익사체소환,t,44,SphereQuest,0,0,,1,f,f
+55,Q168_린노르예트_린이동영역,t,55,SphereQuest,0,0,,1,f,f
+56,Q273_르네의반지_호수도착,t,56,SphereQuest,3,0,,1,f,f
+61,Q75_이온씨족의자객_퀘스트수락,t,61,SphereQuest,0,0,,1,f,f
+62,Q75_이온씨족의자객_자객스폰,t,62,SphereQuest,0,0,,1,f,f
+63,Q75_이온씨족의자객_자객스폰2,t,63,SphereQuest,0,0,,1,f,f
+67,Q291_고소공포증_성벽잠입,t,67,SphereQuest,0,0,,1,f,f
+68,Q291_고소공포증_브릿짓구출완료,t,68,SphereQuest,0,0,,1,f,f
+70,Q224_본거지소탕_다후타추종자기지,t,70,SphereQuest,0,0,,1,f,f
+75,Q256_고집쟁이제니_퀘스트완료,t,75,SphereQuest,3,0,,1,f,f
+77,Q252_숲을되살려야합니다_나무심기영역,t,77,SphereQuest,0,0,,1,f,f
+78,Q295_요정의숲_요정릴리안소환지역,t,78,SphereQuest,0,0,,1,f,f
+79,Q263_흩어진안개_물약사용지역,t,79,SphereQuest,3,0,,1,f,f
+81,Q329_발소리의정체_퀘스트시작,t,81,SphereQuest,0,0,,1,f,f
+82,Q115_후송대열_몹스폰1,t,82,SphereQuest,3,0,,1,f,f
+83,Q115_후송대열_몹스폰2,t,83,SphereQuest,3,0,,1,f,f
+84,하얀 숲 서부 안전지대,t,84,SphereQuest,3,0,,1,f,f
+85,Q103_우두머리를 찾아서_목격자의 길,t,85,SphereQuest,0,0,,1,f,f
+87,Q119_반지의주인_자작나무마을입장,t,87,SphereQuest,3,0,,1,f,f
+88,Q121_잡화상인오코너_프랭크가있는곳,t,88,SphereQuest,3,0,,1,f,f
+89,Q123_약혼자에대한추억_추억이어린장소1,t,89,SphereQuest,0,0,,1,f,f
+90,Q123_약혼자에대한추억_추억이어린장소2,t,90,SphereQuest,0,0,,1,f,f
+91,Q123_약혼자에대한추억_추억이어린장소3,t,91,SphereQuest,0,0,,1,f,f
+92,Q124_상실과위로_추억이어린장소,t,92,SphereQuest,0,0,,1,f,f
+93,Q136_겁에질린수습생_자이라본진,t,93,SphereQuest,0,0,,1,f,f
+94,Q329_집으로_화난늑대소환장소,t,94,SphereQuest,0,0,,1,f,f
+95,Q155_온전한푸른수정_코볼트피난민,t,95,SphereQuest,3,0,,1,f,f
+99,Q159_트롤!!!_트롤의흔적,t,99,SphereQuest,2,0,,1,t,f
+101,Q41_정령이지키고있는것?,t,101,SphereQuest,3,0,,1,f,f
+102,Q348_넝쿨을타고올라보세요_넝쿨앞,t,102,SphereQuest,0,0,,1,f,f
+103,Q348_넝쿨을타고올라보세요_넝쿨위,t,103,SphereQuest,0,0,,1,f,f
+106,Q255_제니의소원_퀘스트완료,t,106,SphereQuest,0,0,,1,f,f
+107,Q348_넝쿨을타고올라보세요_넝쿨종료,t,107,SphereQuest,0,0,,1,f,f
+108,Q13_고블린의습격_고블린스폰1,t,108,SphereQuest,0,0,,1,f,f
+109,Q13_고블린의습격_고블린스폰2,t,109,SphereQuest,0,0,,1,f,f
+110,Q13_고블린의습격_고블린스폰3,t,110,SphereQuest,0,0,,1,f,f
+111,Q321_방목장을지켜라_양방목장,t,111,SphereQuest,2,0,,1,f,f
+112,Q176_미심쩍은목소리_목소리나는곳,t,112,SphereQuest,0,0,,1,f,f
+113,Q176_미심쩍은목소리_수상한남자들,t,113,SphereQuest,3,0,,1,f,f
+114,Q179_끔찍한고목_하피동굴,t,114,SphereQuest,3,0,,10,f,f
+115,Q179_끔찍한고목_끔찍한고목,t,115,SphereQuest,2,0,,1,f,f
+116,Q182_하피동굴조사_퀘스트시작,t,116,SphereQuest,2,0,,1,f,f
+117,Q182_하피동굴조사_동굴안쪽,t,117,SphereQuest,0,0,,1,f,f
+120,Q340_암습_퀘스트시작,t,120,SphereQuest,3,0,,10,f,f
+121,Q341_사건의해결사_진입,t,121,SphereQuest,3,0,,10,f,f
+122,Q339_유리구두의주인_진입,t,122,SphereQuest,3,0,,10,f,f
+123,Q524_사령관막사,f,123,SphereQuest,0,0,,1,f,f
+125,Q522_야영지앞,t,125,SphereQuest,3,0,,13,f,f
+126,Q531_절벽이있는해안,t,126,SphereQuest,0,0,,1,f,f
+127,Q541_부두먼바다,t,127,SphereQuest,0,0,,1,f,f
+128,Q547_테세나변신장소,t,128,SphereQuest,0,0,,1,f,f
+130,Q574_두번째별무덤,t,130,SphereQuest,0,0,,1,f,f
+131,Q562_세번째별무덤,t,131,SphereQuest,0,0,,1,f,f
+132,Q567_케르트너의 흔적,t,132,SphereQuest,0,0,,1,f,f
+134,Q554_일리온마법진,t,134,SphereQuest,0,0,,1,f,f
+135,Q571_네번째별무덤,t,135,SphereQuest,0,0,,1,f,f
+136,Q533_절벽,t,136,SphereQuest,0,0,,1,f,f
+137,Q548_비밀서재의방,t,137,SphereQuest,0,0,,1,f,f
+139,Q549_불의손길을내릴장소,t,139,SphereQuest,0,0,,1,f,f
+140,Q558_불의선물을내릴장소,t,140,SphereQuest,0,0,,1,f,f
+148,Q578_테세나가갇혀있는감옥앞,t,148,SphereQuest,0,0,,1,f,f
+149,Q578_테세나가감금된감옥근처,t,149,SphereQuest,0,0,,1,f,f
+150,Q595_마법사로스토프근처,t,150,SphereQuest,0,0,,1,f,f
+155,Q173_마리아노플의경비병_벌거숭이도적스폰,t,155,SphereQuest,0,0,,1,f,f
+156,Q172_슬픔에잠긴노인_퀘스트완료,t,156,SphereQuest,2,0,,1,f,f
+157,Q374_이름없는부랑자_진입,t,157,SphereQuest,3,0,,10,f,f
+163,Q536_이그러진공간,t,163,SphereQuest,0,0,,1,f,f
+164,Q171_지원요청_퀘스트완료,t,164,SphereQuest,2,0,,1,f,f
+165,Q386_하두브란트에게_퀘스트시작,t,165,SphereQuest,0,0,,1,f,f
+166,Q554_살리움마법진,t,166,SphereQuest,0,0,,1,f,f
+167,Q556_수상한흙더미,t,167,SphereQuest,0,0,,1,f,f
+170,Q605_에스테반의_마을_도착,t,170,SphereQuest,0,0,,1,f,f
+171,Q618_올리비아_일가족의_무덤,t,171,SphereQuest,0,0,,1,f,f
+172,Q626_용병대장_부관_스폰_지역,t,172,SphereQuest,0,0,,1,f,f
+173,Q628_바닷가_도착,t,173,SphereQuest,0,0,,1,f,f
+174,Q630_보물찾기,t,174,SphereQuest,0,0,,1,f,f
+175,Q633_왕의_농장_저수지_도착,t,175,SphereQuest,0,0,,1,f,f
+176,Q640_오크_주둔지_진입,t,176,SphereQuest,0,0,,1,f,f
+177,Q644_불탄_야영지_진입,t,177,SphereQuest,0,0,,1,f,f
+178,Q648_생존자_발견,t,178,SphereQuest,0,0,,1,f,f
+179,Q649_오크족장,t,179,SphereQuest,0,0,,1,f,f
+180,Q656_마법실험을_당한_광인을_만나다,t,180,SphereQuest,0,0,,1,f,f
+181,Q653_보름_마법사_사르디온,t,181,SphereQuest,0,0,,1,f,f
+182,Q658_이즈나_입구,t,182,SphereQuest,0,0,,1,f,f
+183,Q660_커다란_상자,t,183,SphereQuest,0,0,,1,f,f
+184,Q659_노예_탐문_시작,t,184,SphereQuest,0,0,,1,f,f
+185,Q661_율리우스에게 도착,t,185,SphereQuest,0,0,,1,f,f
+186,Q614_광산_관리인_처단,t,186,SphereQuest,0,0,,1,f,f
+187,Q344_폐허가된농장의사연_베스의무덤,t,187,SphereQuest,3,0,,1,f,f
+189,Q646_오크_족장의_비밀문서,t,189,SphereQuest,0,0,,1,f,f
+190,Q655_보름_마법사_사르디온의_실험실_밖,t,190,SphereQuest,0,0,,1,f,f
+191,Q137_지체되고있는보급품_요셉주변,t,191,SphereQuest,2,0,,1,f,f
+192,Q425_상황알리기_안델프복도,t,192,SphereQuest,0,0,,1,f,f
+194,Q431_미래의 결정_안델프 카페테리아,t,194,SphereQuest,0,0,,1,f,f
+195,Q799_칼미라2세왕궁,t,195,SphereQuest,3,0,,16,f,f
+196,Q1435_구름의탑안,t,196,SphereQuest,3,0,,16,f,f
+197,Q1463_비의탑입구,t,197,SphereQuest,3,0,,16,f,f
+198,Q856_하루뿌리1,t,198,SphereQuest,3,0,,16,f,f
+199,Q906_하루뿌리2,t,199,SphereQuest,3,0,,16,f,f
+200,Q813_거래현장의집,t,200,SphereQuest,3,0,,16,f,f
+201,Q821_물댄논,t,201,SphereQuest,0,0,,1,f,f
+202,Q800_선율의나무,t,202,SphereQuest,3,0,,16,f,f
+203,Q802_선율의나무2,t,203,SphereQuest,3,0,,16,f,f
+204,Q1858_목장주자운주변,f,204,SphereQuest,3,0,,16,f,f
+205,Q837_하얀날개동굴,t,205,SphereQuest,3,0,,16,f,f
+206,Q820_술먹는땅1,t,206,SphereQuest,3,0,,16,f,f
+207,Q1852_눈물젖은언덕입구,t,207,SphereQuest,3,0,,16,f,f
+208,Q1851_눈물젖은언덕,t,208,SphereQuest,3,0,,16,f,f
+209,Q849_페피있는곳,t,209,SphereQuest,3,0,,16,f,f
+210,Q805_왕궁연회실,t,210,SphereQuest,3,0,,16,f,f
+211,Q815_술먹는땅2,t,211,SphereQuest,3,0,,16,f,f
+212,Q834_도구가있는곳,t,212,SphereQuest,3,0,,16,f,f
+213,Q838_눈물젖은숲2,t,213,SphereQuest,0,0,,1,f,f
+214,Q838_눈물젖은숲3,t,214,SphereQuest,0,0,,1,f,f
+215,Q836_솟아오르는폭포,t,215,SphereQuest,3,0,,16,f,f
+216,Q856_눈물젖은숲으로가는다리,t,216,SphereQuest,0,0,,1,f,f
+219,누이안메인퀘스트 더미3,t,219,SphereQuest,0,0,,1,f,f
+247,Q136_겁에질린수습생_퀘스트시작,t,247,SphereQuest,0,0,,1,f,f
+256,Q631_해적의_엄마,t,256,SphereQuest,0,0,,1,f,f
+259,Q865_그림자탑_앞에_도착,t,259,SphereQuest,0,0,,1,f,f
+260,Q866_크리스나가_납치된_안가_앞,t,260,SphereQuest,0,0,,1,f,f
+261,안전지대,t,261,SphereQuest,3,0,,1,f,f
+262,Q872_고무나무_농장_도착,t,262,SphereQuest,0,0,,1,f,f
+263,안전한 지역,t,263,SphereQuest,3,0,,1,f,f
+264,Q887_두리얀의_집_도착,t,264,SphereQuest,0,0,,1,f,f
+265,Q898_쥐가_숨어_있는_두다드_앞,t,265,SphereQuest,0,0,,1,f,f
+266,Q912_전설의한연구_만신전기도실,t,266,SphereQuest,0,0,,1,f,f
+267,Q411_실종된현인의딸_순록마을입구,t,267,SphereQuest,0,0,,1,f,f
+268,Q884_연결된_검은_모래탑_잠입,t,268,SphereQuest,0,0,,1,f,f
+271,Q708_마리안왕비를위하여,t,271,SphereQuest,0,0,,1,f,f
+272,Q872_우르나가_감금된_창고_앞,t,272,SphereQuest,0,0,,1,f,f
+273,세르잔의 집,t,273,SphereQuest,3,0,,1,f,f
+275,Q361_타이님 첫번째,t,275,SphereQuest,0,0,,1,f,f
+276,Q361_타이님 두번째,t,276,SphereQuest,0,0,,1,f,f
+277,Q361_타이님 세번째,t,277,SphereQuest,0,0,,1,f,f
+279,Q452_릴리엇초원의상점_골동품점주인근처,t,279,SphereQuest,0,0,,1,f,f
+280,Q14_먼여정을위한준비_방목장,t,280,SphereQuest,0,0,,1,f,f
+281,Q559_일리온야영지주변,t,281,SphereQuest,0,0,,1,f,f
+282,Q559_살리움야영지주변,t,282,SphereQuest,0,0,,1,f,f
+283,Q91_내통자의증거_퀘스트완료,t,283,SphereQuest,0,0,,1,f,f
+284,Q82_결탁_퀘스트시작,t,284,SphereQuest,0,0,,1,f,f
+285,Q858_수리야의_집앞,t,285,SphereQuest,0,0,,1,f,f
+289,Q63_닫혀버린입술과피로물든편지_퀘스트완료,t,289,SphereQuest,0,0,,1,f,f
+293,Q79_침울한마을_퀘스트시작,t,293,SphereQuest,0,0,,1,f,f
+296,용암 지역,t,1,SphereSkill,0,0,,1,f,f
+297,Q570_불탄성외성,t,296,SphereQuest,0,0,,1,f,f
+298,암살자 습격지역,t,297,SphereQuest,3,0,,1,f,f
+299,Q934_릴리엇강을건너는방법_퀘스트시작,t,298,SphereQuest,0,0,,1,f,f
+300,Q935_은둔자의절벽을넘는방법_퀘스트시작,t,299,SphereQuest,0,0,,1,f,f
+302,Q531_피묻은손배신자집,t,300,SphereQuest,0,0,,1,f,f
+303,Q41_정령이지키고있는것_돌풍스킬,t,3,SphereSkill,0,0,,1,f,f
+304,(test) 두대드 페이즈 바꾸기,t,1,SphereDoodadInteract,0,0,,1,f,f
+305,Q288_노인의편지_해자,t,301,SphereQuest,0,0,,1,f,f
+306,벨포,t,302,SphereQuest,0,0,,1,f,f
+307,Q291_브리짓구출_브리짓감옥,t,303,SphereQuest,3,0,,1,f,f
+309,Q347_인도자의열매따기_성장,t,3,SphereDoodadInteract,0,0,,1,f,f
+311,Q776_은밀한제안_달라소환지역,t,305,SphereQuest,3,0,,1,f,f
+314,Q592_테세나변신직전장소,t,308,SphereQuest,0,0,,1,f,f
+315,Q936_변신,f,309,SphereQuest,0,0,,1,f,f
+316,마리아노플 수련의 탑 이동,t,4,SphereSkill,0,0,,1,f,f
+319,Q798_샤오주변,t,312,SphereQuest,3,0,,1,f,f
+320,Q455_만프레드의부탁_공작성발코니,t,313,SphereQuest,0,0,,1,f,f
+321,간헐천,t,5,SphereSkill,0,0,,1,f,f
+323,Q590_살리움지역감옥탈출장소,f,315,SphereQuest,0,0,,1,f,f
+324,Q756_애니의행방_애니가갇힌곳,t,316,SphereQuest,0,0,,1,f,f
+325,Q908_현상범_라샤를 _찾아라,t,317,SphereQuest,3,0,,1,f,f
+326,마리아노플 수련의탑 내려가기,t,6,SphereSkill,0,0,,1,f,f
+327,Q455_만프레드의부탁_드워프야영지망루앞,t,318,SphereQuest,0,0,,1,f,f
+328,Q455_만프레드의부탁_드워프광산입구,t,319,SphereQuest,0,0,,1,f,f
+329,Q559_일리온지역감옥탈출장소,f,320,SphereQuest,0,0,,1,f,f
+330,Q457_오슬라방문_오슬라의집입구,t,321,SphereQuest,0,0,,1,f,f
+331,Q458_여신의손톱자국_무너진폐허,t,322,SphereQuest,0,0,,1,f,f
+333,집정관 카론의 감옥 탈출,t,324,SphereQuest,0,0,,1,f,f
+335,지하 수로 두 번째 방 탈출 지역,t,326,SphereQuest,0,0,,1,f,f
+338,4번방 퀘스트 시작,t,329,SphereQuest,0,0,,1,f,f
+340,신비한 방,t,331,SphereQuest,0,0,,1,f,f
+341,hookgun,t,4,SphereDoodadInteract,0,0,,1,f,f
+345,물 속,t,335,SphereQuest,0,0,,1,f,f
+346,진입시 다리 무너짐,t,5,SphereDoodadInteract,0,0,,1,f,f
+347,공성순간이동,t,7,SphereSkill,0,0,,1,f,f
+352,지스타_수성밖으로,t,340,SphereQuest,0,0,,1,f,f
+357,Q993_괴한 소환,t,345,SphereQuest,0,0,,1,f,f
+358,Q994_아스트라의 시체 발견,t,346,SphereQuest,0,0,,1,f,f
+359,Q1000_아파트,t,347,SphereQuest,0,0,,1,f,f
+360,Q1006_과수원,t,348,SphereQuest,0,0,,1,f,f
+361,Q1011_그나데를 심기 위한 장소,t,349,SphereQuest,3,0,,20,f,f
+362,Q1012_폐광 깊숙한 곳,t,350,SphereQuest,0,0,,1,f,f
+363,Q1014_검독수리마루 마을의 여관,t,351,SphereQuest,0,0,,1,f,f
+364,Q1017_만년눈꽃의 서식지,t,352,SphereQuest,0,0,,1,f,f
+365,Q1019_마티아스 발견,t,353,SphereQuest,0,0,,1,f,f
+366,Q1020_마티아스 호위,t,354,SphereQuest,0,0,,1,f,f
+367,Q1022_태양초 서식지,t,355,SphereQuest,0,0,,1,f,f
+368,Q1024_찬바람동굴 내부,t,356,SphereQuest,0,0,,1,f,f
+369,Q1026_베커의 시체 주변,t,357,SphereQuest,0,0,,1,f,f
+370,Q1028_버나비의 토끼인형 근처 ,t,358,SphereQuest,3,0,,1,f,f
+371,Q1034_묘목을 심는 장소,t,359,SphereQuest,0,0,,1,f,f
+372,Q1040_무너진 통로 앞,t,360,SphereQuest,0,0,,1,f,f
+373,Q1042_얼음 깰 장소,t,361,SphereQuest,0,0,,1,f,f
+374,Q1042_폭탄이 설치된 장소,t,362,SphereQuest,0,0,,1,f,f
+375,Q1043_빛나는 물체 주변,t,363,SphereQuest,3,0,,20,f,f
+376,테스트_조규석,t,6,SphereDoodadInteract,0,0,,1,f,f
+379,Q1011_그나데를 심을 장소,t,365,SphereQuest,1,0,,1,f,f
+386,Q1236_아버지의단검_낮의눈,t,372,SphereQuest,3,0,,1,f,f
+387,Q1237_맹세의단검_밤의눈,t,373,SphereQuest,3,0,,1,f,f
+388,Q1239_실종된광부_코볼트동굴,t,374,SphereQuest,3,0,,1,f,f
+389,Q420_광산의맹세_옛광도길,t,375,SphereQuest,1,0,,1,f,f
+390,Q1051_기계혼삽입기안,t,376,SphereQuest,3,0,,21,f,f
+391,Q1071_푸른전나무회일원이있는곳,t,377,SphereQuest,3,0,,21,f,f
+392,Q1105_폭포아래동굴,t,378,SphereQuest,3,0,,21,f,f
+393,Q1106_할하파입구,t,379,SphereQuest,3,0,,21,f,f
+394,Q1108_선생님있는곳,t,380,SphereQuest,3,0,,21,f,f
+395,Q1051_기계혼삽입기안2,f,381,SphereQuest,3,0,,21,f,f
+396,Q1241코볼트처치_코볼트동굴,t,382,SphereQuest,3,0,,1,f,f
+397,Q1066_기원의폭포,t,383,SphereQuest,3,0,,21,f,f
+399,Q1073_안전한곳,t,385,SphereQuest,3,0,,21,f,f
+401,Q1102_야타방목지,t,387,SphereQuest,3,0,,21,f,f
+402,Q1085_수정호수,t,388,SphereQuest,3,0,,21,f,f
+403,Q1101_호랑이눈호수,t,389,SphereQuest,3,0,,21,f,f
+411,메인퀘스트 더미,t,397,SphereQuest,1,0,,1,f,f
+413,Q1182_습격당한상인근처,t,399,SphereQuest,3,0,,23,f,f
+414,Q1192_집안,t,400,SphereQuest,3,0,,23,f,f
+415,Q1113_모래언덕3,t,401,SphereQuest,1,0,,1,f,f
+420,Q1137_부서진마차주변,t,406,SphereQuest,3,0,,23,f,f
+421,Q1141_땅벌레구덩이,t,407,SphereQuest,3,0,,23,f,f
+422,Q1137_너른소매마을입구1,t,408,SphereQuest,3,0,,23,f,f
+424,Q1193_베리야프주변,t,410,SphereQuest,3,0,,23,f,f
+425,Q1115_채석장가는길,t,411,SphereQuest,3,0,,23,f,f
+429,진입시 무너지는 바닥,t,7,SphereDoodadInteract,3,11000,,1,f,f
+430,Q1154_네우로스와귀환석앞,t,415,SphereQuest,1,0,,1,f,f
+431,Q1157_바위둥지입구,t,416,SphereQuest,1,0,,1,f,f
+432,Q1167_정화의오아시스,t,417,SphereQuest,1,0,,1,f,f
+433,Q1421_양떼몰기_양떼도착지역,t,418,SphereQuest,3,0,,1,f,f
+434,Q1170_울음소리가들리는마차,t,419,SphereQuest,1,0,,1,f,f
+435,Q1173_상단원과의접촉장소,t,420,SphereQuest,1,0,,1,f,f
+436,Q1183_땅벌레서식처,t,421,SphereQuest,1,0,,1,f,f
+437,Q1183_은신처로가는길,t,422,SphereQuest,1,0,,1,f,f
+438,Q1183_은신처입구,t,423,SphereQuest,1,0,,1,f,f
+439,Q1184_은신처입구2,t,424,SphereQuest,1,0,,1,f,f
+440,Q1184_은신처입구,t,425,SphereQuest,1,0,,1,f,f
+441,Q1186_나라야나정화소,t,426,SphereQuest,1,0,,1,f,f
+442,Q1207_마을게시판,t,427,SphereQuest,1,0,,1,f,f
+443,Q1208_뱀의틈입구,t,428,SphereQuest,1,0,,1,f,f
+444,Q1428안개동굴조사_안개동굴,t,429,SphereQuest,3,0,,1,f,f
+447,Q1436에그머니나_소각장,t,432,SphereQuest,3,0,,1,f,f
+449,Q1437가온달부족원구출_바이암본거지,t,433,SphereQuest,3,0,,1,f,f
+450,Q1441말하는기계_부서진기계장치가있는곳,t,434,SphereQuest,3,0,,1,f,f
+456,무지개 상승 기류,t,8,SphereSkill,3,0,,23,f,f
+457,수배범이 목격된 곳,t,440,SphereQuest,3,30000,,27,f,f
+460,Q1312_클리페의 흔적,t,443,SphereQuest,3,0,,26,f,f
+461,Q1313_페데르센에게 도착,t,444,SphereQuest,3,0,,26,f,f
+462,Q3611_하피의 알을 깨라,t,445,SphereQuest,3,0,,52,f,f
+464,Q1315_함정 설치 위치,t,447,SphereQuest,3,0,,26,f,f
+465,Q1316_방화 지역,t,448,SphereQuest,3,0,,26,f,f
+466,Q1317_나무를 심는 장소,t,449,SphereQuest,3,0,,26,f,f
+467,Q1323_벌목지 나무 심기,t,450,SphereQuest,3,0,,26,f,f
+469,Q1329_클리페의 흔적,t,452,SphereQuest,3,0,,26,f,f
+470,Q1325_호수 밑바닥의 시체,t,453,SphereQuest,3,0,,26,f,f
+471,Q1327_고대인의 유물,t,454,SphereQuest,3,0,,26,f,f
+472, Q1332_리세 호위,t,455,SphereQuest,3,0,,1,f,f
+473, Q1339_달 그림자 마을,t,456,SphereQuest,3,0,,26,f,f
+474,Q1341_프리센의 흔적,t,457,SphereQuest,3,0,,26,f,f
+475,Q1343_마르센의 흔적,t,458,SphereQuest,3,0,,26,f,f
+476, Q5718_겁화의 대정령 소환,t,459,SphereQuest,3,0,,97,f,f
+477, Q1352_수중동굴 입구,t,460,SphereQuest,3,0,,26,f,f
+478,Q1353_고르곤 발견,t,461,SphereQuest,3,0,,26,f,f
+479,Q1354_헬마이어의 시신 발견,t,462,SphereQuest,3,0,,26,f,f
+480,Q1355_페데르센 호위,t,463,SphereQuest,3,0,,26,f,f
+481,Q1358_호박석,t,464,SphereQuest,3,160000,,26,f,f
+485,Q1311_정화의 터,t,468,SphereQuest,3,0,정화의 터,26,f,t
+486,Q1337_꺼져가는 모닥불,t,469,SphereQuest,3,160000,,26,f,f
+488,테스트,t,471,SphereQuest,1,0,,1,f,f
+489,Q1351_왕릉의 뼛조각,t,472,SphereQuest,3,160000,,26,f,f
+490,Q1375_꼬마드워프사이의소문_어린거인의무덤,t,473,SphereQuest,1,0,,1,f,f
+492,Q1392_열차를지켜라_골렘공장,t,475,SphereQuest,1,0,,1,f,f
+493,Q1479_ 연극 장소,t,476,SphereQuest,3,0,,1,f,f
+495,수정호수 오염된 물,t,9,SphereSkill,3,0,악취가 나는 물 때문에 정신력에 치명적인 피해를 입었습니다.,21,f,t
+497,Q1483_도둑의 흔적,t,479,SphereQuest,3,0,,1,f,f
+499,Q1398_거인호위_골렘공장,t,481,SphereQuest,1,0,,1,f,f
+500,Q1400_동굴입구막기_고르곤동굴,t,482,SphereQuest,1,0,,1,f,f
+501,Q1076_거미숲자취1,t,8,SphereDoodadInteract,3,600000,아슈레이가 찾던 남자의 첫 번째 표식입니다. 이쪽 길로 지나간 듯합니다.,21,f,t
+504,Q251멧돼지의습격_컷신영역,f,484,SphereQuest,3,0,,1,f,f
+505,Q255제니의부탁_컷신,t,485,SphereQuest,2,0,,1,f,f
+508,Q1488_토미가 배회하는 장소,t,488,SphereQuest,3,0,,26,f,f
+509,Q1491_동반자의 터,t,489,SphereQuest,3,0,,26,f,f
+510,Q1492_만월의 숨결 서식지,t,490,SphereQuest,3,0,,26,f,f
+511,솔즈리드반도_ 몰의첫대사,t,4,SphereBubble,2,0,,4,f,f
+512,Q681_퀘스트이탈,f,491,SphereQuest,1,0,,1,f,f
+513,Q1076_거미숲자취2,t,9,SphereDoodadInteract,3,600000,아슈레이가 찾던 남자의 두 번째 흔적입니다. 거미 숲 안으로 이동한 듯 보입니다.,21,f,t
+514,Q1076_거미숲자취3,t,10,SphereDoodadInteract,3,600000,아슈레이가 찾던 남자의 세 번째 흔적입니다. 숲을 벗어나 악어가 있는 쪽으로 사라진 모양입니다.,21,f,t
+515,가랑돌평원_로이스터야영지,t,5,SphereBubble,2,0,,2,f,f
+517,Q1099_코볼트동굴1,t,11,SphereDoodadInteract,3,600000,헤루스의 표식이 우두머리 코볼트가 있는 길을 가리키며 반짝이고 있습니다.,21,f,t
+518,Q1099_코볼트동굴2,t,12,SphereDoodadInteract,3,600000,헤루스의 표식이 우두머리 코볼트가 있는 길을 가리키며 반짝이고 있습니다.,21,f,t
+519,레세브,t,6,SphereBubble,2,, ,9,f,f
+520,에우로스,t,7,SphereBubble,2,0,,9,f,f
+521,테판,t,8,SphereBubble,2,0,,9,f,f
+522,미리아네,t,9,SphereBubble,2,0,,9,f,f
+523,하르파,t,10,SphereBubble,2,0,,9,f,f
+524,바이엘,t,11,SphereBubble,2,0,,1,f,f
+525,Q893_보물의 흔적,t,493,SphereQuest,1,0,,1,f,f
+526,Q1502_마룬의 흔적,t,494,SphereQuest,1,0,,1,f,f
+527,Q1504_인어의 둥지,t,495,SphereQuest,1,0,,1,f,f
+528,Q1517_아스트라의 동굴 입구,t,496,SphereQuest,1,0,,1,f,f
+530,베아르인근,f,497,SphereQuest,3,0,,1,f,f
+531,셀레스트,t,13,SphereBubble,2,0,,9,f,f
+532,Q1652_위험에처한선돌연구자_시작,t,498,SphereQuest,3,0,,1,f,f
+533,라이오,t,14,SphereBubble,2,0,,9,f,f
+535,드리이나,t,16,SphereBubble,2,0,,9,f,f
+538,누잔,t,19,SphereBubble,2,0,,9,f,f
+539,루크,t,20,SphereBubble,2,0,,1,f,f
+542,Q420_광산의 맹세_아스트라의 첫 등장,t,501,SphereQuest,1,0,,1,f,f
+544,Q440_돌아가는 길_호위완료,t,502,SphereQuest,1,0,,1,f,f
+545,Q440_돌아가는 길_오크스폰,t,503,SphereQuest,1,0,,1,f,f
+546,슈몰러의 잡담,t,22,SphereBubble,1,0,,1,f,f
+548,Q431_미래의 결정_안델프 카페테리아,t,504,SphereQuest,1,0,,1,f,f
+549,Q434_사고 현장 재조사_오이겐만남,t,505,SphereQuest,1,0,,1,f,f
+550,Q435_독이든 맥주_외부통로,t,506,SphereQuest,1,0,,1,f,f
+551,Q437_상황정리_아스트라회견,t,507,SphereQuest,1,0,,1,f,f
+552,Q423_아키움 정제소의 스파이_누이안,t,508,SphereQuest,1,0,,1,f,f
+553,Q425_현재 상황 보고_안델프경비소환,t,509,SphereQuest,1,0,,1,f,f
+554,Q425_현재 상황 보고_안델프경비소환,t,510,SphereQuest,1,0,,1,f,f
+555,Q3188_타샤르네집앞,t,24,SphereBubble,2,0,,53,f,t
+556,Q1432_꿈꾸는오솔길2,t,25,SphereBubble,2,0,,21,f,f
+557,Q1432_꿈꾸는오솔길3,t,26,SphereBubble,2,0,,21,f,f
+558,누이사제의호객행위,t,27,SphereBubble,2,0,,4,f,f
+560,Q1066_의식의폭포_버블,t,28,SphereBubble,2,0,,21,f,f
+561,할하파로 가는 입구,t,10,SphereSkill,3,5000,할하파는 어디에...,21,f,t
+562,호랑이등뼈_소풍나온나라야나,t,29,SphereBubble,2,0,,21,f,f
+566,매사냥고원_에치엘루의 첫대사,t,30,SphereBubble,2,0,,1,f,f
+567,Q1218_눈사자 훈련소 입구,t,515,SphereQuest,3,0,,1,f,f
+568,레오티스,t,31,SphereBubble,1,0,,1,f,f
+569,바람의폐허회오리,t,11,SphereSkill,3,30000,,1,f,f
+570,산넘어 광산으로,t,12,SphereSkill,3,0,헐,1,f,t
+571,호랑이눈_입구,t,32,SphereBubble,2,0,상단 조합장의 허탈한 한숨소리가 입구까지 들립니다.,21,f,t
+573,바라기마을_린엘_리포포의대사,t,34,SphereBubble,2,0,,4,f,f
+574,그위오니드 호수 물기둥,t,13,SphereSkill,3,0,갑자기 물기둥이 솟구칩니다!,1,f,t
+575,메데이아의 실종 장소,t,516,SphereQuest,3,0,숲의 주인이 내뿜는 신성한 기운이 느껴집니다.,1,f,t
+577,할하파로가는길,t,35,SphereBubble,2,0,,21,f,f
+578,사라세니아독가스,t,14,SphereSkill,3,30000,독가스를 들이마셨습니다!,9,f,t
+579,할하파로가는길2,t,36,SphereBubble,2,0,,21,f,f
+580,불꽃매협곡_자크록신음,t,37,SphereBubble,2,0,,21,f,f
+581,Q1494_망자의 무덤을 만들 장소,t,518,SphereQuest,3,0,,26,f,f
+582,야타방목지_야생야타,f,38,SphereBubble,2,0,길들여지지 않은 야타에게 진정의 풀로 만든 화살을 쏠 수 있습니다.,21,f,t
+583,리에주,t,39,SphereBubble,2,0,,9,f,f
+584,메릴다리온1,t,40,SphereBubble,2,0,,1,f,f
+585,네서틴,t,41,SphereBubble,2,0,,1,f,f
+586,메릴다리온2,t,42,SphereBubble,2,0,,1,f,f
+587,Q420_광산의 맹세_아스트라의 첫 등장 ,t,519,SphereQuest,1,0,,1,f,f
+588,Q453_영주의마차_요어랜드 극단의 제베넨,t,520,SphereQuest,1,0,,1,f,f
+589,Q455_영원한 생을 바라는 자_리턴드의 제안,t,521,SphereQuest,1,0,,1,f,f
+590,Q455_영원한 생을 바라는 자_헤레드의 호위완료,t,522,SphereQuest,1,0,,1,f,f
+591,Q455_영원한 생을 바라는 자_헤레드의 호위,t,523,SphereQuest,1,0,,1,f,f
+592,Q1301_방풍림을심을지역,t,524,SphereQuest,3,0,,1,f,f
+593,Q1302_바람이이끄는곳,t,525,SphereQuest,3,0,,1,f,f
+594,Q1361_떨어트린 속옷_퀘스트시작,t,526,SphereQuest,3,0,,1,f,f
+595,Q1361_떨어트린속옷_퀘스트완료,t,527,SphereQuest,3,0,,1,f,f
+596,매사냥 고원 바람의 기운(고),t,15,SphereSkill,3,0,,1,f,f
+597,Q1253_괴물의정체,t,528,SphereQuest,3,0,,1,f,f
+598,매사냥 고원 바람의 기운(중),t,16,SphereSkill,3,0,,1,f,f
+599,매사냥 고원 바람의 기운(저),t,17,SphereSkill,3,0,,1,f,f
+600,매사냥고원_호수,t,529,SphereQuest,3,0,빈병에 호수 물을 담으세요.,1,f,t
+603,멜리디엔,t,43,SphereBubble,2,0,,1,f,f
+608,루크2,f,48,SphereBubble,2,0,,1,f,f
+609,아리아드네,t,49,SphereBubble,3,300000,,1,f,f
+610,그림자 탑 앞,t,50,SphereBubble,3,720000,,1,f,f
+611,검은 모래회의 비밀 안가,t,51,SphereBubble,3,720000,,1,f,f
+612,고무나무 농장,t,52,SphereBubble,3,720000,,1,f,f
+613,수액창고 앞,t,53,SphereBubble,2,0,,1,f,f
+614,검은 모래탑 앞,t,54,SphereBubble,3,7200000,,1,f,f
+615,대상인 수리야의 저택,t,55,SphereBubble,3,720000,대상인 수리야의 저택 앞,1,f,t
+616,현상범 라샤의 활동지역,t,56,SphereBubble,3,7200000,,1,f,f
+617,보물의 흔적,t,57,SphereBubble,3,720000,,1,f,f
+618,마룬의 흔적,t,58,SphereBubble,3,720000,,1,f,f
+619,인어의 둥지,t,59,SphereBubble,3,720000,,1,f,f
+620,아스트라의 동굴 입구,t,60,SphereBubble,3,720000,,1,f,f
+621,페레의 성인식,t,61,SphereBubble,3,60000,,1,f,f
+623,가랑돌평원_상인피어스,t,62,SphereBubble,2,0,,1,f,f
+625,탄생의 절벽 1,t,64,SphereBubble,3,50000,,22,f,f
+626,탄생의 절벽2,t,65,SphereBubble,3,50000,,22,f,f
+627,탄생의 절벽3,t,66,SphereBubble,3,50000,,22,f,f
+628,호랑이 등뼈 산맥 기계 폐기장 탑,t,67,SphereBubble,3,10000,,61,f,f
+630,level_용광로,t,18,SphereSkill,3,0,철이 녹을 만큼 뜨겁습니다. 앗 뜨거!,21,f,t
+631,매사냥고원_마음의고향1,t,69,SphereBubble,2,0,,1,f,f
+632,매사냥고원_마음의고향2,t,70,SphereBubble,2,0,,1,f,f
+633,매사냥고원_큰매바위,t,71,SphereBubble,2,0,,1,f,f
+635,Q1436_에그머니나_소각장_알던지는곳,t,533,SphereQuest,3,0,,1,f,f
+636,Q1436_에그머니나소각장,t,73,SphereBubble,2,0,,22,f,f
+639,괴이한 빛이 나는 장소,t,536,SphereQuest,3,0,,24,f,f
+642,level_호랑이눈 호수,t,19,SphereSkill,3,0,,21,f,f
+643,Q79_거상무덤안오아시스,t,539,SphereQuest,3,0,,1,f,f
+644,호랑이눈입구_한숨소리,t,1,SphereSound,2,0,,1,f,f
+645,건축 현장 인부,t,74,SphereBubble,2,300000,,1,f,f
+646,애니가 갇힌 장소,t,75,SphereBubble,2,0,,1,f,f
+647,파비트라 대여제의 기념비,t,76,SphereBubble,2,0,,1,f,f
+648,달라가 숨어 있는 장소,t,77,SphereBubble,2,0,,1,f,f
+649,론반 광산으로 퀘스트 완료,t,540,SphereQuest,3,0,,1,f,f
+650,Q1650속옷의 주인이 기다리는 곳,t,541,SphereQuest,3,0,,4,f,f
+651,해적의 본거지,t,78,SphereBubble,2,0,,1,f,f
+652,머를린의 힌트(솔즈리드),t,79,SphereBubble,3,120000,,4,f,f
+653,요하르의 힌트(매사냥 고원),t,80,SphereBubble,3,120000,,22,f,f
+654,잿빛안개 부족 전사(매사냥 고원),t,81,SphereBubble,2,0,,22,f,f
+655,잿빛안개 부족전사2(매사냥 고원),t,82,SphereBubble,2,0,,22,f,f
+660,익사한 라운데,t,87,SphereBubble,2,0,,9,f,f
+662,솔즈리드_양방목장_늑대처치전,t,89,SphereBubble,3,180000,,4,f,f
+663,솔즈리드_양방목장_퀘스트 완료,t,90,SphereBubble,3,180000,,4,f,f
+664,파수마을_마구간지기의대사,t,91,SphereBubble,2,0,,4,f,f
+665,우윳빛강마을_마구간지기,t,92,SphereBubble,2,0,,4,f,f
+666,솔즈리드_선돌연구자존스,t,93,SphereBubble,3,120000,,1,f,f
+667,솔즈리드_백월만존스,t,94,SphereBubble,3,180000,,4,f,f
+668,솔즈리드반도_요정의은신처존스,t,95,SphereBubble,3,120000,,4,f,f
+669,솔즈리드반도_요정의은신처존스,t,96,SphereBubble,3,60000,,1,f,f
+673,Q291_브리짓구출_브리짓이갇힌곳,t,98,SphereBubble,3,240000,,4,f,f
+676,노트의 공포,t,101,SphereBubble,2,0,,1,f,f
+677,예술관 경비병,t,102,SphereBubble,2,0,,1,f,f
+678,Q1433_릭의대사,t,103,SphereBubble,2,0,,22,f,f
+682,가랑돌평원_질박한돌산,t,21,SphereSkill,2,0,누군가의 습격을 받았습니다!,2,f,t
+683,가랑돌평원_수배전단,t,107,SphereBubble,2,0,수배 전단을 발견했습니다.,1,f,t
+684,가랑돌평원_장로맥기와사람들1,t,108,SphereBubble,2,0,,1,f,f
+685,가랑돌평원_장로맥기와사람들2,t,109,SphereBubble,2,0,,1,f,f
+686,가랑돌평원_민병대원들,t,110,SphereBubble,2,0,,1,f,f
+688,옥상위강한바람,t,23,SphereSkill,3,5000,몸이 날아갈듯 강한 바람이 붑니다.,1,f,t
+689,Q1643_127분,t,111,SphereBubble,2,0,,22,f,f
+690,마리아노플_델토킨의수하,t,24,SphereSkill,2,,,10,f,f
+691,Q1230_큰매바위_영역버블,t,112,SphereBubble,3,120000,,1,f,f
+692,노르예트 경비병,t,113,SphereBubble,2,0,,1,f,f
+693,황혼의 언덕,t,543,SphereQuest,3,0,,1,f,f
+694,Q1639_비밀은없어퀘스트시작,f,544,SphereQuest,3,60000,,1,f,f
+695,Q1302_바람이이끄는곳,t,114,SphereBubble,3,30000,바람이 이끄는 곳에서 가즈링의 삽을 사용합니다,1,f,t
+696,릴리엇_코비,t,115,SphereBubble,2,0,,1,f,f
+701,가랑돌평원_아핀디엘거처가는길,t,120,SphereBubble,3,180000,,2,f,f
+702,하비엘의유쾌한외침,t,121,SphereBubble,3,50000,붉은 수염의 하비엘이 선원을 모집한다고 소리치고 있습니다.,1,f,t
+703,릴리엇_발라타르,t,122,SphereBubble,2,0,,1,f,f
+704,매사냥고원_안개괴물,t,123,SphereBubble,2,0,,22,f,f
+705,릴리엇_세라하,t,124,SphereBubble,2,0,,24,f,f
+706,릴리엇_길버트,t,125,SphereBubble,2,0,,24,f,f
+707,릴리엇_릴리,t,126,SphereBubble,2,0,,24,f,f
+708,릴리엇_호프만,t,127,SphereBubble,2,0,,24,f,f
+709,릴리엇_자야,t,128,SphereBubble,2,0,,24,f,f
+710,릴리엇_앤디,t,129,SphereBubble,3,10000,,24,f,f
+711,릴리엇_엘리너,t,130,SphereBubble,2,0,,24,f,f
+712,릴리엇_기드,t,131,SphereBubble,2,0,,24,f,f
+714,릴리엇_콘스탄트,t,133,SphereBubble,2,0,,24,f,f
+716,릴리엇_던컨,t,135,SphereBubble,2,0,헛간 안에서 신음 소리가 납니다.,24,f,t
+717,릴리엇_이반,t,136,SphereBubble,2,0,,24,f,f
+718,릴리엇_사이먼01,t,137,SphereBubble,2,0,,24,f,f
+719,릴리엇_사이먼02,f,138,SphereBubble,3,60000,,1,f,f
+720,릴리엇_케르노스,f,139,SphereBubble,2,0,,1,f,f
+721,릴리엇_키리스,t,140,SphereBubble,2,0,,1,f,f
+722,릴리엇_루이진,t,141,SphereBubble,2,0,,1,f,f
+723,릴리엇_세우,t,142,SphereBubble,2,0,,1,f,f
+724,릴리엇_바르웬2,t,143,SphereBubble,2,0,,24,f,f
+732,가랑돌평원_거상무덤입구,t,151,SphereBubble,2,0,,1,f,f
+733,Q302 _바람을부르는목걸이_바람의마녀소환,t,545,SphereQuest,3,0,,10,f,f
+734,Q339_유리구두의주인_아드리안집내부,t,546,SphereQuest,3,0,,1,f,f
+735,가랑돌평원_질박한돌산꼭대기,t,152,SphereBubble,2,0,,1,f,f
+738,호랑이등뼈산맥_텐시르근처,t,155,SphereBubble,2,0,,1,f,f
+739,바람의 기운(저/고각도),t,25,SphereSkill,3,0,,1,f,f
+740,Q183농장의 탐정에게 주는 의뢰비_버리농장근처,t,547,SphereQuest,3,0,,1,f,f
+741,솔즈리드반도_잊혀진성_브리짓감옥,t,156,SphereBubble,3,120000,,1,f,f
+742,탄생의 절벽 가이드 오나흐 옆,t,157,SphereBubble,3,20000,,1,f,f
+744,Q1366막사불끄는영역,t,549,SphereQuest,3,0,,1,f,f
+745,가랑돌평원_핏자국1,t,158,SphereBubble,2,0,,2,f,f
+746,가랑돌평원_핏자국2,t,159,SphereBubble,2,0,,2,f,f
+748,Q118_숲의 안쪽에서 벌어지는 일_디아무이드사거리,t,551,SphereQuest,3,0,,1,f,f
+749,Q1701_물결을 거슬러라_중간지점 ,t,552,SphereQuest,2,0,,1,f,f
+750,시크의 방에서 나가기,t,26,SphereSkill,3,5000,,1,f,f
+751,탄생의 절벽 : 바람의 주술사,t,160,SphereBubble,3,120000,,1,f,f
+752,Q349_암살자의 정체_퀘스트 수락 스피어,t,553,SphereQuest,3,0,,1,f,f
+753,안전한 마법진,t,554,SphereQuest,2,0,,1,f,f
+754,탄생의 절벽 : 첫번째 바람의 기운,t,161,SphereBubble,3,120000,,1,f,f
+755,탄생의 절벽 : 두번째 바람의 기운,t,162,SphereBubble,3,120000,,1,f,f
+756,동론반광산,t,555,SphereQuest,3,0,,1,f,f
+757,서론반광산,t,556,SphereQuest,3,0,,1,f,f
+758,노르예트저택안내_남문,t,163,SphereBubble,3,50000,,1,f,f
+759,금지된 해안,t,557,SphereQuest,3,0,,1,f,f
+760,바람의 기운(시작),t,27,SphereSkill,3,0,,1,f,f
+761,바람의 기운(꼭대기),t,28,SphereSkill,3,0,,1,f,f
+762,마리안 호위_초반부,t,558,SphereQuest,3,0,,1,f,f
+763,Q1702_매혹된 영혼_ 타피가 갇힌 곳,t,559,SphereQuest,3,0,,1,f,f
+764,Q1703_돌아온 모라_모라스폰,t,560,SphereQuest,2,0,,6,f,f
+765,Q1703_돌아온 모라_모라스폰,t,561,SphereQuest,1,0,,6,f,f
+766,밴시 아이오페 앞,t,562,SphereQuest,3,0,피아크라가 말한 곳에 밴시가 서서 당신을 지켜보고 있습니다.,1,f,t
+767,여신의 우물 앞 ,t,563,SphereQuest,2,0,,1,f,f
+768,침묵의 거상(reserve)1,t,164,SphereBubble,2,0,,1,f,f
+769,침묵의 거상(reserve)2,t,165,SphereBubble,2,0,,1,f,f
+770,힘의 현인 거처,t,166,SphereBubble,2,0,,1,f,f
+771,침묵의 거상 농땡이치는 광부,t,167,SphereBubble,2,0,,1,f,f
+772,침묵의 거상(reserve)5,t,168,SphereBubble,2,0,,1,f,f
+773,침묵의 거상(reserve)6,t,169,SphereBubble,2,0,,1,f,f
+774,침묵의 거상(reserve)7,t,170,SphereBubble,2,0,,1,f,f
+775,침묵의 거상(reserve)8,t,171,SphereBubble,2,0,,1,f,f
+776,침묵의 거상(reserve)9,t,172,SphereBubble,2,0,,1,f,f
+777,침묵의 거상(reserve)10,t,173,SphereBubble,2,0,,1,f,f
+778,하얀숲_나루지기프월,t,174,SphereBubble,2,0,,1,f,f
+780,하얀숲_ 돌아온모라,t,176,SphereBubble,3,50000,,1,f,f
+781,하얀숲_에트나와수호자,t,177,SphereBubble,2,0,,1,f,f
+782,하얀숲_꽃과 코르디아,t,178,SphereBubble,3,50000,,1,f,f
+784,하얀숲_검은수염흰수염,t,180,SphereBubble,2,0,,1,f,f
+786,하얀숲_수습마법사발레리,t,182,SphereBubble,3,50000,,1,f,f
+787,하얀숲_블레이크한탄,t,183,SphereBubble,2,0,,1,f,f
+789,하얀숲_쉬레더콜먼,t,185,SphereBubble,2,0,,1,f,f
+790,하얀숲_카우츠키상단,t,186,SphereBubble,2,0,,1,f,f
+791,하얀숲_초반수호자들,t,187,SphereBubble,2,0,,1,f,f
+792,하얀숲_리누스성물찾다,t,188,SphereBubble,2,0,,1,f,f
+793,하얀숲_반지찾는모라,t,189,SphereBubble,2,0,,1,f,f
+795,하얀숲_잉크상인,t,191,SphereBubble,2,0,,1,f,f
+796,하얀숲_순간이동마법사,t,192,SphereBubble,3,50000,,1,f,f
+799,하얀숲_알란나데스몬드,t,195,SphereBubble,2,0,,1,f,f
+800,하얀숲_콜린에대해,t,196,SphereBubble,1,0,,1,f,f
+801,하얀숲_자작한탄,t,197,SphereBubble,3,600000,,1,f,f
+802,하얀숲_조객들,t,198,SphereBubble,3,600000,,1,f,f
+803,마리아노플_포로에노이르,t,199,SphereBubble,2,0,,10,f,f
+804,마리아노플_동굴과하피,t,200,SphereBubble,2,0,,1,f,f
+806,마리아노플_수상한마법주문,t,202,SphereBubble,1,0,,1,f,f
+807,마리아노플_아드리안의 슬픔,t,203,SphereBubble,1,0,,1,f,f
+808,마리아노플_리네리프사냥,t,204,SphereBubble,2,0,,1,f,f
+809,마리아노플_베아트오스카,t,205,SphereBubble,2,0,,1,f,f
+811,마리아노플_헤미쉬윌슨,t,207,SphereBubble,2,0,,1,f,f
+812,마리아노플_슬픈노인,t,208,SphereBubble,2,0,,1,f,f
+814,마리아노플_비아르나,t,210,SphereBubble,1,0,,10,f,f
+815,마리아노플_고블린상인,t,211,SphereBubble,2,0,,10,f,f
+817,마리아노플_절박한남자,t,213,SphereBubble,2,0,,1,f,f
+818,하얀숲_디아무이드 ,t,214,SphereBubble,2,0,,1,f,f
+820,하야숲_샤나한 ,t,216,SphereBubble,2,0,,1,f,f
+822,하얀숲_말라키 ,t,218,SphereBubble,2,0,,1,f,f
+823,바라기 마을 히든 컨텐츠 연출,t,219,SphereBubble,2,0,,4,f,f
+824,파수 마을 히든 컨텐츠 연출용 버블,t,220,SphereBubble,2,0,,4,f,f
+825,우윳빛강 마을 히든 컨텐츠 연출,t,221,SphereBubble,2,0,,4,f,f
+827,가온달 부락 히든 컨텐츠 연출,t,223,SphereBubble,2,0,,22,f,f
+828,잿빛안개 부락 히든 컨텐츠 연출,t,224,SphereBubble,2,0,,22,f,f
+829,흰구름결 부락 히든 컨텐츠 연출,t,225,SphereBubble,2,0,,22,f,f
+830,초승달 왕좌 비행선 선착장 안내,t,226,SphereBubble,3,60000,,1,f,f
+831,매사냥 고원 비행선 선착장 안내,t,227,SphereBubble,3,60000,,1,f,f
+832,그위오니드 비행선 선착장 안내,t,228,SphereBubble,3,60000,,9,f,f
+833,아로마의 중얼거림,t,229,SphereBubble,3,60000,,1,f,f
+834,아로마의 일꾼 에피텔,t,230,SphereBubble,3,60000,,1,f,f
+835,아로마의 일꾼 티오네스,t,231,SphereBubble,3,0,,1,f,f
+836,아로마의 일꾼 로레드,t,232,SphereBubble,3,300000,,1,f,f
+837,아로마의 일꾼 우쉬,t,233,SphereBubble,3,60000,,1,f,f
+838,호랑이 등뼈 산맥의 기운,t,234,SphereBubble,1,0,,1,t,f
+840,제식광장 앞 수호자,t,236,SphereBubble,3,300000,,1,f,f
+843,매사냥고원_가온달모닥불,t,239,SphereBubble,2,0,,22,f,f
+845,매사냥고원_밤의눈,t,240,SphereBubble,2,0,,1,f,f
+848,하얀 숲_심장부여신성상 앞,t,242,SphereBubble,2,0,,1,f,f
+849,침묵의거상 다리 폭파,t,13,SphereDoodadInteract,3,0,,1,f,f
+850,하얀 숲_강령술사에밀리오,t,243,SphereBubble,2,0,,1,f,f
+851,하얀 숲_에밀리오코볼트,t,244,SphereBubble,2,0,,1,f,f
+852,하얀 숲_부러진날개형제회,t,245,SphereBubble,2,0,,1,f,f
+854,단검 던지기 영역,t,567,SphereQuest,3,0,,4,f,f
+855,호랑이 용광로 해제,t,29,SphereSkill,3,0,우씨,1,f,t
+856,마리아노플 감옥에서,t,246,SphereBubble,3,60000,감옥문은 10분에 한번씩 열립니다.,1,f,t
+858,1315_함정 설치 위치,t,247,SphereBubble,2,0,,26,f,f
+859,Q1319_라겐의 흔적,t,248,SphereBubble,2,0,,26,f,f
+860,Q1323_벌목지 나무 심기,t,249,SphereBubble,2,0,,26,f,f
+861,Q1316_방화 지역,t,250,SphereBubble,2,0,,26,f,f
+862,Q1329_클리페의 흔적,t,251,SphereBubble,2,0,,26,f,f
+863,Q1327_고대인의 유물,t,252,SphereBubble,2,0,,26,f,f
+864,Q1488_토미가 배회하는 장소,t,253,SphereBubble,2,0,,26,f,f
+865,Q1491_동반자의 터,t,254,SphereBubble,2,0,,26,f,f
+866,Q1333_정화의 터,t,255,SphereBubble,2,0,,26,f,f
+867,Q1341_프리센의 흔적,t,256,SphereBubble,2,0,,26,f,f
+868,Q1492_만월의 숨결 서식지,t,257,SphereBubble,2,0,,26,f,f
+869,Q1343_마르센의 흔적,t,258,SphereBubble,3,0,,26,f,f
+870,안델프 : 오르간 건반 C1,t,14,SphereDoodadInteract,3,200,,20,f,f
+871,안델프 : 오르간 건반 D1,t,15,SphereDoodadInteract,3,200,,20,f,f
+872,안델프 : 오르간 건반 E1,t,16,SphereDoodadInteract,3,200,,20,f,f
+873,안델프 : 오르간 건반 F1,t,17,SphereDoodadInteract,3,200,,20,f,f
+874,안델프 : 오르간 건반 G1,t,18,SphereDoodadInteract,3,200,,20,f,f
+875,안델프 : 오르간 건반 A1,t,19,SphereDoodadInteract,3,200,,20,f,f
+876,안델프 : 오르간 건반 B1,t,20,SphereDoodadInteract,3,200,,20,f,f
+877,안델프 : 오르간 건반 C2,t,21,SphereDoodadInteract,3,200,,20,f,f
+878,안델프 : 오르간 건반 D2,t,22,SphereDoodadInteract,3,200,,20,f,f
+879,안델프 : 오르간 건반 E2,t,23,SphereDoodadInteract,3,200,,20,f,f
+880,안델프 : 오르간 건반 F2,t,24,SphereDoodadInteract,3,200,,20,f,f
+881,안델프 : 오르간 건반 G2,t,25,SphereDoodadInteract,3,200,,20,f,f
+882,안델프 : 오르간 건반 A2,t,26,SphereDoodadInteract,3,200,,20,f,f
+883,안델프 : 오르간 건반 B2,t,27,SphereDoodadInteract,3,200,,20,f,f
+884,안델프 : 오르간 건반 C#1,t,28,SphereDoodadInteract,3,200,,20,f,f
+885,안델프 : 오르간 건반 D#1,t,29,SphereDoodadInteract,3,200,,20,f,f
+886,안델프 : 오르간 건반 F#1,t,30,SphereDoodadInteract,3,200,,20,f,f
+887,안델프 : 오르간 건반 G#1,t,31,SphereDoodadInteract,3,200,,20,f,f
+888,안델프 : 오르간 건반 A#1,t,32,SphereDoodadInteract,3,200,,20,f,f
+889,안델프 : 오르간 건반 C#2,t,33,SphereDoodadInteract,3,200,,20,f,f
+890,안델프 : 오르간 건반 D#2,t,34,SphereDoodadInteract,3,200,,20,f,f
+891,안델프 : 오르간 건반 F#2,t,35,SphereDoodadInteract,3,200,,20,f,f
+892,안델프 : 오르간 건반 G#2,t,36,SphereDoodadInteract,3,200,,20,f,f
+893,안델프 : 오르간 건반 A#2,t,37,SphereDoodadInteract,3,200,,20,f,f
+894,안델프 : 오르간 건반 A#2,t,38,SphereDoodadInteract,3,200,,20,f,f
+895,청동바위산_안델프_과수원 1,t,259,SphereBubble,3,60000,,20,f,f
+896,청동바위산_안델프_과수원 2,t,260,SphereBubble,3,60000,,20,f,f
+897,청동바위산_안델프_카페테리아,t,261,SphereBubble,3,60000,,20,f,f
+898,청동바위산_순록무덤_무덤자리,t,569,SphereQuest,3,0,,20,f,f
+899,Q1013_청동바위산_영혼의 꽃_꽃심을장소,t,570,SphereQuest,3,0,,1,f,f
+900,청동바위산_안델프_원로원 1,t,262,SphereBubble,3,60000,,20,f,f
+901,청동바위산_안델프_원로원 2,t,263,SphereBubble,3,60000,,20,f,f
+902,청동바위산_안델프_원로원 3,t,264,SphereBubble,3,60000,,20,f,f
+903,청동바위산_별똥비 마을 1,t,265,SphereBubble,3,60000,,20,f,f
+904,청동바위산_별똥비 마을 2,t,266,SphereBubble,3,60000,,20,f,f
+905,청동바위산_별똥별 광산 1,t,267,SphereBubble,3,60000,,20,f,f
+906,청동바위산_별똥별 광산 2,t,268,SphereBubble,3,60000,,20,f,f
+907,청동바위산_안델프_광산길 1,t,269,SphereBubble,3,600000,,20,f,f
+908,청동바위산_안델프_광산길 2,t,270,SphereBubble,3,600000,,20,f,f
+909,청동바위산_안델프_경비병 1,t,271,SphereBubble,3,600000,,20,f,f
+910,청동바위산_안델프_경비병 2,t,272,SphereBubble,3,600000,,20,f,f
+911,청동바위산_안델프_경비병 3,t,273,SphereBubble,3,600000,,20,f,f
+912,청동바위산_안델프_감옥경비병,t,274,SphereBubble,3,600000,,20,f,f
+913,청동바위산_안델프_과수원 3,t,275,SphereBubble,3,600000,,20,f,f
+914,청동바위산_안델프_만신전 곤의 신관,t,276,SphereBubble,3,600000,,20,f,f
+915,청동바위산_안델프_만신전 누이의 신관,t,277,SphereBubble,3,600000,,20,f,f
+916,청동바위산_안델프_만신전 이지의 신관,t,278,SphereBubble,3,600000,,20,f,f
+917,청동바위산_안델프_만신전 칼레일의 신관,t,279,SphereBubble,3,600000,,20,f,f
+918,청동바위산_안델프_만신전 호라의 신관,t,280,SphereBubble,3,600000,,20,f,f
+919,청동바위산_안델프_만신전 아크리테스의 신관,t,281,SphereBubble,3,600000,,20,f,f
+920,화살 쏘기 영역,t,571,SphereQuest,3,0,과녘에 활을 쏘아 보세요. 화살통 근처에서만 사용 할 수 있습니다.,1,f,t
+921,Q848_눈물젖은언덕_징병소가는길,t,282,SphereBubble,2,0,,16,f,f
+922,고대의 숲 조사단 - 수호자의 부락,t,283,SphereBubble,2,0,,26,f,f
+923,고대의 숲 조사단 - 클리페의 실종,t,284,SphereBubble,3,12000,,26,f,f
+924,고대의 숲 조사단 - 클리페의 증상,t,285,SphereBubble,3,20000,,26,f,f
+925,고대의 숲 조사단 - 클리페의 두 번째 실종,t,286,SphereBubble,2,0,,26,f,f
+926,고대의 숲 조사단 - 클리페의 죽음 확인 후,t,287,SphereBubble,2,20000,,26,f,f
+927,고대의 숲 조사단 - 수호자의 야영지,t,288,SphereBubble,2,0,,26,f,f
+928,고대의 숲 조사단 - 재바워키 포획 후,t,289,SphereBubble,3,170000,,26,f,f
+929,고대의 숲 조사단 - 프리센 사망 후,t,290,SphereBubble,3,30000,,26,f,f
+930,고대의 숲 조사단 - 달 그림자 마을,t,291,SphereBubble,2,0,,26,f,f
+931,고대의 숲 조사단 - 달 그림자 마을 수색 후,t,292,SphereBubble,3,30000,,26,f,f
+932,고대의 숲 조사단 - 마르센 시신 발견 후,t,293,SphereBubble,3,30000,,26,f,f
+933,Q5716_보름 가프리온 소환,t,572,SphereQuest,3,10000, ,97,f,f
+935,Q1927_율리안과 대화,t,573,SphereQuest,3,0,,20,f,f
+936,Q1935_아스트라의 핏자국,t,574,SphereQuest,3,0,,20,f,f
+937,숲의 수호자 마을 - 글람벡과 브레이빅의 대화,t,294,SphereBubble,2,0,,26,f,f
+938,숲의 수호자 마을 - 실비에비게의 혼잣말,t,295,SphereBubble,2,0,,26,f,f
+939,숲의 수호자 마을 - 칼스트롬의 엔드루 심문,t,296,SphereBubble,2,0,,26,f,f
+940,눈물젖은숲_방울소리,t,2,SphereSound,3,30000,어디선가 방울 소리가 들립니다.,16,f,t
+941,수상한 자의 흔적,t,575,SphereQuest,3,0,,36,f,f
+942,숨을 수 있는 은신처 ,t,576,SphereQuest,3,0,,36,f,f
+943,Q1039_ 순록을 보호하라_ 모닥불가로 ,t,577,SphereQuest,3,0,,20,f,f
+944,Q997_납치된 주술사를 되찾아라_알로이지아앞,t,578,SphereQuest,3,0,,20,f,f
+945,Q1033 _되찾은 기억_크레비츠가숨어있는곳,t,579,SphereQuest,3,0,,1,f,f
+946,경비대장 멜피스 앞,t,580,SphereQuest,3,0,,36,f,f
+947,무너진 모래성 주변,t,581,SphereQuest,3,0,,36,f,f
+948,무너진 모래성 주변,t,582,SphereQuest,3,0,,36,f,f
+949,기억의 호수 입구,t,583,SphereQuest,1,0,,1,f,f
+950,Q1997_비밀스런 접선 장소,t,584,SphereQuest,3,0,,1,f,f
+951,숨어있어도 모르는 은신처,t,585,SphereQuest,3,0,,1,f,f
+952,습격받은 마차,t,586,SphereQuest,3,0,,1,f,f
+953,안전한 마차 지역,t,587,SphereQuest,3,0,,1,f,f
+954,휴버트가 안전한 지역,t,588,SphereQuest,3,0,,1,f,f
+955,물레노래 들판 입구,t,589,SphereQuest,3,0,,1,f,f
+956,숲의 수호자 마을 - 바우어의 걱정,t,297,SphereBubble,2,0,,26,f,f
+957,숲의 수호자 마을 - 알바트로스의 단서,t,298,SphereBubble,3,90000,,26,f,f
+958,사냥꾼 마을 - 망루,t,299,SphereBubble,3,160000,,26,f,f
+959,사냥꾼 마을 - 오프달과 청년들의 대화,t,300,SphereBubble,2,0,,26,f,f
+960,사냥꾼 마을 - 솔리의 집,t,301,SphereBubble,2,0,,26,f,f
+961,사냥꾼 마을 - 케롤라인,t,302,SphereBubble,3,160000,,26,f,f
+964,톱날 벌목지 - 수비대장 알렉스와 부하의 대화,t,305,SphereBubble,3,160000,,26,f,f
+965,톱날 벌목지 - 요리사 타일론,t,306,SphereBubble,2,0,,26,f,f
+966,그림자 매의 밀정들,t,307,SphereBubble,2,0,,26,f,f
+967,톱날 벌목지 - 감독관 페리와 벌목꾼의 대화,t,308,SphereBubble,2,0,,26,f,f
+968,Q1317 - 거인의 요람 묘목 심기,t,590,SphereQuest,3,0,거인의 요람,26,f,t
+969,Q1323_벌목장 캠프 밖에 나무를 심어라,f,591,SphereQuest,3,0,,23,f,f
+970,호숫가의 집 - 고고학 제이슨과 예스페르의 대화,t,309,SphereBubble,3,160000,,26,f,f
+971,Q813_왕궁입구_침입자,f,30,SphereSkill,3,0,,16,f,f
+972,숲의 수호자 마을 - 베렝,t,310,SphereBubble,3,170000,,26,f,f
+973,Q2050_케빈 호위,t,592,SphereQuest,3,0,,26,f,f
+976,침묵의호수 훔쳐보기,t,311,SphereBubble,2,0,,26,f,f
+977,침묵의 호수,t,595,SphereQuest,3,1000,,26,f,f
+978,빈 나무 터 - 아놀드와 라예르베크의 대화,t,312,SphereBubble,2,0,,26,f,f
+979,Q803_왕궁입구_침입자발견,t,313,SphereBubble,3,0,,16,f,f
+980,Q813_일곱다리_거래현장,t,314,SphereBubble,3,90000,,16,f,f
+981,Q815_술취한논_삼의목소리,t,315,SphereBubble,3,30000,,16,f,f
+982,비파노래언덕_샤오의제자,t,316,SphereBubble,2,0,,16,f,f
+983,무법마을_신도와상인,t,317,SphereBubble,2,0,,54,f,f
+984,안전한 피난처,t,596,SphereQuest,3,0,,36,f,f
+985,사냥터의 수상한 덤불,t,597,SphereQuest,3,0,,36,f,f
+986,level_바이암 습격대,t,31,SphereSkill,2,10000,그대로 멈춰라!,23,f,t
+987,Q527_포격자국(미사용),t,318,SphereBubble,2,0,,13,f,f
+988,침묵의호수 훔쳐보기 npc사라짐,t,32,SphereSkill,3,0,,26,f,f
+989,목화 수확장소,t,598,SphereQuest,3,0,,36,f,f
+990,호수의 요정이 알려준 장소,t,599,SphereQuest,3,0,,36,f,f
+991,Q2079_통나무 배달,t,600,SphereQuest,3,0,,26,f,f
+992,사랑의 화원 - 음유시인의 노래,t,319,SphereBubble,3,160000,,26,f,f
+993,세바스티안 백작가의 휴양지 - 두 요리사의 대화,t,320,SphereBubble,3,1600000,,26,f,f
+994,Q1938_천막을 칠 장소,t,601,SphereQuest,3,0,,20,f,f
+995,Q1431_침대를 놓을 곳,t,602,SphereQuest,3,0,,20,f,f
+996,Q1041_순록무덤,t,603,SphereQuest,3,0,,20,f,f
+997,사냥꾼 마을 - 클리페의 흔적,t,321,SphereBubble,3,160000,,26,f,f
+998,덫 안,t,604,SphereQuest,3,0,,36,f,f
+999,돌 석상 앞에서,t,322,SphereBubble,1,0,,26,f,f
+1000,스카디 대사,t,33,SphereSkill,2,5000,,26,f,f
+1001,Q524_병참장교마우스,t,323,SphereBubble,2,0,,13,f,f
+1002,특수 날틀 구역,t,605,SphereQuest,3,0,,36,f,f
+1003,Q1872_사라진워본_퀘스트완료,t,606,SphereQuest,3,30000,,32,f,f
+1004,제물을 바칠 곳,t,607,SphereQuest,3,0,,36,f,f
+1005,Q3639_인어에게 조언을 듣는 곳,t,608,SphereQuest,3,0,,36,f,f
+1006,호수를 향해 점프!,t,34,SphereSkill,3,0,,26,f,f
+1007,가우타마호위완료,t,609,SphereQuest,3,0,,32,f,f
+1008,q1897_나팔부는곳,t,610,SphereQuest,3,0,,32,f,f
+1009,날틀도착지점_점수_001,t,324,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 10점입니다.,81,f,t
+1010,날틀도착지점_점수_002,t,325,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 9점입니다.,81,f,t
+1011,날틀도착지점_점수_003,t,326,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 8점입니다.,81,f,t
+1012,날틀도착지점_점수_004,t,327,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 7점입니다.,81,f,t
+1013,날틀도착지점_점수_005,t,328,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 6점입니다.,81,f,t
+1014,날틀도착지점_점수_006,t,329,SphereBubble,2,0,당신의 비행 점수는 10점 만점에 5점입니다.,81,f,t
+1015,날틀도착지점_점수_007,t,330,SphereBubble,2,0,여기서 날틀을 타고 비행을 해보세요.,81,f,t
+1016,날틀도착지점_점수_008,t,331,SphereBubble,2,0,"@PC_NAME(0), 당신은 첫 번째 도착 지점에 착륙하였습니다.",81,f,t
+1017,날틀도착지점_점수_009,t,332,SphereBubble,2,0,"@PC_NAME(0), 당신은 두 번째 도착 지점에 착륙하였습니다.",81,f,t
+1018,날틀도착지점_점수_010,t,333,SphereBubble,2,0,"@PC_NAME(0), 당신은 세 번째 도착 지점에 착륙하였습니다.",81,f,t
+1019,날틀도착지점_점수_011,t,334,SphereBubble,2,0,"@PC_NAME(0), 당신은 네 번째 도착 지점에 착륙하였습니다.",81,f,t
+1020,날틀도착지점_점수_012,t,335,SphereBubble,2,0,"@PC_NAME(0), 당신은 다섯 번째 도착 지점에 착륙하였습니다.",81,f,t
+1021,날틀도착지점_점수_013,t,336,SphereBubble,2,0,"@PC_NAME(0), 당신은 여섯 번째 도착 지점에 착륙하였습니다.",81,f,t
+1022,날틀도착지점_점수_014,t,337,SphereBubble,2,0,"@PC_NAME(0), 당신은 일곱 번째 도착 지점에 착륙하였습니다.",81,f,t
+1023,날틀도착지점_점수_015,t,338,SphereBubble,2,0,"@PC_NAME(0), 당신은 여덟 번째 도착 지점에 착륙하였습니다.",81,f,t
+1024,날틀도착지점_점수_016,t,339,SphereBubble,2,0,"@PC_NAME(0), 당신은 아홉 번째 도착 지점에 착륙하였습니다.",81,f,t
+1025,날틀도착지점_점수_017,t,340,SphereBubble,2,0,"@PC_NAME(0), 당신은 열 번째 도착 지점에 착륙하였습니다.",81,f,t
+1026,날틀도착지점_점수_018,t,341,SphereBubble,2,0,,39,f,f
+1027,날틀도착지점_점수_019,t,342,SphereBubble,2,0,,39,f,f
+1028,달 그림자 마을 - 칼리안의 곰인형,t,343,SphereBubble,2,0,,26,f,f
+1029,고대 무덤지대 사거리 - 작곡가 에드바르트,t,344,SphereBubble,3,170000,,26,f,f
+1030,Q2017_휴버트 호위,f,611,SphereQuest,3,0,,1,f,f
+1031,모험_서리거인_마을 대화,t,345,SphereBubble,3,0,,20,f,f
+1032,청동바위산_검독수리마루마을_게레츠의 환영,t,346,SphereBubble,3,0,,20,f,f
+1033,청동바위산_현인석상_프롭스트의 계단안내,t,347,SphereBubble,1,0,,1,f,f
+1034,청동바위산_현인석상_프롭스트의 계단안내,t,348,SphereBubble,1,0,,1,f,f
+1035,청동바위산_안델프_아파트배급소,t,349,SphereBubble,3,0,,1,f,f
+1036,청동바위산_안델프_탐욕스런친척들,t,350,SphereBubble,3,0,,20,f,f
+1037,청동바위산_안델프_수상한배낭,t,351,SphereBubble,3,0,,1,f,f
+1038,청동바위산_안델프_발렌티누스의 감옥,t,352,SphereBubble,3,0,,1,f,f
+1039,청동바위산_안델프_발렌티나와 대화,t,353,SphereBubble,3,0,,1,f,f
+1040,ToDo_Start_1,t,2,SphereAcceptQuest,2,0,,34,f,f
+1041,ToDo_Start_2,t,612,SphereQuest,3,0,,34,f,f
+1042,테스트_영역,t,39,SphereDoodadInteract,3,0,,1,f,f
+1043,날틀 전장 점프,t,35,SphereSkill,3,0,,1,f,f
+1044,Q2132_마구간 도착,t,613,SphereQuest,3,0,,17,f,f
+1045,Q2133_코끼리 무덤으로,t,614,SphereQuest,3,0,,17,f,f
+1046,Q1963_기억을찾아온팔루한_폭죽놀이,t,615,SphereQuest,3,0,,20,f,f
+1047,조상신하프틀어지는장소,t,40,SphereDoodadInteract,2,0,,9,f,f
+1049,동부 감옥 탈출,t,37,SphereSkill,3,1000,추락한다.,1,f,t
+1050,루시_도착,t,354,SphereBubble,2,0,,4,f,f
+1051,(Q1116:힘을가진자)_습격_Reina,t,38,SphereSkill,3,30000,,23,f,f
+1052,(Q1135:추격)_도망자_Reina,t,39,SphereSkill,3,30000,,23,f,f
+1053,엔비어스,t,355,SphereBubble,2,0,,9,f,f
+1055,하리하란 시작지점,t,356,SphereBubble,1,0,,23,f,f
+1056,인적없는모래언덕_습격당한상인,t,357,SphereBubble,3,30000,,23,f,f
+1057,솔즈리드날틀언덕바람,t,40,SphereSkill,3,0,,5,f,f
+1059,철창,t,41,SphereDoodadInteract,3,0,,1,f,f
+1061,그림자 매의 함정,t,41,SphereSkill,1,0,함정에 걸렸습니다!!,30,f,t
+1062,무지개 벌판 채석상,t,42,SphereDoodadInteract,3,30000,,39,f,f
+1064,날틀언덕_공학자야나미,f,358,SphereBubble,3,0,,23,f,f
+1065,헨타가 죽은 곳,t,618,SphereQuest,3,0,,22,f,f
+1066,끔찍한 살인1,t,619,SphereQuest,3,0,,22,f,f
+1067,끔찍한 살인2,t,359,SphereBubble,2,0,,22,f,f
+1068,끔찍한 살인3,t,360,SphereBubble,2,0,,22,f,f
+1069,렘과 군나서의 수다,t,361,SphereBubble,2,0,,22,f,f
+1071,Q626_살로니키 마을,t,621,SphereQuest,3,0,,15,f,f
+1073,헨타의 유품,t,622,SphereQuest,3,0,,22,f,f
+1074,누이안메인퀘스트_백월만_Reina,t,43,SphereSkill,3,0,,4,f,f
+1076,기술자 에펙티나 주변,t,624,SphereQuest,3,0,,1,f,f
+1078,총독과 비서들,t,626,SphereQuest,3,0,,30,f,f
+1079,그림자 매 야영지,t,627,SphereQuest,1,0,,1,f,f
+1080,Q2437_처형장 연주를 위한 바위,t,628,SphereQuest,3,0,,15,f,f
+1081,무지개벌판_무지개병치료,t,44,SphereSkill,3,0,,23,f,f
+1082,유리의 집 내부 구경,t,629,SphereQuest,3,0,,9,f,f
+1083,Q2481_날틀 착륙 장소,t,630,SphereQuest,3,0,,15,f,f
+1084,집배원 너트가 부른다.,t,362,SphereBubble,2,0,,5,f,f
+1085,고장난 무지개 장치들,t,631,SphereQuest,3,600000,,30,f,f
+1086,카시우스 앞 마법진,t,632,SphereQuest,3,300000,,30,f,f
+1087,뱀의 틈에서 나갈 수 있는 마법진,t,633,SphereQuest,3,300000,,30,f,f
+1088,그림자 매의 매복지,t,634,SphereQuest,3,20000,,30,f,f
+1090,저주받은 공동묘지,t,45,SphereSkill,3,0,더이상 시체들의 독기를 견딜 수가 없습니다!,15,f,t
+1091,누이안시작지점,t,363,SphereBubble,2,0,,3,f,f
+1093,초승달 왕좌 성문 앞,t,364,SphereBubble,3,0,,3,f,f
+1094,인적없는모래언덕_습격당한상인2,t,365,SphereBubble,3,30000,,23,f,f
+1095,인적없는모래언덕_습격당한상인3,t,366,SphereBubble,3,60000,,23,f,f
+1096,노상강도출몰,t,46,SphereSkill,2,0,,4,f,f
+1097,루시 출발,t,47,SphereSkill,1,,,4,f,f
+1098,오염된 밤의 눈,t,637,SphereQuest,3,0,,22,f,f
+1099,무너진 성채_유령성주_성채 입장,f,367,SphereBubble,1,0,,3,f,f
+1100,무너진 성채_유령성주 앞,t,368,SphereBubble,2,0,,1,f,f
+1101,탄생의 절벽_불의 계약,t,369,SphereBubble,2,0,,22,f,f
+1102,탄생의 절벽_흙의 계약,t,370,SphereBubble,2,0,,22,f,f
+1103,탄생의 절벽_물의 계약,t,371,SphereBubble,2,0,,22,f,f
+1104,탄생의 절벽_바람의 계약,t,372,SphereBubble,2,0,,22,f,f
+1105,상단 연합 보안관 아그나 주변,t,373,SphereBubble,2,0,,30,f,f
+1106,무지개벌판_부서진짐마차_고양이울음,t,3,SphereSound,3,0,,23,f,f
+1108,Q2566_남작골탕먹이기_남작의지붕,t,638,SphereQuest,3,0,,6,f,f
+1109,Q2566_남작골탕먹이기_남작의꽃밭,t,639,SphereQuest,3,0,,6,f,f
+1110,뱀의 틈에서 나가기,t,48,SphereSkill,3,0,,23,f,f
+1111,무법마을_약장수,t,49,SphereSkill,3,0,,54,f,f
+1112,dummy,t,375,SphereBubble,3,120000,,6,f,f
+1113,Q2563_아무것도아닌자의소원_손의외침,t,640,SphereQuest,3,6000,,6,f,f
+1115,Q2131_사금 채취장,t,641,SphereQuest,3,0,,17,f,f
+1117,햐얀 숲_자작나무 마을_마을 사람들이 오보로스를 잡는 모험퀘스트의 힌트제공,t,377,SphereBubble,3,60000,,6,f,f
+1118,하얀 숲 - 자작나무 마을 남쪽 - 모험퀘스트 '은사시 역병' 을 시작하기 위해 NPC들이 대화를 나눔,t,378,SphereBubble,3,120000,,6,f,f
+1122,Q2684_당일 배송의 약속_등짐내려놓는곳,t,645,SphereQuest,3,0,,24,f,f
+1127,Q2245_항구로 가는길 광장,t,384,SphereBubble,2,0,,4,f,f
+1128,Q2245_항구로 가는길 시장,t,385,SphereBubble,2,0,,4,f,f
+1129,메그라의 외침,t,386,SphereBubble,3,300000,,25,f,f
+1135,Q1738_반빗불 채취 지역,t,650,SphereQuest,3,0,,26,f,f
+1136,Q1739_카론앞,t,651,SphereQuest,3,0,,26,f,f
+1138,Q2717_자유도_도착지점,t,652,SphereQuest,3,0,,44,f,f
+1139,Q155_하얀 숲_ 붉은동굴1,t,389,SphereBubble,3,0,붉은 이끼 동굴로 향하는 길목에 들어섰습니다.,1,f,t
+1140,Q155_하얀 숲_ 붉은동굴2,t,390,SphereBubble,3,0,동굴로 가는 길 중간에 누군가가 서 있는 것을 발견했습니다.,6,f,t
+1142,Q2762_집자랑,t,653,SphereQuest,3,0,,4,f,f
+1143,Q2764_물란의집구경하기,t,654,SphereQuest,3,0,,22,f,f
+1144,Q2411_흙 먼지 구릉 언덕,t,392,SphereBubble,3,10000,,15,f,f
+1145,Q2566_남작골탕먹이기_부엉이지붕,t,655,SphereQuest,2,1000,,6,f,f
+1148,Q2794_십자별명예퀘스트시작,t,658,SphereQuest,3,0,,5,f,f
+1149,야영지_소금상회조합원,t,393,SphereBubble,1,0,,13,f,f
+1150,q2895_칼의노래_start,t,659,SphereQuest,3,5000,,44,f,f
+1151,q2895_칼의노래_skillstart1,t,50,SphereSkill,3,5000,이곳은 선택받지 못한 자가 올 곳이 아니다!,44,f,t
+1152,Q2273슬픈행렬_애도의 장소,t,660,SphereQuest,1,0,,1,f,f
+1153,Q2276파도를 건너온 여인_원혼의 습격,t,661,SphereQuest,3,0,,1,f,f
+1154,Q2281혼돈의 도시_붉은코트 소녀,t,662,SphereQuest,1,0,,1,f,f
+1155,석류빛 동굴 루비의 심장 앞,t,663,SphereQuest,3,0,,1,f,f
+1156,Q2337이제 안식을_죽은자들의 습격,t,664,SphereQuest,1,0,,1,f,f
+1157,'종과 광대',t,665,SphereQuest,3,0,,35,f,f
+1158,스톨텐베르그의 성 밴시들 근처,t,666,SphereQuest,3,0,,1,f,f
+1159,Q2908_해적의상자주변,t,51,SphereSkill,3,0,,48,f,f
+1160,Q1756_재촉_망루위,t,667,SphereQuest,3,0,,33,f,f
+1161,Q2288_입구를 만들자_덩굴 앞,t,43,SphereDoodadInteract,3,0,,35,f,f
+1162,Q2303_개척지의 사랑_사금채취강,t,668,SphereQuest,3,0,,1,f,f
+1163,Q2920_사악한 기운 정화_염원의 강물,t,669,SphereQuest,3,0,,1,f,f
+1164,버려진 해적섬 피묻은 손 전진기지,t,670,SphereQuest,3,0,,35,f,f
+1165,Q2335_너무 성실했던 농부들_농장 연못 근처,t,671,SphereQuest,3,0,,1,f,f
+1166,기념비 제단 앞,t,672,SphereQuest,3,0,,35,f,f
+1167,q2936_부두하역작업_안젤로,t,394,SphereBubble,3,60000,,14,f,f
+1169,Q1791_으르렁거리는 섬,t,674,SphereQuest,3,0,,44,f,f
+1170,Q2819_이니스테르명예퀘스트시작,t,675,SphereQuest,3,0,,5,f,f
+1171,Q1803_군량저장소로_군량내려놓는곳,t,676,SphereQuest,3,0,,33,f,f
+1173,십자별 평원_징조의 틈,t,395,SphereBubble,2,0,,51,t,f
+1174,NPC 1414 음유시인 에이두르의 노래,t,396,SphereBubble,3,160000,,35,f,f
+1175,(모험)고르곤 동굴 크리스탈 사용 제한,t,678,SphereQuest,3,0,,26,f,f
+1176,Q3041_돌아오지않는친구들_퀘스트완료지점,t,679,SphereQuest,3,0,,47,f,f
+1177,인간 대포 23호가 놓인 언덕 위,t,680,SphereQuest,3,0,,35,f,f
+1178,Q1821처음만나는자유_퀘스트수행지역,t,681,SphereQuest,3,0,,33,f,f
+1179,루이비가 있는 동굴 안,t,682,SphereQuest,3,0,,35,f,f
+1180,실비아의 목걸이 사용,t,683,SphereQuest,3,0,,35,f,f
+1183,Q3046_모링가 나무 숲 바람돌 ,t,686,SphereQuest,3,0,,53,f,f
+1185,이니스테르_이니스테르 경비병들,t,397,SphereBubble,2,0,,35,f,f
+1186,이니스테르_염원의강_귀족들,t,398,SphereBubble,2,0,,35,f,f
+1187,이니스테르_오페라극장_귀족들,t,399,SphereBubble,2,0,,35,f,f
+1188,이니스테르_너도밤나무_척후병,t,400,SphereBubble,2,0,,35,f,f
+1189,이니스테르_하디르 앞,t,401,SphereBubble,2,0,,35,f,f
+1190,이니스테르_왕궁내부,t,402,SphereBubble,2,0,,35,f,f
+1191,이니스테르_엘리자베트_실험,t,403,SphereBubble,2,0,,35,f,f
+1192,이니스테르_족장과의사,t,404,SphereBubble,2,0,,35,f,f
+1193,이니스테르_해적사벨탄,t,405,SphereBubble,2,0,,35,f,f
+1194,이니스테르_지수,t,406,SphereBubble,2,0,,35,f,f
+1195,테스트_성엽_영역,t,44,SphereDoodadInteract,3,0,,1,f,f
+1196,오늘의 영역_TEST_00,t,45,SphereDoodadInteract,3,0,,1,f,f
+1197,오늘의 영역_TEST_01,t,46,SphereDoodadInteract,3,0,,1,f,f
+1198,오늘의 영역_TEST_02,t,47,SphereDoodadInteract,3,0,,1,f,f
+1199,오늘의 영역_TEST_03,t,48,SphereDoodadInteract,3,0,,1,f,f
+1200,오늘의 영역_TEST_04,t,49,SphereDoodadInteract,3,0,,1,f,f
+1201,Q3078_농장 인근 로카강줄기,t,688,SphereQuest,3,0,,53,f,f
+1202,Q3088_로카강 물 웅덩이,t,689,SphereQuest,3,0,,53,f,f
+1203,Q925_디르마 앞,t,690,SphereQuest,3,0,,17,f,f
+1206,Q3083_초원의 시체,t,407,SphereBubble,3,0,,53,f,f
+1207,푸른 송곳니 부족 제사단,t,693,SphereQuest,3,0,,53,f,f
+1208,Q3069_점령당한 훈련소(미정),t,408,SphereBubble,3,0,,53,f,f
+1209,Q3069_점령당한 회합터,t,694,SphereQuest,3,0,,53,f,f
+1210,습격받은 마차,t,695,SphereQuest,3,0,,54,f,f
+1211,상자 놓을 곳,t,696,SphereQuest,3,0,,54,f,f
+1212,노래가 흘러나오는 오두막,t,697,SphereQuest,3,0,,54,f,f
+1213,두다드 3813 반응하는 식물 테스트,t,50,SphereDoodadInteract,3,20000,,1,f,f
+1214,고대 신앙자의 성 화장터,t,698,SphereQuest,3,0,,54,f,f
+1215,늪지대,t,52,SphereSkill,3,0,,54,f,f
+1216,크라켄 전투 시작!,t,699,SphereQuest,3,0,,1,f,f
+1217,level_도깨비 이속 증가,t,53,SphereSkill,3,0,,54,f,f
+1218,level_도깨비 공격력 증가,t,54,SphereSkill,3,0,,54,f,f
+1219,level_도깨비 활력 회복 증가,t,55,SphereSkill,3,0,,54,f,f
+1220,level_늪,t,56,SphereSkill,3,0,,54,f,f
+1221,Q3577_백호 허상을 불러내는 곳,t,700,SphereQuest,3,0,백호의 기운이 느껴집니다.,59,f,t
+1222,Q3578_용 허상을 불러내는 곳,t,701,SphereQuest,3,0,용의 기운이 느껴집니다.,59,f,t
+1223,Q3387_동생이 울고 있는 곳,t,702,SphereQuest,3,0,,59,f,f
+1224,Q3403_그가 떠난 곳,t,703,SphereQuest,3,0,그가 사고를 당한 곳입니다.,59,f,t
+1225,Q3969_휴이고 본진,t,704,SphereQuest,3,0,,59,f,f
+1226,Q3427_비취 웅덩이 정화제 뿌리는 곳,t,705,SphereQuest,3,0,,59,f,f
+1227,군주의 사냥터 호각,t,706,SphereQuest,3,0,,36,f,f
+1228,긴 모래톱 / 녹색 늑대 마을/  인간 대포 안내문 1,t,409,SphereBubble,3,600000,,36,f,f
+1229,긴 모래톱 / 황금 혀 항구 / 인간 대포 안내문 2,t,410,SphereBubble,3,600000,,36,f,f
+1230,Q3612_북쪽 신하의 기둥,t,707,SphereQuest,3,0,,52,f,f
+1231,Q3612_왕의 기둥,t,708,SphereQuest,3,0,,52,f,f
+1232,Q3613_남쪽 신하의 기둥,t,709,SphereQuest,3,0,,52,f,f
+1233,Q2998_게르망의 시신,t,710,SphereQuest,3,0,,1,f,f
+1234,Q3616_제의가 진행되는 곳,t,711,SphereQuest,3,0,,59,f,f
+1235,Q3581_비취 웅덩이,t,712,SphereQuest,3,0,,59,f,f
+1236,흔들흔들,t,57,SphereSkill,3,100,,52,f,f
+1237,반인반사의 대화,t,411,SphereBubble,2,0,,1,f,f
+1238,암흑술사의 최후,t,713,SphereQuest,3,0,,36,f,f
+1239,차원의 틈 소환 영역,t,58,SphereSkill,3,0,,54,f,f
+1240,레귤루스의 연회장 중앙연못,t,714,SphereQuest,3,0,,36,f,f
+1241,개미지옥  땅벌레 소환,t,59,SphereSkill,3,300000,,53,f,f
+1242,개미지옥  땅벌레 소환,t,60,SphereSkill,3,300000,,53,f,f
+1243,개미지옥  땅벌레 소환,t,61,SphereSkill,3,300000,,53,f,f
+1244,개미지옥  땅벌레 소환,t,62,SphereSkill,3,300000,,53,f,f
+1245,개미지옥  땅벌레 소환,t,63,SphereSkill,3,300000,,53,f,f
+1246,개미지옥  땅벌레 소환,t,64,SphereSkill,3,300000,,53,f,f
+1247,Q3679_검문소 방책 자재 보관터,t,715,SphereQuest,1,0,,14,f,f
+1248,클라시크,t,412,SphereBubble,1,0,,54,f,f
+1249,Q3657_고릴라바위,t,65,SphereSkill,1,0,,14,f,f
+1250,리라바티,t,413,SphereBubble,1,0,,14,f,f
+1251,Q3081_카파간 바람돌,t,414,SphereBubble,3,0,,53,f,f
+1252,Q3706_로이스터 경 주변,t,716,SphereQuest,3,0,,2,f,f
+1253,Q3715_삽질하는 곳,t,717,SphereQuest,3,0,,2,f,f
+1254,Q3667_유골뿌릴 해변가,t,66,SphereSkill,1,0,,14,f,f
+1255,Q3730_풍차 안 걸레질 하는 곳,t,718,SphereQuest,3,0,,2,f,f
+1256,Q2985_눈사자 무덤,t,719,SphereQuest,3,0,,52,f,f
+1257,이니스테르_환락가_대화1,t,415,SphereBubble,3,6000,,35,f,f
+1258,이니스테르_환락가_대화2,t,416,SphereBubble,3,60,,35,f,f
+1259,이니스테르_환락가_대화3,t,417,SphereBubble,3,60,,35,f,f
+1261,이니스테르_환락가_여자1,t,419,SphereBubble,3,60,,35,f,f
+1265,이니스테르_환락가_난봉꾼,t,423,SphereBubble,3,60000,,35,f,f
+1266,Q3656_온천 관리인 아르핫 앞,t,720,SphereQuest,3,0,,14,f,f
+1267,지옥늪지대_뒤틀린문만들기,t,721,SphereQuest,3,0,,54,f,f
+1268,애완견의 울음,t,424,SphereBubble,3,0,,1,f,f
+1269,강아지가 가리키는 곳,t,722,SphereQuest,3,0,,62,f,f
+1270,Q3746_쾌속정이 가라앉은 곳,t,723,SphereQuest,3,0,,2,f,f
+1271,Q3747_항해사가 있는 곳,t,724,SphereQuest,3,0,,1,f,f
+1273,인던연출_하디르의농장1,t,725,SphereQuest,3,5000,테스트,63,f,t
+1274,인던연출_하디르의농장2,t,726,SphereQuest,3,5000,,63,f,f
+1275,인던연출_하디르의농장3,t,727,SphereQuest,2,0,,63,f,f
+1276,인던연출_하디르의농장4,t,728,SphereQuest,2,0,,63,f,f
+1277,인던연출_하디르의농장5,t,729,SphereQuest,2,0,,63,f,f
+1278,인던연출_하디르의농장6,t,730,SphereQuest,2,0,,63,f,f
+1279,인던연출_하디르의농장7,t,731,SphereQuest,2,0,,63,f,f
+1280,인던연출_하디르의농장8,t,732,SphereQuest,2,0,,63,f,f
+1281,인던연출_하디르의농장9,t,733,SphereQuest,2,0,,63,f,f
+1282,인던연출_하디르의농장10,t,734,SphereQuest,2,0,,63,f,f
+1284,하디르_노파벨라르연출1_발동,t,67,SphereSkill,3,30000,,63,f,f
+1285,하디르_사그라쓰연출1_발동,t,68,SphereSkill,3,30000,,63,f,f
+1286,마하데비_이벤트1_레버제물,t,69,SphereSkill,3,27000,,64,f,f
+1288,Q3711_보양식 만드는 곳,t,736,SphereQuest,3,0,,2,f,f
+1289,마하데비_이벤트3_탈퇴,t,70,SphereSkill,3,17000,,64,f,f
+1290,Q3766_실종된동료_완료지점,t,737,SphereQuest,3,0,,60,f,f
+1291,마하데비_ai명령호출_짐꾼수도사,t,71,SphereSkill,3,60000,,64,f,f
+1292,Q3704_접선 목표위치,t,738,SphereQuest,3,0,,14,f,f
+1293,Q3704_접선 진입 대사,t,427,SphereBubble,1,0,,14,f,f
+1294,믿음의 계단,t,51,SphereDoodadInteract,3,5000,,1,f,f
+1295,Q2979_늑대사냥 퀘스트 시작,t,739,SphereQuest,3,0,,52,f,f
+1296,Q3859_암흑 갈기 늑대 사냥 시작,t,740,SphereQuest,3,0,,52,f,f
+1297,Q3718_PC대사,t,428,SphereBubble,3,0,,14,f,f
+1298,하디르_몬스터스폰1,t,72,SphereSkill,3,5000,,63,f,f
+1299,하디르_몬스터스폰2,t,73,SphereSkill,3,5000,,63,f,f
+1300,하디르_몬스터스폰3,t,74,SphereSkill,3,5000,,63,f,f
+1301,하디르_몬스터스폰4,t,75,SphereSkill,3,5000,,63,f,f
+1302,하디르_몬스터스폰5,t,76,SphereSkill,3,5000,,63,f,f
+1303,하디르_몬스터스폰6,t,77,SphereSkill,3,5000,,63,f,f
+1304,하디르_몬스터스폰7,t,78,SphereSkill,3,5000,,63,f,f
+1305,하디르_몬스터스폰8,t,79,SphereSkill,3,5000,,63,f,f
+1306,하디르_몬스터스폰9,t,80,SphereSkill,3,5000,,63,f,f
+1307,하디르_몬스터스폰10,t,81,SphereSkill,3,5000,,63,f,f
+1308,하디르_몬스터스폰11,t,82,SphereSkill,3,5000,,63,f,f
+1309,하디르_몬스터스폰12,t,83,SphereSkill,3,5000,,63,f,f
+1310,하디르_몬스터스폰13,t,84,SphereSkill,3,5000,,63,f,f
+1311,하디르_몬스터스폰14,t,85,SphereSkill,3,5000,,63,f,f
+1312,하디르_몬스터스폰15,t,86,SphereSkill,3,5000,,63,f,f
+1313,하디르_몬스터스폰16,t,87,SphereSkill,3,5000,,63,f,f
+1314,하디르_몬스터스폰17,t,88,SphereSkill,3,5000,,63,f,f
+1315,하디르_몬스터스폰18,t,89,SphereSkill,3,5000,,63,f,f
+1316,하디르_몬스터스폰19,t,90,SphereSkill,3,5000,,63,f,f
+1317,하디르_몬스터스폰20,t,91,SphereSkill,3,5000,,63,f,f
+1318,메이프,t,429,SphereBubble,2,0,,1,f,f
+1319,그렐과 사로 마라,t,430,SphereBubble,2,0,,1,f,f
+1320,거미 숲의 수상한 페레 무리,t,431,SphereBubble,3,0,,1,f,f
+1321,거미숲 안쪽,t,741,SphereQuest,3,0,,61,f,f
+1322,부부 상인의 짐마차,t,742,SphereQuest,3,0,,21,f,f
+1323,level_가루다둥지 버프,t,92,SphereSkill,3,0,,60,f,f
+1324,Q3709_돌 골렘이 움트는 곳 수락 영역,t,743,SphereQuest,3,0,,2,f,f
+1325,그림자 매 본거지 방향 지시,t,432,SphereBubble,2,0,,1,f,f
+1326,엘테르 주변,t,433,SphereBubble,2,0,,61,f,f
+1327,그림자 매 술집 입구,t,434,SphereBubble,3,0,,61,f,f
+1328,마하데비_ai명령호출_멜키나의설파,t,93,SphereSkill,3,30000,,64,f,f
+1329,Q766_관광객_ai,t,94,SphereSkill,3,10000,,14,f,f
+1330,주술사 미리스의 독백,t,435,SphereBubble,3,0,,2,t,f
+1331,하디르_썩은고깃덩이연출1_발동,t,95,SphereSkill,3,5000,,63,f,f
+1332,Q3872_멋진남자_소문1,t,744,SphereQuest,3,0,,36,f,f
+1333,Q3872_멋진남자_소문2,t,745,SphereQuest,3,0,,36,f,f
+1334,Q3872_멋진남자_소문3,t,746,SphereQuest,3,0,,36,f,f
+1335,일광욕 하는 여인들,t,747,SphereQuest,3,0,,1,f,f
+1336,공놀이 하는 여인들,t,748,SphereQuest,3,0,,1,f,f
+1337,음료를 마시는 여인들,t,749,SphereQuest,3,0,,1,f,f
+1338,그림자 매들이 있는 곳,t,750,SphereQuest,3,0,,62,f,f
+1339,level_활력회복,t,96,SphereSkill,3,0,,60,f,f
+1340,로카_여행자 하리하란,t,436,SphereBubble,3,1000,,52,f,f
+1341,Q3788_오지않는푸른병_완료장소,t,751,SphereQuest,3,0,,60,f,f
+1342,밀렵단 감옥 탈출,t,97,SphereSkill,3,0,,53,f,f
+1343,로카_땅벌레 스폰_id69564,t,98,SphereSkill,3,0,,52,f,f
+1344,노래의 땅 dummy,t,752,SphereQuest,2,0,,62,f,f
+1345,그림자 매의 집결지,t,753,SphereQuest,3,0,,62,f,f
+1346,신의 채찍 본부 앞,t,437,SphereBubble,3,0,,1,f,f
+1347,노래의 땅 dummy,t,99,SphereSkill,2,0,,62,f,f
+1348,노래의 땅 dummy,t,100,SphereSkill,2,0,,62,f,f
+1349,노래의 땅 dummy,t,101,SphereSkill,2,0,,62,f,f
+1350,노래의 땅 dummy,t,102,SphereSkill,2,0,,61,f,f
+1351,노래의 땅 dummy,t,103,SphereSkill,2,0,,61,f,f
+1352,노래의 땅 dummy,t,104,SphereSkill,2,0,,61,f,f
+1353,long_녹색늑대마을 사냥꾼,t,438,SphereBubble,2,,,36,f,f
+1354,long_황금바다 밀렵답,t,439,SphereBubble,2,,,36,f,f
+1355,long_군주의야영지귀족,t,440,SphereBubble,2,,,36,f,f
+1356,long_건설현장일꾼들 ,t,441,SphereBubble,2,,,36,f,f
+1357,long_휴양지 신혼부부 대사,t,442,SphereBubble,2,,,36,f,f
+1358,long_야자주 장인의오두막,t,443,SphereBubble,2,,,36,f,f
+1359,long_고블린연구가들,t,444,SphereBubble,2,,,36,f,f
+1360,long_레귤루스의연회장,t,445,SphereBubble,2,,,36,f,f
+1361,long_항구의 선원들,t,446,SphereBubble,2,,,36,f,f
+1362,long_아이델과레귤루스,t,447,SphereBubble,2,,,36,f,f
+1363,자쿤에 대한 대화,t,448,SphereBubble,1,0,,17,f,f
+1364,빈 나무터의 성 2층,t,754,SphereQuest,3,0,,61,f,f
+1365,달 그림자 마을에서,t,449,SphereBubble,2,0,,61,f,f
+1366,Q1999_퀘스트수락,t,755,SphereQuest,3,0,,36,f,f
+1367,고대의 숲 지하 왕릉 이끼 슬라임 소환,t,105,SphereSkill,3,180000,,26,f,f
+1368,Q3772_등짐내려놓을장소,t,756,SphereQuest,3,0,,60,f,f
+1369,마비 독,t,106,SphereSkill,3,0,,60,f,f
+1370,불탄성 인던_도입부 연출_루나의 도움 요청,t,107,SphereSkill,3,3000,,56,f,f
+1371,고대의 숲 빈 망토,t,108,SphereSkill,3,7200000,나의 땅을 밟은 자 목숨을 내놓아야 할 것이다.,26,f,t
+1373,Q3966_비료 만드는 곳,t,757,SphereQuest,3,0,,59,f,f
+1374,가축 키우는 장소,t,758,SphereQuest,1,0,,1,f,f
+1375,Q5499_호수히드라출현,t,759,SphereQuest,3,0,,85,f,f
+1376,Q1313_클리페가 숲에서 겪은 일,t,450,SphereBubble,3,0,,26,f,f
+1377,Q3977_해적 마을 발견_퀘스트시작,t,760,SphereQuest,3,0,,13,f,f
+1379,불탄성 인던_도입부 연출_히에로니무스의 아들 등장,t,111,SphereSkill,3,5000,,56,f,f
+1381,불탄성 인던_도입부 연출_리차드 전투 종료,t,113,SphereSkill,3,3000,,56,f,f
+1382,그림자 매 집결지 내부,t,761,SphereQuest,3,0,,62,f,f
+1383,불탄성 인던_도입부 연출_레오나드 전투 종료,t,114,SphereSkill,3,3000,,56,f,f
+1384,Q3819_퀘스트 시작지점,t,762,SphereQuest,3,0,,60,f,f
+1385,불탄성 인던_3번째 보스 연출_히에로니무스의 아들 등장,t,115,SphereSkill,3,5000,,56,f,f
+1386,Q3925_요술봉 완료위치,t,763,SphereQuest,1,0,,33,f,f
+1387,불탄성 인던_3번째 보스 연출_히에로니무스의 등장,t,116,SphereSkill,3,5000,,56,f,f
+1388,Q2085_살리움 보급품 천막,t,764,SphereQuest,3,0,,13,f,f
+1389,Q2084_일리온 보급품 천막,t,765,SphereQuest,3,0,,13,f,f
+1390,로카_승천,t,451,SphereBubble,3,0,,52,f,f
+1391,Q3915_허수아비 배달위치,t,766,SphereQuest,1,0,,33,f,f
+1392,삭제 예정,t,767,SphereQuest,3,0,,61,f,f
+1394,Q3835_파비트라,t,768,SphereQuest,3,0,,60,f,f
+1395,빈센시오 가족의 은신처,t,453,SphereBubble,2,0,,62,f,f
+1396,제자들의마을연극,t,454,SphereBubble,3,120000,,60,f,f
+1397,입구,t,455,SphereBubble,3,120000,,60,f,f
+1398,전하의탑중턱,t,456,SphereBubble,3,0,,60,f,f
+1399,불탄성 인던_1번째 보스 연출_창고지기 쇼블 등장,t,117,SphereSkill,3,5000,,56,f,f
+1400,불탄성 인던_2번째 보스 연출_원터스의 정령 소환 ,t,118,SphereSkill,3,5000,,56,f,f
+1401,신의 채찍이 머무는 장소,t,457,SphereBubble,3,0,,61,f,f
+1402,모닥불,t,119,SphereSkill,3,0,,60,f,f
+1403,모닥불 따듯해,t,458,SphereBubble,3,0,,60,f,f
+1404,비겁한 변명,t,459,SphereBubble,3,120000,,60,f,f
+1405,죽어가는 자의 한마디,t,460,SphereBubble,3,0,,60,f,f
+1407,자유의 바람,t,120,SphereSkill,3,0,,60,f,f
+1408,뱀의 틈 표식,t,462,SphereBubble,2,0,,62,f,f
+1410,불탄성 인던_2번째 보스 종료 후 연출_히에로니무스의 아들 등장,t,121,SphereSkill,3,5000,,56,f,f
+1411,불탄성 인던_3번째 보스 연출_히에로니무스의 등장(팩션),t,122,SphereSkill,3,3000,,56,f,f
+1412,과녘 영역,t,769,SphereQuest,3,0,,61,f,f
+1413,(모험)로카_승천,t,770,SphereQuest,3,0,,52,f,f
+1414,마리안 주변,t,771,SphereQuest,3,0,,3,f,f
+1415,피 묻은 손에 당한 희생자,t,772,SphereQuest,3,0,,3,f,f
+1416,유인해낼 장소,t,773,SphereQuest,3,0,,3,f,f
+1417,스콧의 시체 주변,t,774,SphereQuest,3,0,,3,f,f
+1418,꽃의 처녀 플로라 주변,t,775,SphereQuest,3,0,,3,f,f
+1421,펫 등짐 테스트,t,776,SphereQuest,1,0,,1,f,f
+1422,낡은 모루 근처,t,465,SphereBubble,3,0,,62,f,f
+1423,하만의 부하들,t,466,SphereBubble,3,0,,62,f,f
+1424,Q3610_아스트라 동굴,t,777,SphereQuest,3,0,,17,f,f
+1425,마하데비_ai명령호출_돌소환사,t,123,SphereSkill,3,15000,,64,f,f
+1426,전사의 성 대문,t,467,SphereBubble,3,0,,33,f,f
+1427,덴슬로,t,468,SphereBubble,3,0,,33,f,f
+1428,사미아드 앞,t,778,SphereQuest,3,0,,61,f,f
+1430,Q2298 이슬레이 대사,t,469,SphereBubble,1,0,,35,f,f
+1432,자쿤의 먹이 내려놓기,t,780,SphereQuest,3,0,,17,f,f
+1433,베어의 실수,t,470,SphereBubble,1,0,,17,f,f
+1434,용병단,t,471,SphereBubble,3,0,,33,f,f
+1436,탈것 새끼 키우는 장소,t,52,SphereDoodadInteract,1,0,,1,f,f
+1437,마리안이 있는 곳,t,782,SphereQuest,3,0,,3,f,f
+1438,Q2782_지옥늪지대명예퀘스트시작,t,783,SphereQuest,3,0,,5,f,f
+1439,Q2788_로카의장기말들명예퀘스트시작,t,784,SphereQuest,3,0,,5,f,f
+1440,Q2825_하리하랄라야의 폐허명예퀘스트시작,t,785,SphereQuest,3,0,,5,f,f
+1443,아탈란시아 집 앞,t,786,SphereQuest,3,10000,,3,f,f
+1445,오스테라_취객,t,126,SphereSkill,3,10000,,14,f,f
+1446,무지개 벌판_채석장,t,53,SphereDoodadInteract,3,0,,1,f,f
+1447,수리 부엉이 날리는 구영역,t,788,SphereQuest,1,0,,8,f,f
+1448,봉인석 위치,t,789,SphereQuest,1,0,,8,f,f
+1449,에노이르,t,790,SphereQuest,3,5000,,8,f,f
+1450,피 묻은 손 집결지,t,791,SphereQuest,3,0,,3,f,f
+1451,아탈란시아 집 앞 두대드 있는 곳,t,792,SphereQuest,1,0,,3,f,f
+1452,회담 장소,t,793,SphereQuest,3,10000,,8,f,f
+1453,하얀숲 Q4281_모라와의 대화,t,5,SphereAcceptQuest,3,0,,6,f,f
+1455,마하데비_포효해제,t,128,SphereSkill,3,0,,64,f,f
+1456,처형터 연출1,t,129,SphereSkill,3,800000,,60,f,f
+1457,하디르_하디르_마르마스소환발동,t,130,SphereSkill,3,2000,,63,f,f
+1458,매의 날개 마법진,t,54,SphereDoodadInteract,3,0,,22,f,f
+1459,이니스테르_공간의 틈 안내,t,473,SphereBubble,3,10000,,1,f,f
+1460,황금 평원_공간의 틈 안내,t,474,SphereBubble,3,10000,,1,f,f
+1461,긴 모래톱_공간의 틈 안내,t,475,SphereBubble,3,10000,,1,f,f
+1462,로카의 장기말들_공간의 틈 안내,t,476,SphereBubble,3,10000,,1,f,f
+1463,하만의 부하들이 있는 곳,t,794,SphereQuest,3,0,,62,f,f
+1464,마리아노플 감옥 무단 침입,t,131,SphereSkill,3,0,,1,f,f
+1465,동틀녘 반도 감옥 무단 침입,t,132,SphereSkill,3,0,,1,f,f
+1466,엘프 대기자들,t,477,SphereBubble,3,300000,,8,f,f
+1467,누이안 대기자들,t,478,SphereBubble,3,300000,,8,f,f
+1468,결투 대회 진행 요원,t,479,SphereBubble,3,300000,,8,f,f
+1469,결투 대회 진행 요원,t,480,SphereBubble,3,300000,,8,f,f
+1470,로카_땅벌레 스폰_id69567,t,133,SphereSkill,3,0,,52,f,f
+1471,로카_땅벌레 스폰_id69565,t,134,SphereSkill,3,0,,52,f,f
+1472,로카_땅벌레 스폰_id69566,t,135,SphereSkill,3,0,,52,f,f
+1474,매의 날개 마법진,t,137,SphereSkill,3,0,,22,f,f
+1475,Q4286_마하데비_아크미트,t,795,SphereQuest,3,0,,64,f,f
+1476,히에로니무스의 영혼 해방,t,796,SphereQuest,3,5000,,56,f,f
+1478,결투장 치료사,t,138,SphereSkill,3,0,,9,f,f
+1479,Q3915_허수아비 배달 말풍선,t,481,SphereBubble,1,0,,33,f,f
+1480,Q3836_제국의망령을저승으로,t,797,SphereQuest,3,0,,60,f,f
+1481,q4299_농장에서의하룻밤,t,798,SphereQuest,3,0,,63,f,f
+1482,q4300_불길한농장,t,799,SphereQuest,3,0,,63,f,f
+1483,탄생의 절벽 차원문,t,482,SphereBubble,3,0,,22,f,f
+1484,Q2936_칼리아이 가문 화물,t,800,SphereQuest,3,0,,14,f,f
+1485,Q3925_요술봉 대사,t,483,SphereBubble,1,0,,33,f,f
+1486,수호자 비토리오 주변,t,801,SphereQuest,3,0,,3,f,f
+1487,숲의주인앞 에오카드,t,484,SphereBubble,3,0,,9,f,f
+1488,에드와 헨리,t,485,SphereBubble,3,60000,,15,f,f
+1489,Q2084_일리온 보급품 천막 도착,t,486,SphereBubble,3,0,,13,f,f
+1490,Q2085_살리움 보급품 천막 도착,t,487,SphereBubble,3,0,,13,f,f
+1491,황금평원 흰 까마귀 선임기사,t,139,SphereSkill,3,0,,33,f,f
+1492,전사의 성 입구,t,488,SphereBubble,3,0,,33,f,f
+1493,신기루 인사1,t,489,SphereBubble,3,0,,1,f,f
+1494,신기루섬 인사2,t,490,SphereBubble,3,0,,1,f,f
+1497,신기루섬 누이아 주택전시,t,491,SphereBubble,3,0,,1,f,f
+1498,신기루섬 하리하라 주택전시,t,492,SphereBubble,3,0,,1,f,f
+1499,신기루섬 선박판매 안내인,t,493,SphereBubble,3,0,,1,f,f
+1500,신기루섬 전차 안내인,t,494,SphereBubble,3,0,,1,f,f
+1501,신기루섬 릴리엇 말 안내,t,495,SphereBubble,3,0,,1,f,f
+1502,신기루섬 나가는 문,t,496,SphereBubble,3,0,,1,f,f
+1503,신기루섬 축성 도면 안내,t,497,SphereBubble,3,0,,1,f,f
+1504,신기루섬 젖소 탈것 안내,t,498,SphereBubble,3,0,,1,f,f
+1505,신기루섬 제작대 안내,t,499,SphereBubble,3,0,,1,f,f
+1506,신기루섬 허수아비 안내,t,500,SphereBubble,3,0,,1,f,f
+1507,신기루섬 양식장 안내,t,501,SphereBubble,3,0,,1,f,f
+1511,다미의 외침,t,505,SphereBubble,3,0,,60,f,f
+1512,다미의 외침2,t,506,SphereBubble,3,0,,60,f,f
+1513,Q1667_바쉬티대사,t,507,SphereBubble,3,15000,,14,f,f
+1514,골렘의 중얼거림,t,508,SphereBubble,3,0,,33,f,f
+1515,Q4340_스미굴의 집,t,802,SphereQuest,3,0,,68,f,f
+1516,Q4341_갈색비늘 에키혼 야영지,t,803,SphereQuest,3,0,,68,f,f
+1517,Q4363_엘프 포로 지역,t,804,SphereQuest,3,0,,68,f,f
+1518,Q4376_생명의 구슬 사용 영역,t,805,SphereQuest,3,0,,68,f,f
+1519,Q4378_정화의 구슬 사용 영역,t,806,SphereQuest,3,0,,68,f,f
+1520,Q4321_거대 붉은 눈 용아병 퇴치 퀘스트 수락,t,7,SphereAcceptQuest,3,0,,68,f,f
+1521,Q4321_거대 붉은 눈 용아병 퇴치 퀘스트 수락,t,807,SphereQuest,3,0,,68,f,f
+1522,Q4325_거대 바람 정령 퇴치 퀘스트 수락,t,808,SphereQuest,3,0,,68,f,f
+1523,Q4326_거대 물 정령 퇴치 퀘스트 수락,t,809,SphereQuest,3,0,,68,f,f
+1524,Q4385_우두머리 독수리 퇴치 퀘스트 수락,t,810,SphereQuest,3,0,,68,f,f
+1525,Q4387_검은비늘 에키혼 퇴치 퀘스트 수락,t,811,SphereQuest,3,0,,68,f,f
+1526,Q4392_거대 불 정령 퇴치 퀘스트 수락,t,812,SphereQuest,3,0,,68,f,f
+1527,그림자의 매 시인,t,142,SphereSkill,3,20000,,21,f,f
+1528,Q3518_프라시미,t,509,SphereBubble,2,30000,,62,f,f
+1529,Q3520_바그바트,t,510,SphereBubble,2,30000,,62,f,f
+1530,Q3522_마가,t,511,SphereBubble,3,10000,,62,f,f
+1531,Q1066_대장장이,t,512,SphereBubble,2,60000,,21,f,f
+1532,Q1074_텐시르,t,513,SphereBubble,2,60000,,21,f,f
+1533,Q3523_드로비스,t,514,SphereBubble,2,60000,,62,f,f
+1534,NPC3413_상인 우바리,t,515,SphereBubble,3,1000,,21,f,f
+1535,Q4338_뼈 웅덩이,t,813,SphereQuest,3,0,,52,f,f
+1536,Q3656_손님의 대화01,t,516,SphereBubble,2,0,,14,f,f
+1537,Q3656_손님의 대화02,t,517,SphereBubble,3,5000,,14,f,f
+1538,Q3656_손님의 대화03,t,518,SphereBubble,3,5000,,14,f,f
+1539,Q3700_포병대장 와일드,t,519,SphereBubble,3,30000,,14,f,f
+1540,신의 채찍 토론 발동,t,143,SphereSkill,3,30000,,14,f,f
+1541,울음소리_마른들판,t,5,SphereSound,3,0,,23,f,f
+1542,탄새스의 붉은 솥,t,144,SphereSkill,3,10000,,14,f,f
+1543,타라의 안내,t,520,SphereBubble,3,30000,,14,f,f
+1544,손독 치료 안내,t,521,SphereBubble,3,30000,,14,f,f
+1545,낙하피해 방지,t,145,SphereSkill,3,0,,4,f,f
+1546,파괴의 요람_움직이는 석상_입구,t,146,SphereSkill,3,3000,,80,f,f
+1547,음흉한베어,t,522,SphereBubble,2,0,,24,f,f
+1550,Q329_사냥꾼대사,t,523,SphereBubble,2,0,,4,f,f
+1551,Q250_솔즈리드여우처치_나무꾼대사,t,524,SphereBubble,2,0,,4,f,f
+1552,칼바람폐광_철교무너짐영역,t,55,SphereDoodadInteract,3,500,,77,f,f
+1553,동모형,t,525,SphereBubble,1,0,,3,t,f
+1554,정숙,t,147,SphereSkill,3,0,정숙,10,f,t
+1555,보류_울부짖는_3단화살,t,148,SphereSkill,3,5000,,78,f,f
+1556,솔즈리드반도_로나,t,526,SphereBubble,2,0,,4,f,f
+1557,Q4445_첫걸음의 언덕 탐험,t,816,SphereQuest,2,0,,79,f,f
+1558,Q4446_화강암 채석장 언덕 탐험,t,817,SphereQuest,2,0,,79,f,f
+1559,Q4447_무지개 벌판의 큰 나무 오르기 탐험,t,818,SphereQuest,2,0,,79,f,f
+1560,Q4448_마른 별 쉼터 전망대 탐험,t,819,SphereQuest,2,0,,79,f,f
+1561,Q4449_마른 들판의 무지개 바위 탐험,t,820,SphereQuest,2,0,,79,f,f
+1562,Q4450_바오밥 나무 사이로,t,821,SphereQuest,2,0,,79,f,f
+1563,Q4451_뱀의 틈 지붕 탐험,t,822,SphereQuest,2,0,,79,f,f
+1564,울부짖는_무너지는 바닥,t,56,SphereDoodadInteract,3,10000,,78,f,f
+1565,Q4452_뱀의 틈 숨겨진 동굴 탐험,t,823,SphereQuest,2,0,,79,f,f
+1566,Q4453_너른 소매 마을 외곽 전망대 오르기,t,824,SphereQuest,2,0,,79,f,f
+1567,Q4454_바이암 소굴 산등성이 탐험,t,825,SphereQuest,2,0,,79,f,f
+1568,Q4455_요정의 은신처 탐험,t,826,SphereQuest,2,0,,79,f,f
+1569,Q4456_요정의 나무 꼭대기 오르기,t,827,SphereQuest,2,0,,79,f,f
+1570,Q4457_잊혀진 성 꼭대기 오르기,t,828,SphereQuest,2,0,,79,f,f
+1571,Q4458_초승달 왕좌의 분수대,t,829,SphereQuest,2,0,,79,f,f
+1572,Q4459_솔즈리언 문 정상 정복,t,830,SphereQuest,2,0,,79,f,f
+1573,Q4460_촌장의 집 오르기,t,831,SphereQuest,2,0,,79,f,f
+1574,Q4461_초승달 왕좌 동쪽 선착장 탐험,t,832,SphereQuest,2,0,,79,f,f
+1575,Q4462_우윳빛 강 마을의 폭포 뒷편 탐험,t,833,SphereQuest,2,0,,79,f,f
+1576,Q4463_폐광 탐험,t,834,SphereQuest,2,0,,79,f,f
+1577,Q4464_솔즈리드 수중 동굴 탐험,t,835,SphereQuest,2,0,,79,f,f
+1578,사라 프란델의 대사,t,527,SphereBubble,3,0,,6,f,f
+1579,모야 도허시,t,528,SphereBubble,2,0,,6,f,f
+1580,마리아노플저택_경비병의 행동,t,149,SphereSkill,3,0,,1,f,f
+1581,Q4467_하르파 수련장의 노래하는 바위 오르기,t,836,SphereQuest,2,0,,79,f,f
+1582,Q4468_하르파 수련장의 지붕 오르기,t,837,SphereQuest,2,0,,79,f,f
+1583,Q4469_숲의 인도자 나무 오르기,t,838,SphereQuest,2,0,,79,f,f
+1584,Q4470_세계수를 마주하는 자리,t,839,SphereQuest,2,0,,79,f,f
+1585,Q4471_세계수의 유적지 오르기,t,840,SphereQuest,2,0,,79,f,f
+1586,Q4472_그위오니드 석상 오르기,t,841,SphereQuest,2,0,,79,f,f
+1587,Q4473_제식 광장의 기둥 오르기,t,842,SphereQuest,2,0,,79,f,f
+1588,Q4474_잊혀진 신전 기둥 오르기,t,843,SphereQuest,2,0,,79,f,f
+1589,Q4475_가시덤불 탐험,t,844,SphereQuest,2,0,,79,f,f
+1590,Q4476_누온의 거리가 내려다 보이는 지붕 오르기,t,845,SphereQuest,2,0,,79,f,f
+1591,백월만_톰슨과 찰리,t,529,SphereBubble,2,0,,1,f,f
+1592,Q4480_파오 지붕 오르기,t,846,SphereQuest,2,0,,79,f,f
+1593,Q4481_눈사자 훈련소 지붕 오르기,t,847,SphereQuest,2,0,,79,f,f
+1594,Q4482_탄생의 절벽 오르기,t,848,SphereQuest,2,0,,79,f,f
+1595,Q4483_탄생의 절벽을 마주하는 봉우리 오르기,t,849,SphereQuest,2,0,,79,f,f
+1596,Q4484_낮의 눈 나무 오르기,t,850,SphereQuest,2,0,,79,f,f
+1597,Q4485_밤의 눈 오르기,t,851,SphereQuest,2,0,,79,f,f
+1598,Q4486_안개 동굴 탐험,t,852,SphereQuest,2,0,,79,f,f
+1599,Q4487_박쥐 동굴 탐험,t,853,SphereQuest,2,0,,79,f,f
+1600,Q4488_낮의 눈 절벽 탐험,t,854,SphereQuest,2,0,,79,f,f
+1601,Q4489_주거지역이 내려다 보이는 바위산 탐험,t,855,SphereQuest,2,0,,79,f,f
+1602,Q1320 헤넨 대사,t,530,SphereBubble,3,30000,,26,f,f
+1603,Q4491_남 데비강 상류 폭포 수원지 탐험,t,856,SphereQuest,2,0,,79,f,f
+1604,Q4492_제련소 지붕 오르기,t,857,SphereQuest,2,0,,79,f,f
+1605,Q4493_기계 제작 건물의 유독가스,t,858,SphereQuest,2,0,,79,f,f
+1606,Q4494_철광산 선로의 끝,t,859,SphereQuest,2,0,,79,f,f
+1607,Q4495_쇠모루 마을의 첨탐,t,860,SphereQuest,2,0,,79,f,f
+1608,Q4496_거미 나무 오르기,t,861,SphereQuest,2,0,,79,f,f
+1609,Q4497_기계 폐기장의 거대 톱니바퀴 오르기,t,862,SphereQuest,2,0,,79,f,f
+1610,Q4498_침묵하는 기계를 넘어서,t,863,SphereQuest,2,0,,79,f,f
+1611,Q4499_수정 호수의 부러진 나무 기둥,t,864,SphereQuest,2,0,,79,f,f
+1612,Q4500_호랑이 눈의 지붕,t,865,SphereQuest,2,0,,79,f,f
+1613,Q4501_호랑이 눈의 분수대 오르기,t,866,SphereQuest,2,0,,79,f,f
+1614,Q4502_할 하파의 잔영을 발견하다!,t,867,SphereQuest,2,0,,79,f,f
+1615,Q4504_북 데비강 상류 늪지대 나무 오르기,t,868,SphereQuest,2,0,,79,f,f
+1616,Q4505_북 데비강 상류 폭포 탐험,t,869,SphereQuest,2,0,,79,f,f
+1617,Q4506_코볼트 동굴의 천장 빈자리,t,870,SphereQuest,2,0,,79,f,f
+1618,Q4508_난파된 배 탐험,t,871,SphereQuest,2,0,,79,f,f
+1619,Q4509_초승달 항구의 선착장 아래 탐험,t,872,SphereQuest,2,0,,79,f,f
+1620,Q4510_바라기 마을의 망루 오르기,t,873,SphereQuest,2,0,,79,f,f
+1621,Q4511_부서진 조각상에 오르다,t,874,SphereQuest,2,0,,79,f,f
+1622,Q4512_부러진 고목의 흔적을 살피다,t,875,SphereQuest,2,0,,79,f,f
+1623,Q4513_탐험은 작은 바위에 오르는 것에서 시작 된다,t,876,SphereQuest,2,0,,79,f,f
+1624,Q4514_남의 집 지붕에 오르는 것도 탐험,t,877,SphereQuest,2,0,,1,f,f
+1625,Q4515_담장의 끝,t,878,SphereQuest,2,0,,79,f,f
+1626,Q4516_마른 별 쉼터가 내려다 보이는 바위 오르기,t,879,SphereQuest,2,0,,79,f,f
+1627,Q4517_황야가 내려다 보이는 커다란 바위 오르기,t,880,SphereQuest,2,0,,79,f,f
+1628,Q4520_초승달 왕좌가 내려다 보이는 언덕,t,881,SphereQuest,2,0,,79,f,f
+1629,Q4521_초심자의 언덕,t,882,SphereQuest,2,0,,79,f,f
+1630,Q4522_배아르 야영지가 내려다 보이는 바위,t,883,SphereQuest,2,0,,1,f,f
+1631,Q4523_금지된 유적의 흔적,t,884,SphereQuest,2,0,,79,f,f
+1632,Q4524_결투장 성곽의 끝,t,885,SphereQuest,2,0,,1,f,f
+1633,Q4525_선박의 뼈대 위,t,886,SphereQuest,2,0,,79,f,f
+1634,Q4526_초심자의 언덕,t,887,SphereQuest,2,0,,79,f,f
+1635,Q4527_탄생의 절벽 외딴 바위,t,888,SphereQuest,2,0,,79,f,f
+1636,Q4528_큰 매 바위 오르기,t,889,SphereQuest,2,0,,79,f,f
+1637,Q4529_밤의 눈 아래 서다,t,890,SphereQuest,2,0,,79,f,f
+1638,Q4530_시치미 약탈단 본거지 파오,t,891,SphereQuest,2,0,,79,f,f
+1639,Q4531_릴리엇 강 수원지의 숨겨진 비밀 장소 탐험,t,892,SphereQuest,2,0,,79,f,f
+1640,Q4532_무너진 성채의 망루,t,893,SphereQuest,2,0,,79,f,f
+1641,Q4533_무너진 성채의 성곽,t,894,SphereQuest,2,0,,79,f,f
+1642,Q4534_트록스크 산의 정상을 오르다,t,895,SphereQuest,2,0,,79,f,f
+1643,Q4535_론반 공작 성의 첨탑,t,896,SphereQuest,2,0,,79,f,f
+1644,Q4536_부서진 철로를 살피다,t,897,SphereQuest,2,0,,79,f,f
+1645,Q4537_버려진 공성병기,t,898,SphereQuest,2,0,,79,f,f
+1646,Q4538_바람그늘 마을의 풍차,t,899,SphereQuest,2,0,,79,f,f
+1647,Q4539_동 론반 광산의 높은 자리,t,900,SphereQuest,2,0,,79,f,f
+1648,Q4540_서 론반 광산 탐험,t,901,SphereQuest,2,0,,79,f,f
+1649,Q4547_거상의 꼭대기에 서다,t,902,SphereQuest,2,0,,79,f,f
+1650,Q4555_비행선 정거장 지붕에 오르다,t,903,SphereQuest,2,0,,79,f,f
+1651,Q4556_거석 꼭대기에 서다,t,904,SphereQuest,2,0,,79,f,f
+1652,Q4557_모래 먼지 마을의 거석 꼭대기,t,905,SphereQuest,2,0,,79,f,f
+1653,Q4558_바다의 거석 꼭대기,t,906,SphereQuest,2,0,,79,f,f
+1654,Q4559_핏빛안개 부족의 동굴 탐험,t,907,SphereQuest,2,0,,79,f,f
+1655,Q4560_거석 뒤에 공간 있어요,t,908,SphereQuest,2,0,,79,f,f
+1656,Q4561_모래 먼지 마을의 풍차 지붕에 오르다,t,909,SphereQuest,2,0,,79,f,f
+1657,Q4562_모래 먼지 마을의 숨겨진 다락방,t,910,SphereQuest,2,0,,79,f,f
+1658,Q4563_거대 골렘을 발 아래에 두다,t,911,SphereQuest,2,0,,79,f,f
+1659,상단 습격단 연출 ,t,150,SphereSkill,3,20000,,23,f,f
+1660,고바논 장군의 지시,t,531,SphereBubble,2,,,1,f,f
+1661,약수터 알리미,t,532,SphereBubble,2,0,,14,f,f
+1663,수상한 페레 무리,t,151,SphereSkill,3,0,,61,f,f
+1664,Q4594_여름잎 강의 수원지,t,912,SphereQuest,2,0,,79,f,f
+1665,Q4595_하얀 숲의 봉인석에 오르다,t,913,SphereQuest,2,0,,79,f,f
+1666,Q4596_누이 여신상의 머리에 오르는 불경함을 시험하다,t,914,SphereQuest,2,0,,79,f,f
+1667,Q4597_숲의 수호자 부락의 나선형 우물,t,915,SphereQuest,2,0,,79,f,f
+1668,Q4598_굳게 닫힌 저승의 문,t,916,SphereQuest,2,0,,79,f,f
+1669,Q4599_하얀숲 풍차의 꼭대기,t,917,SphereQuest,2,0,,79,f,f
+1670,Q4600_분열된 십자로의 비석,t,918,SphereQuest,2,0,,79,f,f
+1671,Q4601_붉은 이끼 동굴 탐험,t,919,SphereQuest,2,0,,79,f,f
+1672,Q4602_거대한 벌집에 올라가다,t,920,SphereQuest,2,0,,79,f,f
+1673,Q4603_크레타 바이저의 이상한 공작기계,t,921,SphereQuest,2,0,,79,f,f
+1674,Q4604_오스카 극단의 서커스 천막,t,922,SphereQuest,2,0,,79,f,f
+1675,Q4605_마리아노플의 하수도 탐험,t,923,SphereQuest,2,0,,79,f,f
+1676,Q4606_마리안의 전당 꼭대기,t,924,SphereQuest,2,0,,79,f,f
+1677,Q4607_수련의 탑 꼭대기,t,925,SphereQuest,2,0,,79,f,f
+1678,Q4608_마리아노플의 별 석상 머리 위를 오르다,t,926,SphereQuest,2,0,,79,f,f
+1679,Q4609_마리아노플 풍차의 꼭대기,t,927,SphereQuest,2,0,,79,f,f
+1680,Q4610_타인의 창고를 탐험(?)하다,t,928,SphereQuest,2,0,,79,f,f
+1681,Q4611_위어드윈드 저택의 지붕,t,929,SphereQuest,2,0,,79,f,f
+1682,Q4612_전망 좋은 자리,t,930,SphereQuest,2,0,,79,f,f
+1683,Q4613_은밀한 장소,t,931,SphereQuest,2,0,,79,f,f
+1684,Q4614_이즈나 하수도의 사자 석상,t,932,SphereQuest,2,0,,79,f,f
+1685,Q4615_누이 여신을 향한 다리,t,933,SphereQuest,2,0,,79,f,f
+1686,Q4616_이즈나의 비밀 정원,t,934,SphereQuest,2,0,,79,f,f
+1687,Q4619_이즈나 하수도 탐험,t,935,SphereQuest,2,0,,79,f,f
+1688,Q4626_파괴의 신 석상 발견,t,936,SphereQuest,2,0,,79,f,f
+1689,Q4627_초승달 바다의 작은 섬,t,937,SphereQuest,2,0,,79,f,f
+1690,Q4628_두 개의 탑,t,938,SphereQuest,2,0,,79,f,f
+1691,Q4629_바다에 잠긴 무너진 탑의 잔해를 살피다,t,939,SphereQuest,2,0,,79,f,f
+1692,Q4630_식량 창고 꼭대기,t,940,SphereQuest,2,0,,79,f,f
+1693,Q4631_이즈나 성 꼭대기,t,941,SphereQuest,2,0,,79,f,f
+1694,Q4632_이즈나 항구의 망루,t,942,SphereQuest,2,0,,79,f,f
+1695,Q4633_불경스러운 호기심,t,943,SphereQuest,2,0,,79,f,f
+1696,수상한 상단원 추가 대사,t,534,SphereBubble,3,15000,,23,f,f
+1697,상단 습격단 연출 B,t,152,SphereSkill,3,15000,,23,f,f
+1698,Q4636_성지기 언덕의 봉우리,t,944,SphereQuest,2,0,,79,f,f
+1699,Q4637_일식 벌판의 봉우리,t,945,SphereQuest,2,0,,79,f,f
+1700,Q4638_끓어 오르는 수중 분화구,t,946,SphereQuest,2,0,,79,f,f
+1701,Q4639_매마른 거목에 오르다,t,947,SphereQuest,2,0,,79,f,f
+1702,Q4640_타오르는 용암 연구소의 용광로 압축 제어장치,t,948,SphereQuest,2,0,,79,f,f
+1703,Q4641_시차일드 부두의 등대 꼭대기,t,949,SphereQuest,2,0,,79,f,f
+1704,Q4642_보름 분화구 용암석 채집기를 살피다,t,950,SphereQuest,2,0,,79,f,f
+1705,Q4643_뜨거운 용암의 중심에서 고통을 외치다,t,951,SphereQuest,2,0,,79,f,f
+1706,Q4644_불탄성 꼭대기,t,952,SphereQuest,2,0,,79,f,f
+1707,Q4645_백색 군도의 부서진 잔해,t,953,SphereQuest,2,0,,79,f,f
+1708,Q24_숲의 인도자를 위한 일,t,535,SphereBubble,3,0,,9,f,f
+1709,독 흔적 조사,t,954,SphereQuest,3,0,,8,f,f
+1710,Q4662_누이아진영_기억의 터,t,955,SphereQuest,3,0,,70,f,f
+1711,Q4663_누이아진영_초승달왕좌,t,956,SphereQuest,3,0,,70,f,f
+1712,Q4664_누이아진영_마리아노플,t,957,SphereQuest,3,0,,70,f,f
+1713,Q4665_누이아진영_오스테라,t,958,SphereQuest,3,0,,70,f,f
+1714,Q4666_하리하라진영_옥시언상단,t,959,SphereQuest,3,0,,70,f,f
+1715,Q4667_하리하라진영_너른소매마을,t,960,SphereQuest,3,0,,70,f,f
+1716,Q4668_하리하라진영_오스테라,t,961,SphereQuest,3,0,,70,f,f
+1717,Q4669_하리하라진영_초승달왕좌,t,962,SphereQuest,3,0,,70,f,f
+1718,수상한 농부,t,963,SphereQuest,3,0,,3,f,f
+1719,Q4670_수상 감옥 감시탑의 꼭대기,t,964,SphereQuest,2,0,,79,f,f
+1720,Q4671_수상 감옥의 망루,t,965,SphereQuest,2,0,,79,f,f
+1721,Q4672_양조장의 거대 풍차,t,966,SphereQuest,2,0,,79,f,f
+1722,Q4673_얼어 붙은 군량 저장고의 지붕,t,967,SphereQuest,2,0,,79,f,f
+1723,Q4674_다루의 집,t,968,SphereQuest,2,0,,79,f,f
+1724,Q4675_비행선 연구소의 기중기 끝에 서보다,t,969,SphereQuest,2,0,,79,f,f
+1725,Q4676_석상의 머리 위,t,970,SphereQuest,2,0,,79,f,f
+1726,Q4677_비행선의 머리 끝,t,971,SphereQuest,2,0,,79,f,f
+1727,Q4678_전사의 성 첨탑,t,972,SphereQuest,2,0,,79,f,f
+1728,Q4679_폭포수의 뒤편,t,973,SphereQuest,2,0,,79,f,f
+1729,Q4680_목 없는 누이 여신의 석상을 살피다,t,974,SphereQuest,2,0,,79,f,f
+1730,Q4681_부러진 거목,t,975,SphereQuest,2,0,,79,f,f
+1731,Q4682_벌집을 살피다,t,976,SphereQuest,2,0,,79,f,f
+1732,Q4683_악명의 골짜기 위,t,977,SphereQuest,2,0,,79,f,f
+1733,Q4684_거대한 늪지대 폭포 위,t,978,SphereQuest,2,0,,79,f,f
+1734,Q4685_고대 신앙자의 성 하수도,t,979,SphereQuest,2,0,,79,f,f
+1735,Q4686_고목에 핀 거대 버섯,t,980,SphereQuest,2,0,,79,f,f
+1736,Q4687_트리스테 극단의 마차 안,t,981,SphereQuest,2,0,,79,f,f
+1737,Q4688_오랑우탄 우리를 살피다,t,982,SphereQuest,2,0,,79,f,f
+1738,Q4689_늪지 거목의 줄기,t,983,SphereQuest,2,0,,79,f,f
+1739,Q4690_혼자 있어 외로운 자리,t,984,SphereQuest,2,0,,79,f,f
+1740,Q4691_비행선 바늘 꼭지,t,985,SphereQuest,2,0,,79,f,f
+1741,Q4692_마지막 계단,t,986,SphereQuest,2,0,,79,f,f
+1742,Q4693_군주의 사냥터 초소 안,t,987,SphereQuest,2,0,,79,f,f
+1743,Q4694_하늘 맞이 동굴,t,988,SphereQuest,2,0,,79,f,f
+1744,Q4695_황금 혀 항구의 등대,t,989,SphereQuest,2,0,,79,f,f
+1745,Q4696_황금 혀 항구의 노르예트 석상 머리 위,t,990,SphereQuest,2,0,,79,f,f
+1746,Q4697_대부호 토루스의 저택 수영장,t,991,SphereQuest,2,0,,79,f,f
+1747,Q4698_요정의 장막 나선 계단의 끝,t,992,SphereQuest,2,0,,79,f,f
+1748,Q4699_성벽의 중턱,t,993,SphereQuest,2,0,,79,f,f
+1749,Q4700_대부호 토루스의 저택 지붕,t,994,SphereQuest,2,0,,79,f,f
+1750,tutorial_01_talk_npc,t,536,SphereBubble,1,0,대상과 대화를 하려면 가까이 다가가 F키를 누르거나 마우스 오른쪽 버튼을 누릅니다.,1,f,t
+1751,Q4701_밀림의 폭포 뒷편,t,995,SphereQuest,2,0,,79,f,f
+1752,Q4702_마하데비 다리 아래,t,996,SphereQuest,2,0,,79,f,f
+1753,Q4703_마하데비 항구 폭포,t,997,SphereQuest,2,0,,79,f,f
+1754,Q4704_마하데비 항구 육지의 섬,t,998,SphereQuest,2,0,,79,f,f
+1755,Q4705_여왕의 궁을 발 아래에,t,999,SphereQuest,2,0,,79,f,f
+1756,Q4706_둥근 지붕,t,1000,SphereQuest,2,0,,79,f,f
+1757,Q4707_갈색 카펫,t,1001,SphereQuest,2,0,,79,f,f
+1758,Q4708_아스트라 동굴의 황금햇살,t,1002,SphereQuest,2,0,,79,f,f
+1759,Q4709_아스트라 동굴의 나무,t,1003,SphereQuest,2,0,,79,f,f
+1760,Q4710_아스트라 동굴의 정화수,t,1004,SphereQuest,2,0,,79,f,f
+1761,Q4711_마하데비 검문소 전망대 지붕,t,1005,SphereQuest,2,0,,79,f,f
+1762,Q4712_파비트라 대여제 전사지의 석상,t,1006,SphereQuest,2,0,,79,f,f
+1763,Q4713_햇무리 마을의 언덕,t,1007,SphereQuest,2,0,,79,f,f
+1764,Q4714_정령의 고원 남쪽 봉우리섬,t,1008,SphereQuest,2,0,,79,f,f
+1765,Q4715_금지된 해안의 꼭지,t,1009,SphereQuest,2,0,,1,f,f
+1766,Q4716_금지된 해안의 망루,t,1010,SphereQuest,2,0,,79,f,f
+1767,Q4717_금지된 해안의 뼛골,t,1011,SphereQuest,2,0,,79,f,f
+1768,Q4718_오스테라의 등대,t,1012,SphereQuest,2,0,,79,f,f
+1769,Q4719_시가지 공사장의 사자상,t,1013,SphereQuest,2,0,,79,f,f
+1770,Q4720_오스테라 극장의 지붕,t,1014,SphereQuest,2,0,,79,f,f
+1771,Q4721_비파 항구 첨탑,t,1015,SphereQuest,2,0,,79,f,f
+1772,Q4722_속삭이는 강의 뒤편,t,1016,SphereQuest,2,0,,79,f,f
+1773,Q4723_횃불만의 등대,t,1017,SphereQuest,2,0,,79,f,f
+1774,Q4724_재회의 사당 지붕,t,1018,SphereQuest,2,0,,79,f,f
+1775,Q4725_노래하는 계곡의 누각,t,1019,SphereQuest,2,0,,79,f,f
+1776,Q4726_비파 항구의 놀잇배,t,1020,SphereQuest,2,0,,79,f,f
+1777,Q4727_노래하는 강의 수원지,t,1021,SphereQuest,2,0,,79,f,f
+1778,Q4728_비파 항구의 바위섬,t,1022,SphereQuest,2,0,,79,f,f
+1779,Q4729_징병소의 지붕,t,1023,SphereQuest,2,0,,79,f,f
+1780,Q4730_술취한 논이 내려다 보이는 봉우리,t,1024,SphereQuest,2,0,,79,f,f
+1781,Q4731_고대의 숲의 신성한 나무 줄기,t,1025,SphereQuest,2,0,,79,f,f
+1782,Q4732_봉인의 돌이 만든 줄기,t,1026,SphereQuest,2,0,,79,f,f
+1783,Q4733_빈 나무 터의 의식 제단,t,1027,SphereQuest,2,0,,79,f,f
+1784,Q4734_오래된 왕릉의 부서진 지붕,t,1028,SphereQuest,2,0,,79,f,f
+1785,Q4735_침묵의 호수 창고 지붕,t,1029,SphereQuest,2,0,,79,f,f
+1786,Q4736_사냥꾼 마을의 나무집 정상,t,1030,SphereQuest,2,0,,79,f,f
+1787,Q4737_고대의 숲 사냥꾼 마을 집 지붕,t,1031,SphereQuest,2,0,,79,f,f
+1788,Q4738_말라 붙은 거목,t,1032,SphereQuest,2,0,,79,f,f
+1789,Q4739_호수의 섬,t,1033,SphereQuest,2,0,,79,f,f
+1790,Q4740_오래된 왕릉,t,1034,SphereQuest,2,0,,79,f,f
+1791,Q4741_고대의 비문,t,1035,SphereQuest,2,0,,79,f,f
+1792,의원 말라다스의 외침,t,537,SphereBubble,3,180000,,8,f,f
+1793,탄생의절벽_덩굴진입,t,57,SphereDoodadInteract,3,20000,,22,f,f
+1794,공포에질린어쥬니와터쥬니,t,538,SphereBubble,2,0,,22,f,f
+1795,Q4743_오페라 극장,t,1036,SphereQuest,2,0,,79,f,f
+1796,Q4744_이니스테르 망루,t,1037,SphereQuest,2,0,,79,f,f
+1797,Q4745_스톨텐베르그 성채의 망루,t,1038,SphereQuest,2,0,,79,f,f
+1798,Q4747_염원의 강 폭포수,t,1039,SphereQuest,2,0,,79,f,f
+1799,공짜음료 데이지,t,539,SphereBubble,3,0,,4,f,f
+1800,Q4748_루비 광산촌의 성곽 망루,t,1040,SphereQuest,2,0,,79,f,f
+1801,Q4749_루비 광산을 내려다 보다,t,1041,SphereQuest,2,0,,79,f,f
+1802,Q4750_건널 수 없는 해협의 소용돌이,t,1042,SphereQuest,2,0,,79,f,f
+1803,tutorial_02_save_portal,t,540,SphereBubble,3,60000,,1,f,f
+1804,Q4751_고인돌의 머리,t,1043,SphereQuest,2,0,,79,f,f
+1805,Q4752_의식의 탑 꼭대기,t,1044,SphereQuest,2,0,,79,f,f
+1806,Q4753_악마의 탑 위에 서다,t,1045,SphereQuest,2,0,,79,f,f
+1807,Q4754_로카 제 3봉 정복,t,1046,SphereQuest,2,0,,79,f,f
+1808,Q4755_로카 제 2봉 정복,t,1047,SphereQuest,2,0,,79,f,f
+1809,Q4756_로카 제 1봉 정복,t,1048,SphereQuest,2,0,,79,f,f
+1810,Q4757_수련의 동굴,t,1049,SphereQuest,2,0,,79,f,f
+1811,Q4758_암흑 갈기 오크 부락이 내려다 보이는 언덕,t,1050,SphereQuest,2,0,,79,f,f
+1812,Q4759_외딴 산 봉우리,t,1051,SphereQuest,2,0,,79,f,f
+1813,Q4760_로카의 협곡,t,1052,SphereQuest,2,0,,79,f,f
+1814,Q4761_장기말 중턱,t,1053,SphereQuest,2,0,,79,f,f
+1815,Q4762_왕의 기둥의 기운을 받다,t,1054,SphereQuest,1,0,,79,f,f
+1816,Q4763_장기말에 오르다,t,1055,SphereQuest,2,0,,79,f,f
+1817,Q4764_로카강의 폭포수,t,1056,SphereQuest,2,0,,79,f,f
+1818,Q4765_초원의 주춧돌,t,1057,SphereQuest,2,0,,79,f,f
+1819,Q4766_초원의 심장 중심부,t,1058,SphereQuest,2,0,,79,f,f
+1820,Q4767_해그림자 회합터의 바람 지붕,t,1059,SphereQuest,2,0,,79,f,f
+1821,Q4768_눈사자 바위 머리,t,1060,SphereQuest,2,0,,79,f,f
+1822,Q4769_눈사자 바위의 비밀 통로,t,1061,SphereQuest,2,0,,79,f,f
+1823,Q4770_눈사자 바위의 숨겨진 공간,t,1062,SphereQuest,2,0,,79,f,f
+1824,Q4771_뚱뚱한 바오밥 나무 위,t,1063,SphereQuest,2,0,,79,f,f
+1825,Q4772_거대 바오밥 나무의 줄기,t,1064,SphereQuest,2,0,,79,f,f
+1826,tutorial_03_metropolis,t,541,SphereBubble,1,,,1,f,f
+1827,Q4774_바람돌 위에 서다,t,1065,SphereQuest,2,0,,79,f,f
+1828,Q4777_습격당한 짐마차,t,1066,SphereQuest,1,0,,23,f,f
+1830,수다쟁이 파리시의 수다1,t,543,SphereBubble,2,0,,4,f,f
+1831,솔즈리드반도_수다쟁이2,f,544,SphereBubble,3,0,,4,f,f
+1832,숲지기 알터의 사랑,t,545,SphereBubble,2,0,,4,f,f
+1833,아카눈의 방울방울,t,153,SphereSkill,3,3000,,4,f,f
+1834,울부짖는_함정발동,t,58,SphereDoodadInteract,3,10000,,78,f,f
+1835,스콧의 영혼 등장,t,154,SphereSkill,3,50000,,3,f,f
+1836,칼바람폐광 떨어지는 종유석 50011,t,59,SphereDoodadInteract,3,1000,,77,f,f
+1837,칼바람폐광 떨어지는 종유석 50012,t,60,SphereDoodadInteract,3,1000,,77,f,f
+1838,칼바람폐광 떨어지는 종유석 50013,t,61,SphereDoodadInteract,3,1000,,77,f,f
+1839,칼바람폐광 떨어지는 종유석 50014,t,62,SphereDoodadInteract,3,1000,,77,f,f
+1840,칼바람폐광 떨어지는 종유석 50015,t,63,SphereDoodadInteract,3,1000,,77,f,f
+1841,칼바람폐광 떨어지는 종유석 50016,t,64,SphereDoodadInteract,3,1000,,77,f,f
+1842,칼바람폐광 떨어지는 종유석 50017,t,65,SphereDoodadInteract,3,1000,,77,f,f
+1843,칼바람폐광 떨어지는 종유석 50018,t,66,SphereDoodadInteract,3,1000,,77,f,f
+1844,칼바람폐광 파괴되는 종유석 50019,t,67,SphereDoodadInteract,3,1000,,77,f,f
+1845,칼바람폐광 파괴되는 종유석 50020,t,68,SphereDoodadInteract,3,1000,,77,f,f
+1846,칼바람폐광 파괴되는 종유석 50021,t,69,SphereDoodadInteract,3,1000,,77,f,f
+1847,칼바람폐광 파괴되는 종유석 50022,t,70,SphereDoodadInteract,3,1000,,77,f,f
+1848,매사냥고원_바람돌,t,546,SphereBubble,2,0,,22,f,f
+1849,Q4801_전설의 흔적이 남아 있는 은밀한 동굴,t,1067,SphereQuest,2,0,,79,f,f
+1850,Q4802_작은 섬의 오두막,t,1068,SphereQuest,2,0,,79,f,f
+1851,Q4803_누이 여신의 자애로움이 머무는 작은 섬,t,1069,SphereQuest,2,0,,79,f,f
+1852,Q4804_작은 바위섬,t,1070,SphereQuest,2,0,,79,f,f
+1853,Q4805_이즈나의 작은 바위섬,t,1071,SphereQuest,3,0,,79,f,f
+1854,Q4806_인적 없는 바위섬,t,1072,SphereQuest,2,0,,79,f,f
+1855,Q4807_아담한 산호섬,t,1073,SphereQuest,2,0,,79,f,f
+1856,Q4808_홀로 선 섬의 작은 이웃,t,1074,SphereQuest,2,0,,79,f,f
+1857,Q4809_홀로 선 섬의 정상,t,1075,SphereQuest,2,0,,79,f,f
+1858,Q4810_홀로 선 섬을 부정한 자들의 처형대,t,1076,SphereQuest,2,0,,79,f,f
+1859,Q4811_타타닉 호의 흔적 발견,t,1077,SphereQuest,2,0,,79,f,f
+1860,Q4812_가랑돌 평원을 바라보는 바위섬,t,1078,SphereQuest,2,0,,79,f,f
+1861,Q4813_산호섬의 높은 바위,t,1079,SphereQuest,1,0,,79,f,f
+1862,Q4814_주상절리에 서서 대양을 바라보다,t,1080,SphereQuest,2,0,,79,f,f
+1863,Q4815_대양의 주상절리,t,1081,SphereQuest,2,0,,79,f,f
+1864,Q4816_원대륙의 작은 섬,t,1082,SphereQuest,2,0,,79,f,f
+1865,Q4817_해적 소굴의 꼭대기,t,1083,SphereQuest,2,0,,79,f,f
+1866,Q4818_해적 소굴의 탑 중턱,t,1084,SphereQuest,2,0,,79,f,f
+1867,Q4819_모르페우스의 해적선 망루,t,1085,SphereQuest,2,0,,79,f,f
+1868,Q4820_해적 소굴의 인질 감옥,t,1086,SphereQuest,2,0,,79,f,f
+1869,Q4821_해적 소굴의 샹드리에,t,1087,SphereQuest,2,0,,79,f,f
+1870,Q4822_해적 소굴의 옛 흔적,t,1088,SphereQuest,2,0,,79,f,f
+1871,Q4823_해적 소굴의 가로막힌 통로,t,1089,SphereQuest,2,0,,79,f,f
+1872,Q4824_으르렁거리는 섬을 마주하는 작은 바위섬,t,1090,SphereQuest,2,0,,79,f,f
+1873,Q4825_이니스 섬을 바라보는 작은 바위섬,t,1091,SphereQuest,2,0,,79,f,f
+1874,Q4826_누군가의 흔적이 느껴지는 무인도,t,1092,SphereQuest,2,0,,79,f,f
+1875,Q4827_자유도의 크고 아름답게 솟아오른 봉우리,t,1093,SphereQuest,2,0,,79,f,f
+1876,Q4828_자유도의 봉우리,t,1094,SphereQuest,2,0,,79,f,f
+1877,Q4829_수중 동굴이 있을 것 같지만 없는 바위 틈,t,1095,SphereQuest,2,0,,79,f,f
+1878,마리아노플도시_사건현장,t,155,SphereSkill,2,0,,10,f,f
+1879,마리아노플도시_감옥앞,t,156,SphereSkill,2,0,,10,t,f
+1880,릴리엇 구릉지 다후타의 설교,t,547,SphereBubble,3,120000,,24,f,f
+1881,뱀의 틈 해골 소환,t,157,SphereSkill,3,60000,,23,f,f
+1882,피 묻은 손 포로를 감시하는 눈,t,158,SphereSkill,3,50000,,3,f,f
+1883,Q1116_푯말퀘스트대사,t,548,SphereBubble,2,0,,23,f,f
+1884,마리안의 비명,t,549,SphereBubble,3,300000,,3,f,f
+1885,싱켈트 주변,t,550,SphereBubble,3,200000,,61,f,f
+1886,아샤벨 주변,t,551,SphereBubble,3,200000,,62,f,f
+1887,에리크 주변,t,552,SphereBubble,3,200000,,62,f,f
+1888,아샤벨 주변,t,159,SphereSkill,3,200000,,62,f,f
+1889,살피라 신전 하나,t,160,SphereSkill,3,0,200000,62,f,t
+1890,살피라 신전 둘,t,161,SphereSkill,3,0,200000,62,f,t
+1891,살피라 신전 셋,t,162,SphereSkill,3,0,200000,62,f,t
+1892,dummy,t,163,SphereSkill,3,0,200000,1,f,t
+1893,황금평원 전사의성 밭,t,1096,SphereQuest,3,0,,33,f,f
+1894,파괴의 요람 떨어지는 종유석 80011,t,71,SphereDoodadInteract,3,1000,,80,f,f
+1895,파괴의 요람 떨어지는 종유석 80012,t,72,SphereDoodadInteract,3,1000,,80,f,f
+1896,파괴의 요람 떨어지는 종유석 80013,t,73,SphereDoodadInteract,3,1000,,80,f,f
+1897,파괴의 요람 떨어지는 종유석 80014,t,74,SphereDoodadInteract,3,1000,,80,f,f
+1898,파괴의 요람 떨어지는 종유석 80015,t,75,SphereDoodadInteract,3,1000,,80,f,f
+1899,파괴의 요람 떨어지는 종유석 80016,t,76,SphereDoodadInteract,3,1000,,80,f,f
+1900,파괴의 요람 떨어지는 종유석 80017,t,77,SphereDoodadInteract,3,1000,,80,f,f
+1901,파괴의 요람 떨어지는 종유석 80018,t,78,SphereDoodadInteract,3,1000,,80,f,f
+1902,파괴의 요람 떨어지는 종유석 80019,t,79,SphereDoodadInteract,3,1000,,80,f,f
+1903,파괴의 요람 떨어지는 종유석 80020,t,80,SphereDoodadInteract,3,1000,,80,f,f
+1904,파괴의 요람 떨어지는 종유석 80021,t,81,SphereDoodadInteract,3,1000,,80,f,f
+1905,파괴의 요람 떨어지는 종유석 80022,t,82,SphereDoodadInteract,3,1000,,80,f,f
+1906,파괴의 요람 떨어지는 종유석 80023,t,83,SphereDoodadInteract,3,1000,,80,f,f
+1907,파괴의 요람 떨어지는 종유석 80024,t,84,SphereDoodadInteract,3,1000,,80,f,f
+1908,파괴의 요람 떨어지는 종유석 80025,t,85,SphereDoodadInteract,3,1000,,80,f,f
+1909,파괴의 요람 떨어지는 종유석 80026,t,86,SphereDoodadInteract,3,1000,,80,f,f
+1910,파괴의 요람 떨어지는 종유석 80027,t,87,SphereDoodadInteract,3,1000,,80,f,f
+1911,파괴의 요람 떨어지는 종유석 80028,t,88,SphereDoodadInteract,3,1000,,80,f,f
+1912,파괴의 요람 떨어지는 종유석 80029,t,89,SphereDoodadInteract,3,1000,,80,f,f
+1913,파괴의 요람 떨어지는 종유석 80030,t,90,SphereDoodadInteract,3,1000,,80,f,f
+1914,파괴의 요람 떨어지는 종유석 80031,t,91,SphereDoodadInteract,3,1000,,80,f,f
+1915,파괴의 요람 떨어지는 종유석 80032,t,92,SphereDoodadInteract,3,1000,,80,f,f
+1916,파괴의 요람 떨어지는 종유석 80033,t,93,SphereDoodadInteract,3,1000,,80,f,f
+1917,파괴의 요람 떨어지는 종유석 80034,t,94,SphereDoodadInteract,3,1000,,80,f,f
+1918,파괴의 요람 떨어지는 종유석 80035,t,95,SphereDoodadInteract,3,1000,,80,f,f
+1919,파괴의 요람 떨어지는 종유석 80036,t,96,SphereDoodadInteract,3,1000,,80,f,f
+1920,파괴의 요람 떨어지는 종유석 80037,t,97,SphereDoodadInteract,3,1000,,80,f,f
+1921,파괴의 요람 떨어지는 종유석 80039,t,98,SphereDoodadInteract,3,1000,,80,f,f
+1922,파괴의 요람 떨어지는 종유석 80040,t,99,SphereDoodadInteract,3,1000,,80,f,f
+1923,파괴의 요람 떨어지는 종유석 80041,t,100,SphereDoodadInteract,3,1000,,80,f,f
+1924,파괴의 요람 떨어지는 종유석 80042,t,101,SphereDoodadInteract,3,1000,,80,f,f
+1925,루크의 이동,t,553,SphereBubble,1,0,,45,f,f
+1926,루크의 인터랙션,t,554,SphereBubble,1,0,,45,f,f
+1927,루크의 연계기,t,555,SphereBubble,1,0,,45,f,f
+1928,루크의 덩굴(페레),t,556,SphereBubble,1,0,,45,f,f
+1929,루크의 노동력,t,557,SphereBubble,1,0,,45,f,f
+1930,루크의 퀘스트두다드,t,558,SphereBubble,1,0,,45,f,f
+1931,루크의 전투방법,t,559,SphereBubble,1,0,,45,f,f
+1932,루크의 공간기록서,t,560,SphereBubble,1,0,,45,f,f
+1933,루크 소환,t,164,SphereSkill,3,30000,,45,f,f
+1934,Q4862_drop_Backpack,t,165,SphereSkill,3,3000,,21,f,f
+1935,루크의 능력 변경,t,561,SphereBubble,1,0,,45,f,f
+1936,루크의 말부활,t,562,SphereBubble,1,0,,45,f,f
+1937,루크의 나무타기,t,563,SphereBubble,1,0,,45,f,f
+1938,루크의 말성장,t,564,SphereBubble,1,0,,45,t,f
+1939,루크의 우편함,t,565,SphereBubble,1,0,,45,f,f
+1940,배심원자격_증인자라만나기,t,566,SphereBubble,2,0,,14,f,f
+1941,루크의 날틀(매사냥),t,567,SphereBubble,1,0,,45,f,f
+1942,루크의 물뜨기,t,568,SphereBubble,1,0,,45,f,f
+1943,오스테라밖_수상한경비병,t,166,SphereSkill,2,0,,14,f,f
+1944,아노의 배 폭포 데미지,t,167,SphereSkill,2,0,폭포 아래로 배가 떨어집니다.,24,f,t
+1945,서방 이슈바라 맨홀 열림,t,102,SphereDoodadInteract,3,32900,,1,f,f
+1946,울부짖는_이벤트1_고드프리,t,168,SphereSkill,3,60000,,78,f,f
+1947,울부짖는_죽어가는병사의외침,t,169,SphereSkill,3,20000,,78,f,f
+1948,루크의 날틀,t,569,SphereBubble,1,0,,45,f,f
+1949,루크의 신기루섬,t,570,SphereBubble,1,0,,45,f,f
+1950,칼바람폐광 떨어지는 바위 50023,t,103,SphereDoodadInteract,3,1000,,77,f,f
+1951,4879_A,t,571,SphereBubble,1,3000,,23,f,f
+1952,4879_B,t,572,SphereBubble,1,3000,,23,f,f
+1953,울부짖는_이벤트2_마리우스,t,170,SphereSkill,3,40000,,78,f,f
+1954,칼바람폐광_알리스테어0_ai트리거,t,171,SphereSkill,3,1000,,77,f,f
+1955,칼바람폐광_알리스테어1_ai트리거,t,172,SphereSkill,3,1000,,77,f,f
+1957,루크 저승의 돌_및 공간 기억서,t,574,SphereBubble,1,0,,45,f,f
+1958,횃불을 만드는 이유,t,575,SphereBubble,1,60000,,26,f,f
+1959,총독의 심기 불편,t,576,SphereBubble,3,200000,,62,f,f
+1960,횃불을 만드는 이유_02,t,577,SphereBubble,1,60000,,26,f,f
+1961,천둥 장치,t,578,SphereBubble,2,0,,23,f,f
+1962,루크의 사다리(무지개),t,579,SphereBubble,2,0,,45,f,f
+1963,울부짖는_컷씬,t,173,SphereSkill,3,30000,,78,f,f
+1964,칼바람폐광_알리스테어1_1_ai트리거,t,174,SphereSkill,3,1000,,77,f,f
+1965,칼바람폐광_스폰노예3_ai트리거,t,175,SphereSkill,3,1000,,77,f,f
+1966,칼바람폐광_스폰노예4_ai트리거,t,176,SphereSkill,3,1000,,77,f,f
+1967,칼바람폐광_스폰노예5_ai트리거,t,177,SphereSkill,3,1000,,77,f,f
+1968,칼바람폐광_스폰노예6_ai트리거,t,178,SphereSkill,3,1000,,77,f,f
+1969,파괴의 요람_메타모제 컷씬 발동,t,179,SphereSkill,3,3000,,80,f,f
+1970,가젤 점프,t,180,SphereSkill,1,0,,23,f,f
+1971,토끼야 도망가,t,181,SphereSkill,3,0,,9,f,f
+1976,양자 토론 발동,t,183,SphereSkill,2,0,,10,f,f
+1977,파괴의 요람 시라누스 방 진입시 npc연출 시작,t,184,SphereSkill,3,3000,,80,f,f
+1978,Q2069_사랑의 화원,t,1097,SphereQuest,3,0,,26,f,f
+1980,파괴의 요람_카림연출트리거,t,185,SphereSkill,3,1000,,80,f,f
+1981,저주받은습지_노랫소리가들리는오두막,t,6,SphereSound,3,0,,54,f,f
+1982,튜토리얼_2585_솔즈리드,t,1098,SphereQuest,3,0,,45,f,f
+1983,튜토리얼_2587_솔즈리드,t,1099,SphereQuest,3,0,,45,f,f
+1984,튜토리얼_2588_솔즈리드,f,1100,SphereQuest,3,0,,45,f,f
+1985,튜토리얼_2610_솔즈리드,t,1101,SphereQuest,1,0,,45,f,f
+1986,튜토리얼_2611_솔즈리드,f,1102,SphereQuest,3,0,,45,f,f
+1987,튜토리얼_2615_솔즈리드,f,1103,SphereQuest,3,0,,45,f,f
+1988,튜토리얼_2607_솔즈리드,t,1104,SphereQuest,3,0,,45,f,f
+1989,튜토리얼_2608_솔즈리드,f,1105,SphereQuest,1,0,,45,f,f
+1990,튜토리얼_2613_릴리엇,f,1106,SphereQuest,3,0,,45,f,f
+1991,튜토리얼_2615_가랑돌,f,1107,SphereQuest,3,0,,45,f,f
+1992,튜토리얼_2585_그위오니드,t,1108,SphereQuest,3,0,,45,f,f
+1993,튜토리얼_2587_그위오니드,t,1109,SphereQuest,3,0,,45,f,f
+1994,튜토리얼_2588_그위오니드,f,1110,SphereQuest,3,0,,45,f,f
+1995,튜토리얼_2607_그위오니드,t,1111,SphereQuest,3,0,,45,f,f
+1996,튜토리얼_2608_그위오니드,f,1112,SphereQuest,3,0,,45,f,f
+1997,튜토리얼_2610_그위오니드,t,1113,SphereQuest,3,0,,45,f,f
+1998,튜토리얼_2611_그위오니드,f,1114,SphereQuest,3,0,,45,f,f
+1999,튜토리얼_2585_무지개,t,1115,SphereQuest,3,0,,45,f,f
+2000,튜토리얼_2587_무지개,t,1116,SphereQuest,3,0,,45,f,f
+2001,튜토리얼_2588_무지개,f,1117,SphereQuest,3,0,,45,f,f
+2002,튜토리얼_2607_무지개,t,1118,SphereQuest,3,0,,45,f,f
+2003,튜토리얼_2608_무지개,f,1119,SphereQuest,3,0,,45,f,f
+2004,튜토리얼_2610_무지개,t,1120,SphereQuest,3,0,,45,f,f
+2005,튜토리얼_2611_무지개,f,1121,SphereQuest,3,0,,45,f,f
+2006,튜토리얼_2613_호랑이,f,1122,SphereQuest,3,0,,45,f,f
+2007,튜토리얼_2615_마하데비,f,1123,SphereQuest,3,0,,45,f,f
+2008,튜토리얼_2585_매사냥,t,1124,SphereQuest,3,0,,45,f,f
+2009,튜토리얼_2587_매사냥,t,1125,SphereQuest,3,0,,45,f,f
+2010,튜토리얼_2588_매사냥,f,1126,SphereQuest,3,0,,45,f,f
+2011,튜토리얼_2607_매사냥,t,1127,SphereQuest,3,0,,45,f,f
+2012,튜토리얼_2608_매사냥,f,1128,SphereQuest,3,0,,45,f,f
+2013,튜토리얼_2610_매사냥,t,1129,SphereQuest,3,0,,45,f,f
+2014,튜토리얼_2611_매사냥,f,1130,SphereQuest,3,0,,45,f,f
+2015,엠마의 대사,t,584,SphereBubble,1,0,,1,f,f
+2018,Q4312_메마른 대지에도 꽃은 피는가,t,1132,SphereQuest,3,0,,68,f,f
+2019,Q4317_떠도는 영혼의 안식,t,1133,SphereQuest,3,0,,68,f,f
+2020,Q4376_생명의 등가교환,t,1134,SphereQuest,3,0,,68,f,f
+2021,Q4901_마일즈가 연구 중인 선돌,t,1135,SphereQuest,2,0,,79,f,f
+2022,Q4902_선돌 연구자의 집 방문,t,1136,SphereQuest,2,0,,79,f,f
+2023,Q4903_아이들의 비밀장소,t,1137,SphereQuest,2,0,,79,f,f
+2024,Q4904_고요한 숲의 주인,t,1138,SphereQuest,2,0,,79,f,f
+2025,Q4905_영매의 거처 내부,t,1139,SphereQuest,2,0,,1,f,f
+2026,Q4906_고대 선주민의 흔적,t,1140,SphereQuest,2,0,,79,f,f
+2027,Q4907_푸른 소금 상회 본거지,t,1141,SphereQuest,2,0,,79,f,f
+2028,베로에 입구,t,586,SphereBubble,3,0,,59,f,f
+2029,Q4908_베어의 집,t,1142,SphereQuest,2,0,,79,f,f
+2030,Q4909_다후타 교단 점거지,t,1143,SphereQuest,2,0,,79,f,f
+2031,Q4910_마른 들판의 작은 웅덩이,t,1144,SphereQuest,2,0,,79,f,f
+2032,Q4911_너른 소매 마을 웅덩이의 작은 돌 위,t,1145,SphereQuest,2,0,,79,f,f
+2033,Q4912_모레 일가의 야영지,t,1146,SphereQuest,2,0,,79,f,f
+2034,Q4913_마하데비행 비행선 타는 곳,t,1147,SphereQuest,1,0,,79,f,f
+2035,Q4915_잿빛안개 부락의 굽은 나무,t,1148,SphereQuest,2,0,,79,f,f
+2036,Q4916_눈사자 훈련소 방문,t,1149,SphereQuest,2,0,,79,f,f
+2037,Q4917_공용 농장의 커다란 나무통,t,1150,SphereQuest,2,0,,79,f,f
+2038,Q4918_불꽃 매 협곡의 자연 굴길,t,1151,SphereQuest,2,0,,79,f,f
+2039,Q4919_길든 야타가 머무는 곳,t,1152,SphereQuest,2,0,,79,f,f
+2040,Q3405_비취 계곡의 정령 소환,t,186,SphereSkill,3,0,,59,f,f
+2041,Q4946_급류의 시작,t,1153,SphereQuest,2,0,,79,f,f
+2042,Q4947_황혼 노을 부락 아래 쌍둥이 폭포,t,1154,SphereQuest,2,0,,79,f,f
+2043,Q4948_아카네스 학파의 땅 벌레 양육지,t,1155,SphereQuest,2,0,,79,f,f
+2044,Q4949_초원의 띠 비행장의 지붕,t,1156,SphereQuest,2,0,,79,f,f
+2045,Q4950_풀바람 초원의 한적한 큰 바위,t,1157,SphereQuest,2,0,,79,f,f
+2046,Q4951_로카강의 맷돌 바위,t,1158,SphereQuest,2,0,,79,f,f
+2047,Q4952_황금비늘 정원의 지붕 위,t,1159,SphereQuest,2,0,,79,f,f
+2048,Q4953_처형대 아래 좁은 틈사이,t,1160,SphereQuest,2,0,,79,f,f
+2049,Q4954_폐허 도시의 버려진 석상 어깨 위,t,1161,SphereQuest,2,0,,79,f,f
+2050,Q4955_궁전 폐허 꼭대기,t,1162,SphereQuest,2,0,,79,f,f
+2051,Q4956_폐허에 남겨진 거대 석상 위,t,1163,SphereQuest,2,0,,79,f,f
+2052,Q4957_석공 마을의 큼직한 짐승 우리,t,1164,SphereQuest,2,0,,79,f,f
+2053,Q4958_가루다 서식지의 뾰족 바위,t,1165,SphereQuest,2,0,,79,f,f
+2054,Q4959_전하의 탑 지붕 모서리,t,1166,SphereQuest,2,0,,79,f,f
+2055,Q4960_폐허 도시가 내려다 보이는 언덕,t,1167,SphereQuest,2,0,,79,f,f
+2056,Q4961_고고학자 마을의 감시탑,t,1168,SphereQuest,2,0,,79,f,f
+2057,Q4962_옛 처형터의 폭포 시작지,t,1169,SphereQuest,2,0,,79,f,f
+2058,Q4963_연극 무대로 사용되는 옛 유적 지붕,t,1170,SphereQuest,2,0,,79,f,f
+2059,Q4964_옛 제국의 석상 위,t,1171,SphereQuest,2,0,,79,f,f
+2060,수행자의 동굴,t,187,SphereSkill,3,0,,52,f,f
+2061,북쪽 신하의 기둥 설명,t,587,SphereBubble,2,0,,52,f,f
+2062,왕의 기둥 설명,t,588,SphereBubble,2,0,,52,f,f
+2063,남쪽 신하의 기둥 설명,t,589,SphereBubble,2,0,,52,f,f
+2064,바람의 봉인석,t,1172,SphereQuest,3,0,,52,f,f
+2065,Q4968_로즈엔드 삼거리 감시 초소,t,1173,SphereQuest,2,0,,79,f,f
+2066,Q4969_들소몰이 벌판 저수지의 메마른 나무,t,1174,SphereQuest,2,0,,79,f,f
+2067,Q4970_위태위태한 바위 위,t,1175,SphereQuest,2,0,,79,f,f
+2068,Q4971_돌을 위한 연회장의 돌 틈 사이,t,1176,SphereQuest,2,0,,79,f,f
+2069,Q4972_과수원 오두막,t,1177,SphereQuest,2,0,,79,f,f
+2070,Q4973_버려진 짐수레,t,1178,SphereQuest,2,0,,79,f,f
+2071,Q4974_리네리프의 아늑한 이층집,t,1179,SphereQuest,2,0,,79,f,f
+2072,Q4975_축축한 관리인 초소의 빨래,t,1180,SphereQuest,2,0,,79,f,f
+2073,Q4976_정원의 아름다운 정자,t,1181,SphereQuest,2,0,,79,f,f
+2074,Q4977_삼거리 감시탑,t,1182,SphereQuest,2,0,,79,f,f
+2075,Q4978_악마 전쟁 종료 위령비,t,1183,SphereQuest,2,0,,79,f,f
+2076,Q4979_불탄성 감시 야영지의 감시탑,t,1184,SphereQuest,2,0,,79,f,f
+2077,Q4980_생명력이 끈질긴 나무,t,1185,SphereQuest,2,0,,79,f,f
+2078,Q4981_피 묻은 손 감독관의 숙소,t,1186,SphereQuest,2,0,,79,f,f
+2079,Q4982_음유시인의 집,t,1187,SphereQuest,2,0,,79,f,f
+2080,Q4983_해오름 마을의 곡식 저장고,t,1188,SphereQuest,2,0,,79,f,f
+2081,Q4984_탈환 작전지의 훈련용 공성 사다리차,t,1189,SphereQuest,2,0,,79,f,f
+2082,Q4985_촌장 집 내부의 수상한 얼룩,t,1190,SphereQuest,2,0,,79,f,f
+2083,Q4986_화장터 소각로 뒤편,t,1191,SphereQuest,2,0,,79,f,f
+2084,Q4987_해적선의 조타 장치,t,1192,SphereQuest,2,0,,79,f,f
+2085,Q4988_마틸다 트리스테의 간이 응접실,t,1193,SphereQuest,2,0,,79,f,f
+2086,Q4989_벤틀라의 집,t,1194,SphereQuest,2,0,,79,f,f
+2087,Q4990_잭 다이얼의 침대,t,1195,SphereQuest,2,0,,79,f,f
+2088,Q4991_떠나는 비행선을 배웅하는 곳,t,1196,SphereQuest,2,0,,79,f,f
+2089,Q4992_채석장의 숨겨진 지름길,t,1197,SphereQuest,2,0,,79,f,f
+2090,Q4993_약초 농장의 탁한 연못,t,1198,SphereQuest,2,0,,79,f,f
+2091,Q4994_뿜어져 나오는 온천수,t,1199,SphereQuest,2,0,,79,f,f
+2092,Q4995_파비트라 대여제 기념비에서 바라보는 바다 경관,t,1200,SphereQuest,2,0,,79,f,f
+2093,Q4996_여행자의 샘 이층집 지붕 위,t,1201,SphereQuest,2,0,,79,f,f
+2094,Q4997_콰우의 침대,t,1202,SphereQuest,2,0,,79,f,f
+2095,Q4998_비파 교습소 내부,t,1203,SphereQuest,2,0,,79,f,f
+2096,Q4999_빈 술통 보관하는 곳,t,1204,SphereQuest,2,0,,79,f,f
+2097,Q5000_침묵의 호수 파비트라 대여제 기념비 뒤편,t,1205,SphereQuest,2,0,,79,f,f
+2098,Q5001_백작의 영애를 위한 간소한 간식상,t,1206,SphereQuest,2,0,,79,f,f
+2099,Q5002_리리가 점찍어둔 당신의 백합 자리,t,1207,SphereQuest,2,0,,79,f,f
+2100,Q5003_말리카족의 식량 창고 지붕,t,1208,SphereQuest,2,0,,79,f,f
+2101,Q5004_이니스테르 기념비,t,1209,SphereQuest,2,0,,79,f,f
+2102,Q5005_오페라 극장의 무대,t,1210,SphereQuest,2,0,,79,f,f
+2103,Q5006_베로에 지붕,t,1211,SphereQuest,2,0,,79,f,f
+2104,Q5007_자연이 만들어낸 하늘 구멍,t,1212,SphereQuest,2,0,,79,f,f
+2105,Q5008_하슬라 폭포의 시작지,t,1213,SphereQuest,2,0,,79,f,f
+2106,Q5009_강이 빚어낸 구름다리,t,1214,SphereQuest,2,0,,79,f,f
+2107,Q5010_베로에 정자,t,1215,SphereQuest,2,0,,79,f,f
+2108,Q5011_비취 강물이 다다르는 곳,t,1216,SphereQuest,2,0,,79,f,f
+2109,Q5012_버려진 훈련소의 막다른 길,t,1217,SphereQuest,2,0,,79,f,f
+2110,Q5013_동방 이슈바라 거대 봉분 위,t,1218,SphereQuest,2,0,,79,f,f
+2111,Q5014_테미의 흔적 솟아오른 큰 바위,t,1219,SphereQuest,2,0,,79,f,f
+2112,Q5015_눈사자 경기장 중계석,t,1220,SphereQuest,2,0,,79,f,f
+2113,Q5016_하슬라로 향하는 문 위,t,1221,SphereQuest,2,0,,79,f,f
+2114,Q5017_모란농장이 한눈에 들어오는 작은 언덕,t,1222,SphereQuest,2,0,,79,f,f
+2115,Q5018_농경지가 한눈에 들어오는 눈사자 바위 머리 위,t,1223,SphereQuest,2,0,,79,f,f
+2116,Q5019_용 머리뼈의 거대한 코뿔,t,1224,SphereQuest,2,0,,79,f,f
+2117,Q5020_미노타우르스 힘의 상징,t,1225,SphereQuest,2,0,,79,f,f
+2118,Q5021_하늘에 맞닿은 용 가슴뼈의 끝,t,1226,SphereQuest,2,0,,79,f,f
+2119,Q5022_마주보는 용 머리뼈,t,1227,SphereQuest,2,0,,79,f,f
+2120,두 왕관 지하 석상,t,590,SphereBubble,3,0,,15,f,f
+2121,Q5023_갈색비늘 에키혼 야영지의 망루,t,1228,SphereQuest,2,0,,79,f,f
+2122,Q5024_꺼지지 않는 푸른 불꽃,t,1229,SphereQuest,2,0,,79,f,f
+2123,Q5025_잊혀진 고대의 유적 ,t,1230,SphereQuest,2,0,,79,f,f
+2124,Q5026_라비스 마을이 내려다 보이는 봉우리,t,1231,SphereQuest,2,0,,79,f,f
+2125,Q5027_용의 꼬리뼈,t,1232,SphereQuest,2,0,,79,f,f
+2126,Q5028_용 가슴뼈의 버려진 제단,t,1233,SphereQuest,2,0,,79,f,f
+2127,Q5029_머리뼈 아래의 깊은 골짜기,t,1234,SphereQuest,2,0,,79,f,f
+2128,Q5030_어두운 기운의 탑,t,1235,SphereQuest,2,0,,79,f,f
+2129,Q5031_메마른 섬의 뿌리,t,1236,SphereQuest,2,0,,79,f,f
+2130,Q2992_수행자동굴,t,1237,SphereQuest,3,0,,52,f,f
+2131,Q5036_뼈의땅명예퀘스트시작,t,1238,SphereQuest,3,0,,5,f,f
+2132,하슬라 타워디펜스 힌트대사,t,591,SphereBubble,3,10000,,59,f,f
+2134,Q4965_진정한 은거자,t,1239,SphereQuest,3,0,,52,f,f
+2135,하슬라 동토래 두다드 힌트 대사,t,592,SphereBubble,3,10000,,59,f,f
+2136,파괴의 요람_석상 입구 결계 해제 (입구쪽),t,188,SphereSkill,3,3000,,80,f,f
+2137,파괴의 요람_석상 입구 결계 해제 (출구쪽),t,189,SphereSkill,3,3000,,80,f,f
+2138,신기루 섬 아키움 나무 안내,t,593,SphereBubble,3,0,,1,f,f
+2139,신기루 섬 날틀 안내,t,594,SphereBubble,3,0,,1,f,f
+2140,신기루 섬 빛나는 제작대 안내,t,595,SphereBubble,3,0,,1,f,f
+2141,신기루 섬 보관함 안내,t,596,SphereBubble,3,0,,1,f,f
+2142,Q774_아디쉬크샤 대사,t,597,SphereBubble,2,0,,14,f,t
+2143,제국선인의 대사,t,598,SphereBubble,3,10000,,59,f,f
+2145,온천 지역,t,191,SphereSkill,3,5000,온천의 따뜻한 기운으로 몸이 가벼워짐을 느낍니다.,14,f,t
+2146,가루다가 물 긷는 영역,t,192,SphereSkill,3,1000,,1,f,f
+2148,가우스 근처,t,1240,SphereQuest,3,0,,68,f,f
+2149,Q5055_야생 눈사자 길들이는 곳,t,1241,SphereQuest,3,0,,70,f,f
+2150,Q5056_야생 타레 길들이는 곳,t,1242,SphereQuest,3,0,,70,f,f
+2151,Q5057_야생마 길들이는 곳,t,1243,SphereQuest,3,0,,70,f,f
+2152,Q5058_야생 엘크 길들이는 곳,t,1244,SphereQuest,3,0,,70,f,f
+2153,Q5077_꽃병_바람그늘,t,1245,SphereQuest,3,0,,70,f,f
+2154,Q5077_꽃병_베어산채,t,1246,SphereQuest,3,0,,70,f,f
+2155,Q5077_꽃병_노송그루,t,1247,SphereQuest,3,0,,70,f,f
+2156,Q5078_꽃병_쇠모루마을,t,1248,SphereQuest,3,0,,70,f,f
+2157,Q5078_꽃병_철광산입구,t,1249,SphereQuest,3,0,,70,f,f
+2158,Q5078_꽃병_북데비강상류,t,1250,SphereQuest,3,0,,70,f,f
+2159,하우징사태처방,t,599,SphereBubble,1,0,,1,f,f
+2160,악몽의 품 (2번방) 진입시 발동,t,194,SphereSkill,3,3000,,1,f,f
+2161,비밀 수사관 아크만의 옷장사 흉내,t,600,SphereBubble,2,0,,17,f,f
+2163,Q5096_로이스터 경의 집,t,1252,SphereQuest,3,0,,85,f,f
+2164,Q5099_바위 언덕 내 빈 집,t,1253,SphereQuest,1,0,,85,f,f
+2165,바위언덕 마을 내 빈 집,t,1254,SphereQuest,3,0,,85,f,f
+2166,dummy,t,1255,SphereQuest,3,0,,1,f,f
+2167,Q5099_론반 공작,t,1256,SphereQuest,1,0,,85,f,f
+2169,"Q5102_안젤라의부탁""",t,104,SphereDoodadInteract,1,0,,85,f,f
+2170,새로운 골동품,t,105,SphereDoodadInteract,1,0,,85,f,f
+2171,Q5097_초승달 왕좌 서재,t,106,SphereDoodadInteract,1,0,,1,f,f
+2172,대무역시대!,t,1258,SphereQuest,3,0,,14,f,f
+2173,Q2576_올레 소환,t,195,SphereSkill,3,0,,4,f,f
+2174,Q5170_왕자의 귀환 시작 구영역,t,1259,SphereQuest,3,0,,1,f,f
+2175,Q5174_가족상봉,t,1260,SphereQuest,3,0,,79,f,f
+2176,Q5196_축복받은땅,t,1261,SphereQuest,3,0,,88,f,f
+2177,Q5181_말 애호가 수락,t,1262,SphereQuest,3,0,,87,f,f
+2178,Q5182_전차 수집가 시작 영역,t,1263,SphereQuest,3,0,,87,f,f
+2179,Q5138_범선 수집가 시작,t,1264,SphereQuest,3,0,,87,f,f
+2180,Q5191_날틀 수집가 시작,t,1265,SphereQuest,3,0,,87,f,f
+2181,Q5193_흔들인형 수집가 시작,t,1266,SphereQuest,3,0,,87,f,f
+2184,울구영던_이벤트1_고드프리,t,198,SphereSkill,3,60000,,89,f,f
+2185,Q5272_상단 행렬 도착지점,t,1267,SphereQuest,3,0,,12,f,f
+2186,울구영던_이벤트2_마리우스,t,199,SphereSkill,3,40000,,89,f,f
+2187,울구영던_컷씬,t,200,SphereSkill,3,30000,,89,f,f
+2188,울구영던_죽어가는병사의외침,t,201,SphereSkill,3,20000,,89,f,f
+2189,향락의 잔해물을 모아두는 곳,t,1268,SphereQuest,3,0,,49,f,f
+2190,Q5289_호랑이의 눈 뒤편,t,1269,SphereQuest,3,0,,85,f,f
+2191,Q5282_마하데비 으슥한 곳,t,1270,SphereQuest,3,0,,85,f,f
+2192,Q5271_말리카족 저주풀기,t,601,SphereBubble,3,0,,35,f,f
+2193,Q5278_퀘스트 수락 지점,t,1271,SphereQuest,3,0,,85,f,f
+2194,Q5095_이상한편지,t,1272,SphereQuest,3,0,,85,f,f
+2195,인물열전 습격자들,t,202,SphereSkill,2,5000,,85,t,f
+2196,Q5295_울쏘우 왕자 연출 대사,t,602,SphereBubble,2,0,,85,f,f
+2197,Q5290_잉그바드 왕자 연출 대사,t,603,SphereBubble,2,0,,85,f,f
+2198,Q5296_울쏘우 왕자 연출 대사,t,604,SphereBubble,2,0,,85,f,f
+2199,Q5291_잉그바드 왕자 연출 대사,t,605,SphereBubble,2,0,,85,f,f
+2200,q5320_퀘스트테스트용_완료,t,1273,SphereQuest,3,0,,1,f,f
+2201,Q5408_만족스러운 거래(자유도),t,1274,SphereQuest,3,0,,79,f,f
+2202,Q5409_만족스러운 거래 (카어 노르드),t,1275,SphereQuest,3,0,,79,f,f
+2203,Q5410_만족스러운 거래 (시차일드 부두),t,1276,SphereQuest,3,0,,79,f,f
+2204,나차쉬가르_7번방_함정발동,t,203,SphereSkill,3,3000,,86,f,f
+2205,큰 기계새 소환,t,204,SphereSkill,2,0,,85,f,f
+2206,Q5432_불멸의 사랑,t,1277,SphereQuest,3,0,,79,f,f
+2208,Q5442_001,t,1278,SphereQuest,3,0,,82,f,f
+2209,Q5442_002,t,1279,SphereQuest,3,0,,82,f,f
+2210,Q5442_003,t,1280,SphereQuest,3,0,,82,f,f
+2211,Q5439_길 잃은 침소,t,1281,SphereQuest,3,0,,79,f,f
+2212,Q5442_004,t,1282,SphereQuest,3,0,,82,f,f
+2213,Q5443_001,t,1283,SphereQuest,3,0,,82,f,f
+2214,Q5443_002,t,1284,SphereQuest,3,0,,82,f,f
+2215,Q5443_003,t,1285,SphereQuest,3,0,,82,f,f
+2216,Q5443_004,t,1286,SphereQuest,3,0,,82,f,f
+2217,Q5449_001,t,1287,SphereQuest,3,0,,82,f,f
+2218,Q5449_002,t,1288,SphereQuest,3,0,,82,f,f
+2219,Q5449_003,t,1289,SphereQuest,3,0,,82,f,f
+2220,Q5449_004,t,1290,SphereQuest,3,0,,82,f,f
+2224,Q5460_하슬라를지켜라퀘스트수락,t,1292,SphereQuest,3,0,,5,f,f
+2225,Q5466 ready info,t,606,SphereBubble,3,0,,84,f,f
+2226,Q5465 ready info,t,607,SphereBubble,3,0,,84,f,f
+2227,Q5464 ready info,t,608,SphereBubble,3,0,,84,f,f
+2228,Q5528_길 잃은 바다의 난파선,t,1293,SphereQuest,3,0,,79,f,f
+2229,Q5529_특별한 거래(비파 항구),t,1294,SphereQuest,3,0,,79,f,f
+2230,Q5530_특별한 거래(이즈나),t,1295,SphereQuest,3,0,,79,f,f
+2231,Q5533_왕궁 비밀 수호대 등장_폐가,t,206,SphereSkill,2,5000,,85,f,f
+2232,Q5691_아논 마라 동부 마지막 퀘스트 시작,t,1296,SphereQuest,3,0,,85,f,f
+2233,Q5499_호수히드라출현_미사용,t,207,SphereSkill,1,0,,85,f,f
+2234,Q5532_왕궁 비밀 수호대 등장_정원,t,208,SphereSkill,2,5000,,85,f,f
+2236,Q5730_운명의 이끌림 시작,t,11,SphereAcceptQuest,3,0,,97,f,f
+2237,Q5731_방어구 제작 퀘스트,t,1298,SphereQuest,3,0,,2,f,f
+2238,Q5745_방어구 제작 퀘스트,t,1299,SphereQuest,3,0,,17,f,f
+2239,Q5716_보름 가프리온 소환,t,209,SphereSkill,3,0,,97,f,f
+2240,춤추는 사냥신 대화,t,609,SphereBubble,3,0,,98,f,f
+2241,춤추는 사냥신 대화2,t,610,SphereBubble,3,0,,98,f,f
+2242,붉은 용의 죽음 대사,t,611,SphereBubble,3,0,,98,f,f
+2243,Q5499_호수히드라출현_미사용,t,1300,SphereQuest,3,0,,85,f,f
+2244,감옥에 침입한 자의 대가(서부),t,1,SphereBuff,3,0,,10,f,f
+2245,감옥에 침입한 자의 대가(동부),t,2,SphereBuff,3,0,,14,f,f
+2246,Q5721_다후타 교단 제사장 암브로스(연출 등장),t,210,SphereSkill,3,1000,,97,f,f
+2247,붉은 용 죽음 리샤르 연출 대사,t,612,SphereBubble,3,0,,68,f,f
+2248,물 속에서 발 묶기,t,211,SphereSkill,3,0,,102,f,f
+2249,광복절 이벤트 영역 1,t,1301,SphereQuest,3,1,,55,f,f
+2250,광복절 이벤트 영역 2,t,1302,SphereQuest,3,1,,55,f,f
+2251,Q5976_추적자의 자객으로_다나까 대어 더미,t,1303,SphereQuest,3,0,,106,f,f
+2252,Q5979_명예로운 전사의 첫걸음 ,t,1304,SphereQuest,3,0,,5,f,f
+2253,레이나와 글렌 대화,t,613,SphereBubble,3,600000,,5,f,f

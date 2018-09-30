@@ -1,0 +1,206 @@
+id,name,zone_key,group_id,closed,display_text,faction_id,zone_climate_id
+1,w_gweonid_forest_1,129,1,f,그위오니드 숲,148,2
+2,w_marianople_1,133,2,f,마리아노플,148,2
+3,e_steppe_belt_1,136,14,f,초원의 띠,,5
+4,e_ruins_of_hariharalaya_1,137,15,f,하리하랄라야의 폐허,,3
+5,e_lokas_checkers_1,138,16,f,로카의 장기말들,,2
+6,e_ynystere_1,139,17,f,이니스테르,,2
+7,w_garangdol_plains_1,140,3,f,가랑돌 평원,148,2
+8,e_sunrise_peninsula_1,141,4,f,동틀녘 반도,149,5
+9,w_solzreed_1,142,5,f,솔즈리드 반도,148,2
+10,w_white_forest_1,143,18,f,하얀 숲,148,2
+11,w_lilyut_meadow_1,144,6,f,릴리엇 구릉지,148,2
+12,w_the_carcass_1,145,19,f,뼈의 땅,,4
+13,e_rainbow_field_1,146,7,t,무지개 벌판,149,5
+14,w_cross_plains_1,148,20,f,십자별 평원,,2
+15,w_two_crowns_1,149,8,f,두 왕관,148,2
+16,w_cradle_of_genesis,150,21,t,태초의 요람,148,2
+17,w_golden_plains_1,151,22,f,황금 평원,,2
+18,e_mahadevi_1,153,9,f,마하데비,149,3
+19,w_bronze_rock_1,154,10,t,청동 바위산,148,4
+20,e_hasla_1,155,23,f,하슬라,,2
+21,e_falcony_plateau_1,156,11,f,매사냥 고원,149,2
+22,e_sunny_wilderness_1,157,13,t,불볕 황야,149,5
+23,e_tiger_spine_mountains_1,158,24,f,호랑이 등뼈 산맥,149,2
+24,e_ancient_forest,159,25,f,고대의 숲,149,2
+25,e_singing_land_1,160,12,f,노래의 땅,149,2
+26,w_hell_swamp_1,161,26,f,지옥 늪지대,,3
+27,w_long_sand_1,162,27,f,긴 모래톱,,3
+28,w_barren_land,164,28,t,황량한 땅,,0
+29,s_lost_island,172,30,f,길 잃은 바다,,2
+30,s_lostway_sea,173,30,f,길 잃은 바다,,2
+31,login,0,,f,,,0
+32,siegefield,2,,f,,,0
+33,npc_single,3,,f,,,0
+34,cbsuh_nonpc,4,,f,,,0
+35,old_w_garangdol,21,,f,,,0
+36,old_w_marianople,22,,f,,,0
+37,old_w_solzreed,23,,f,,,0
+38,old_w_two_crowns,24,,f,,,0
+39,old_w_cross_plains,25,,f,,,0
+40,old_w_white_forest,29,,f,,,0
+41,old_w_gold_moss,30,,f,,,0
+42,old_w_longsand,31,,f,,,0
+43,old_w_gold_plains,32,,f,,,0
+44,old_w_cradle_genesis,33,,f,,,0
+45,old_w_bronze_rock,34,,f,,,0
+46,old_w_hanuimaru,35,,f,,,0
+47,old_w_nameless_canyon,36,,f,,,0
+48,old_w_gweoniod_forest,37,,f,,,0
+49,old_w_lilyut_mea,38,,f,,,0
+50,old_w_carcass,39,,f,,,0
+51,old_w_hell_swamp,40,,f,,,0
+52,old_w_death_mt,41,,f,,,0
+53,old_w_twist_coast,42,,f,,,0
+54,old_w_tornado_mea,43,,f,,,0
+55,old_w_dark_moon,44,,f,,,0
+56,old_w_firefly_pen,45,,f,,,0
+57,old_w_frozen_top,46,,f,,,0
+58,old_w_mirror_kingdom,47,,f,,,0
+59,ocean_level,72,,f,,,0
+60,old_e_black_desert,73,,f,,,0
+61,old_e_laveda,74,,f,,,0
+62,old_e_desert_of_fossils,75,,f,,,0
+63,old_e_sunny_wilderness,76,,f,,,0
+64,old_e_volcanic_shore,77,,f,,,0
+65,old_e_sylvina_volcanic_region,78,,f,,,0
+66,old_e_hasla,79,,f,,,0
+67,old_e_ruins_of_hariharalaya,80,,f,,,0
+68,old_e_steppe_belt,81,,f,,,0
+69,old_e_rainbow_field,82,,f,,,0
+70,old_e_lokaloka_mt_south,83,,f,,,0
+71,old_e_lokaloka_mt_north,84,,f,,,0
+72,old_e_return_land,85,,f,,,0
+73,old_e_loca_checkers,86,,f,,,0
+74,old_e_night_velley,87,,f,,,0
+75,old_e_una_basin,88,,f,,,0
+76,old_e_ancient_forest,89,,f,,,0
+77,old_e_ynystere,90,,f,,,0
+78,old_e_sing_land,91,,f,,,0
+79,old_e_falcony_plateau,92,,f,,,0
+80,old_e_tiger_mt,93,,f,,,0
+81,old_e_mahadevi,94,,f,,,0
+82,old_e_sunrise_pen,95,,f,,,0
+83,old_e_white_island,96,,f,,,0
+84,old_w_ynys_island,97,,f,,,0
+85,old_w_wandering_island,98,,f,,,0
+86,origin,99,,f,,,0
+87,model_room,100,,f,,,0
+88,worldlevel8x8,101,,f,,,0
+89,world8x8_noone,102,,f,,,0
+90,module_object_update,104,,f,,,0
+91,module_hightmap_update,105,,f,,,0
+92,npc_brave,108,,f,,,0
+93,background_lod,117,,f,,,0
+94,main_world_0_0,118,,f,,,0
+95,main_world_1_0,119,,f,,,0
+96,main_world_2_0,120,,f,,,0
+97,main_world_0_1,121,,f,,,0
+98,main_world_1_1,122,,f,,,0
+99,main_world_2_1,123,,f,,,0
+100,main_world_0_2,124,,f,,,0
+101,main_world_1_2,125,,f,,,0
+102,main_world_2_2,126,,f,,,0
+103,main_world_rain_bow,127,,f,,,0
+104,main_world_tiger,128,,f,,,0
+105,main_world_two_crowns,130,,f,,,0
+106,main_world_3_0,131,,f,,,0
+107,main_world_bone,132,,f,,,0
+108,instance_silent_colossus,134,32,t,침묵의 거상,,0
+109,main_world_rough_ynystere,135,,f,,,0
+110,sound_test,147,,f,,,0
+111,3d_environment_object,152,,f,,,0
+112,test_w_gweonid_forest,163,,f,,,0
+113,machinima_w_solzreed,165,,f,,,0
+114,npc_test,166,,f,,,0
+115,3d_natural_object,167,,f,,,0
+116,machinima_w_gweonid_forest,168,,f,,,0
+117,machinima_w_garangdol_plains,169,,f,,,0
+118,machinima_w_bronze_rock,170,,f,,,0
+119,sumday_nonpc,171,,f,,,0
+120,gstar2010,174,,t,지스타2010,,0
+121,chls_model_room,175,,f,,,0
+122,s_zman_nonpc,176,,f,,,0
+123,loginbg2,177,,f,,,0
+124,w_solzreed_2,178,5,f,솔즈리드 반도,148,2
+125,w_solzreed_3,179,5,f,솔즈리드 반도,148,2
+126,s_silent_sea_7,180,36,f,고요한 바다,,2
+127,w_gweonid_forest_2,181,1,f,그위오니드 숲,148,2
+128,w_gweonid_forest_3,182,1,f,그위오니드 숲,148,2
+129,w_marianople_2,183,2,f,마리아노플,148,2
+130,e_falcony_plateau_2,184,11,f,매사냥 고원,149,2
+131,w_garangdol_plains_2,185,3,f,가랑돌 평원,148,2
+132,w_two_crowns_2,186,8,f,두 왕관,148,2
+133,e_rainbow_field_2,187,7,f,무지개 벌판,149,5
+134,e_rainbow_field_3,188,7,f,무지개 벌판,149,5
+135,e_rainbow_field_4,189,7,f,무지개 벌판,149,5
+136,e_sunny_wilderness_2,190,13,t,불볕 황야,149,5
+137,e_sunrise_peninsula_2,191,4,f,동틀녘 반도,149,5
+138,w_bronze_rock_2,192,10,t,청동 바위산,148,4
+139,w_bronze_rock_3,193,10,t,청동 바위산,148,4
+140,e_singing_land_2,194,12,f,노래의 땅,149,2
+141,w_lilyut_meadow_2,195,6,f,릴리엇 구릉지,148,2
+142,e_mahadevi_2,196,9,f,마하데비,149,3
+143,e_mahadevi_3,197,9,f,마하데비,149,3
+144,instance_training_camp,198,31,f,훈련 야영지,,0
+145,w_golden_plains_2,206,22,f,황금 평원,,2
+146,w_golden_plains_3,207,22,f,황금 평원,,2
+147,w_dark_side_of_the_moon,209,,t,,,0
+148,o_salpimari,204,33,t,살피마리,,6
+149,o_nuimari,205,34,t,누이마리,,6
+150,s_silent_sea_1,210,36,f,고요한 바다,,2
+151,s_silent_sea_2,211,36,f,고요한 바다,,2
+152,s_silent_sea_3,212,36,f,고요한 바다,,2
+153,s_silent_sea_4,213,36,f,고요한 바다,,2
+154,s_silent_sea_5,214,36,f,고요한 바다,,2
+155,s_silent_sea_6,215,36,f,고요한 바다,,2
+156,e_una_basin,216,,t,,,0
+157,s_nightmare_coast,217,,t,,,0
+158,s_golden_sea_1,218,39,f,황금 바다,,3
+159,s_golden_sea_2,219,39,f,황금 바다,,3
+160,s_crescent_sea,221,40,f,초승달 바다,,2
+161,lock_golden_sea,226,41,t,황금 바다 비공개 지역,,0
+162,lock_left_side_of_silent_sea,227,41,t,고요한 바다 서쪽 비공개 지역,,0
+163,lock_right_side_of_silent_sea_1,228,41,t,고요한 바다 동쪽 비공개 지역,,0
+164,lock_right_side_of_silent_sea_2,229,41,t,고요한 바다 동쪽 비공개 지역,,0
+165,lock_south_sunrise_peninsula,225,41,t,동틀녘 남쪽 비공개 지역,,0
+166,o_seonyeokmari,233,43,t,서녘마리,,7
+167,o_rest_land,234,44,t,안식의 땅,,7
+168,instance_burntcastle_armory,236,45,f,불탄 성 무기고,,0
+169,instance_hadir_farm,241,46,f,하디르의 농장,,0
+170,instance_sal_temple,240,47,f,서방 이슈바라 왕궁 지하,,0
+171,w_hell_swamp_2,248,26,f,지옥 늪지대,,3
+172,e_steppe_belt_2,247,14,f,초원의 띠,,5
+173,e_lokas_checkers_2,246,16,f,로카의 장기말들,,2
+174,e_ruins_of_hariharalaya_2,242,15,f,하리하랄라야의 폐허,,3
+175,e_ruins_of_hariharalaya_3,243,15,f,하리하랄라야의 폐허,,3
+176,w_long_sand_2,245,27,f,긴 모래톱,,3
+177,w_white_forest_2,244,18,f,하얀 숲,148,2
+178,e_singing_land_3,256,12,f,노래의 땅,149,2
+179,e_tiger_spine_mountains_2,258,24,f,호랑이 등뼈 산맥,149,2
+180,w_cross_plains_2,257,20,f,십자별 평원,,2
+181,e_ynystere_2,259,17,f,이니스테르,,2
+182,e_white_island,261,48,t,흰 포말의 섬,149,4
+183,arche_mall,260,49,f,신기루 섬,,0
+184,instance_cuttingwind_deadmine,262,50,f,칼바람폐광,,0
+185,instance_howling_abyss,265,51,f,울부짖는 구렁텅이,,
+186,instance_cradle_of_destruction,264,52,t,파괴의 요람,,
+187,w_the_carcass_2,273,19,f,뼈의 땅,,4
+188,e_hasla_2,272,23,f,하슬라,,2
+189,instance_violent_maelstrom,271,53,f,instance_violent_maelstrom,,0
+190,e_hasla_3,274,23,f,하슬라,,2
+191,o_abyss_gate,276,54,t,심연의 입구,,8
+192,instance_nachashgar,278,55,t,나차쉬가르,,
+193,o_land_of_sunlights,275,56,t,태양의 들녘,,8
+194,instance_howling_abyss_2,280,58,t,(고대)울부짖는 구렁텅이,,
+195,s_freedom_island,283,59,f,빛너울 바다,,2
+196,s_pirate_island,284,60,f,일렁이는 바다,,2
+197,o_shining_shore,282,61,t,빛나는 해안,,
+198,o_ruins_of_gold,281,57,t,황금의 폐허,,
+199,instance_immortal_isle,285,62,t,영원의 섬,,
+200,o_the_great_reeds,288,63,t,갈대무리 땅,,1
+201,s_silent_sea_8,289,36,f,고요한 바다,,2
+202,instance_immortal_isle_easy,290,64,f,[주말던전] 영원의 섬,,
+203,instance_the_liblary_1,9999,65,t,위대한 도서관 제1구역,,
+204,instance_nachashgar_easy,292,66,f,불안정한 나차쉬가르,,
+205,o_library_1,293,67,f,위대한 도서관,,

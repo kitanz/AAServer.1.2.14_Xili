@@ -1,0 +1,9 @@
+id,name
+1,pvp_kill_enemy
+2,pvp_kill_honor_war
+3,pvp_kill_siege
+4,pvp_kill_ally
+5,pvp_death_enemy
+6,pvp_death_honor_war
+7,pvp_death_siege
+8,pvp_death_ally

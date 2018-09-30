@@ -1,0 +1,11 @@
+id,name
+1,mail_attach_currency
+2,mail_fee_currency
+3,trade_user_currency
+4,auction_fee_currency
+5,auction_bid_currency
+6,bank_store_currency
+7,taxation_currency
+8,house_sale_currency
+9,skill_reset_currency
+10,ability_change_currency

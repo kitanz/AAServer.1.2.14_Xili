@@ -1,0 +1,18 @@
+id,formula
+2,0 * (100 / casting_tolerance) * (1 + (1 * floor(damage_percent / 10)))
+3,300 * (100 / casting_tolerance) * (0.42 * floor(damage_percent / 5))
+4,"min(40, 12 * (1 + (source_level - target_level) / 50) / (1 + stealth_level / 50))"
+5,"clamp(1 + (npc_level - pc_level) * 0.03, 0.5, 1) * range"
+6,0
+7,log(pc_level) * 3
+8,experience / 20
+9,experience * 4 / 100
+10,0.5
+11," if_negative(range - 1, 1, 1.05 + (min(range, 100)/100) )"
+12,"if_negative(range - 8, 0.8, 1)"
+13,(ab_level ^ 2) / 15 + 30
+14,"clamp(npc_size_avg, 0.1, 10.0) * 13.0 + 15.0"
+15,"(clamp(npc_size_avg, 0.1, 10.0) * 13.0 + 15.0) / 2.0"
+16,"clamp(npc_size_avg, 0.1, 10.0) * 5.0"
+17,"clamp(npc_size_avg, 0.1, 10.0) * 7.0"
+18,"clamp(npc_size_avg, 0.1, 10.0) * 10.0"

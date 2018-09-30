@@ -1,0 +1,7 @@
+id,start_siege_weekday,start_siege_hour,start_siege_min,siege_days,siege_hours,siege_mins,zone_group_id,pay_weekday,pay_hour,pay_min,declare_item_id,defense_ticket_id,offense_ticket_id,reinforce_defense_delay_mins,defense_merchant_id,offense_merchant_id,dominion_merchant_id,open_hour,open_duration_hours,start_auction_weekday,start_auction_hour,start_auction_min,start_declare_weekday,start_declare_hour,start_declare_min,start_warmup_weekday,start_warmup_hour,start_warmup_min,open_weekday,monument_doodad_id
+1,0,21,0,0,1,30,33,0,23,55,21134,21314,21318,20,12629,51,50,0,168,3,22,30,5,22,30,0,20,30,0,7229
+2,0,21,0,0,1,30,34,0,23,55,21130,21313,21317,20,12630,12633,12391,0,168,3,22,30,5,22,30,0,20,30,0,7230
+3,0,21,0,0,1,30,43,0,23,55,21136,21316,21320,20,12632,12634,12392,0,168,3,22,30,5,22,30,0,20,30,0,7232
+4,0,21,0,0,1,30,44,0,23,55,21135,21315,21319,20,12631,12635,12393,0,168,3,22,30,5,22,30,0,20,30,0,7231
+6,0,21,0,0,1,30,54,0,23,55,27744,28170,28171,20,13210,13211,13209,0,0,3,22,30,5,22,30,0,20,30,0,7233
+7,0,21,0,0,1,30,56,0,23,55,27745,28172,28173,20,13213,13214,13212,0,0,3,22,30,5,22,30,0,20,30,0,7234
